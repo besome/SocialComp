@@ -1,0 +1,51 @@
+serie,metrica,inclinacao_por_ano,ic95_lo,ic95_hi,p_regressao,spearman_rho,spearman_p,leitura
+global,1−JS,-0.0165,-0.025,-0.0077,0.013,-0.8333,0.0053,divergência
+global,cosseno,-0.0022,-0.0034,-0.0008,0.1772,-0.2333,0.5457,divergência fraca (só no bootstrap)
+global_sem_2017,1−JS,-0.0085,-0.0191,0.0021,0.0132,-0.7619,0.028,sem tendência clara
+global_sem_2017,cosseno,0.0003,-0.0013,0.0019,0.5359,0.0952,0.8225,sem tendência clara
+H1,1−JS,0.0029,-0.0076,0.0148,0.6111,0.0,1.0,sem tendência clara
+H1,cosseno,-0.0008,-0.0021,0.0007,0.1814,-0.35,0.3558,sem tendência clara
+H1_sem_2017,1−JS,0.0045,-0.0089,0.0191,0.5365,0.0714,0.8665,sem tendência clara
+H1_sem_2017,cosseno,-0.0007,-0.0022,0.001,0.3413,-0.2857,0.4927,sem tendência clara
+H2,1−JS,-0.0405,-0.0543,-0.0257,0.0087,-0.85,0.0037,divergência
+H2,cosseno,-0.0043,-0.0068,-0.0016,0.3414,0.0667,0.8647,divergência fraca (só no bootstrap)
+H2_sem_2017,1−JS,-0.0237,-0.0416,-0.005,0.0178,-0.7857,0.0208,divergência
+H2_sem_2017,cosseno,0.0027,-0.001,0.0064,0.1479,0.5238,0.1827,sem tendência clara
+so_exclusivas,1−JS,-0.0085,-0.018,0.0015,0.0299,-0.6,0.0876,sem tendência clara
+so_exclusivas,cosseno,0.0012,-0.0007,0.0032,0.2787,0.2333,0.5457,sem tendência clara
+traducao | original: global,1−JS,-0.0165,-0.025,-0.0077,0.013,-0.8333,0.0053,divergência
+traducao | original: global,cosseno,-0.0022,-0.0034,-0.0008,0.1772,-0.2333,0.5457,divergência fraca (só no bootstrap)
+traducao | original: global sem 2017,1−JS,-0.0085,-0.0191,0.0021,0.0132,-0.7619,0.028,sem tendência clara
+traducao | original: global sem 2017,cosseno,0.0003,-0.0013,0.0019,0.5359,0.0952,0.8225,sem tendência clara
+traducao | original: H1,1−JS,0.0029,-0.0076,0.0148,0.6111,0.0,1.0,sem tendência clara
+traducao | original: H1,cosseno,-0.0008,-0.0021,0.0007,0.1814,-0.35,0.3558,sem tendência clara
+traducao | original: H1 sem 2017,1−JS,0.0045,-0.0089,0.0191,0.5365,0.0714,0.8665,sem tendência clara
+traducao | original: H1 sem 2017,cosseno,-0.0007,-0.0022,0.001,0.3413,-0.2857,0.4927,sem tendência clara
+traducao | original: H2,1−JS,-0.0405,-0.0543,-0.0257,0.0087,-0.85,0.0037,divergência
+traducao | original: H2,cosseno,-0.0043,-0.0068,-0.0016,0.3414,0.0667,0.8647,divergência fraca (só no bootstrap)
+traducao | original: H2 sem 2017,1−JS,-0.0237,-0.0416,-0.005,0.0178,-0.7857,0.0208,divergência
+traducao | original: H2 sem 2017,cosseno,0.0027,-0.001,0.0064,0.1479,0.5238,0.1827,sem tendência clara
+traducao | original: só exclusivas,1−JS,-0.0085,-0.018,0.0015,0.0299,-0.6,0.0876,sem tendência clara
+traducao | original: só exclusivas,cosseno,0.0012,-0.0007,0.0032,0.2787,0.2333,0.5457,sem tendência clara
+traducao | original: H1 só exclusivas,1−JS,0.0094,-0.0032,0.0227,0.2504,0.45,0.2242,sem tendência clara
+traducao | original: H1 só exclusivas,cosseno,0.0031,0.0009,0.0052,0.0207,0.6833,0.0424,convergência
+traducao | original: H2 só exclusivas,1−JS,-0.0228,-0.0365,-0.0085,0.0119,-0.6833,0.0424,divergência
+traducao | original: H2 só exclusivas,cosseno,-0.0013,-0.0043,0.002,0.6936,0.2333,0.5457,sem tendência clara
+traducao | traduzida: global,1−JS,-0.0047,-0.0127,0.0028,0.6502,0.15,0.7001,sem tendência clara
+traducao | traduzida: global,cosseno,-0.0007,-0.0017,0.0004,0.5352,0.3167,0.4064,sem tendência clara
+traducao | traduzida: global sem 2017,1−JS,0.0112,0.0011,0.021,0.0584,0.6429,0.0856,convergência fraca (só no bootstrap)
+traducao | traduzida: global sem 2017,cosseno,0.0011,-0.0002,0.0024,0.0199,0.881,0.0039,sem tendência clara
+traducao | traduzida: H1,1−JS,0.0141,0.0048,0.0227,0.0188,0.8167,0.0072,convergência
+traducao | traduzida: H1,cosseno,0.0005,-0.0008,0.0018,0.3391,0.2833,0.46,sem tendência clara
+traducao | traduzida: H1 sem 2017,1−JS,0.0195,0.0077,0.0307,0.0047,0.881,0.0039,convergência
+traducao | traduzida: H1 sem 2017,cosseno,0.0006,-0.0009,0.0021,0.3732,0.2619,0.5309,sem tendência clara
+traducao | traduzida: H2,1−JS,-0.0347,-0.0512,-0.0185,0.1893,-0.2667,0.4879,divergência fraca (só no bootstrap)
+traducao | traduzida: H2,cosseno,-0.0018,-0.0037,0.0001,0.5785,0.3333,0.3807,sem tendência clara
+traducao | traduzida: H2 sem 2017,1−JS,0.0012,-0.021,0.0221,0.9427,0.0476,0.9108,sem tendência clara
+traducao | traduzida: H2 sem 2017,cosseno,0.0033,0.0008,0.0059,0.0242,0.9048,0.002,convergência
+traducao | traduzida: só exclusivas,1−JS,0.0036,-0.0061,0.0133,0.6691,0.1333,0.7324,sem tendência clara
+traducao | traduzida: só exclusivas,cosseno,0.0018,-0.0,0.0037,0.0264,0.8,0.0096,sem tendência clara
+traducao | traduzida: H1 só exclusivas,1−JS,0.022,0.0096,0.0348,0.0137,0.6833,0.0424,convergência
+traducao | traduzida: H1 só exclusivas,cosseno,0.0039,0.0016,0.0063,0.0018,0.8333,0.0053,convergência
+traducao | traduzida: H2 só exclusivas,1−JS,-0.0247,-0.0417,-0.0069,0.2599,-0.2667,0.4879,divergência fraca (só no bootstrap)
+traducao | traduzida: H2 só exclusivas,cosseno,0.0001,-0.0021,0.0025,0.9716,0.25,0.5165,sem tendência clara
