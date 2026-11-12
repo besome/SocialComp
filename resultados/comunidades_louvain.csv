@@ -1,10 +1,10 @@
-ano,n_comunidades,comunidades
-2017,2,Brasil + México + Espanha  |  EUA + Austrália + Japão
-2018,2,Brasil + México + Espanha + Japão  |  EUA + Austrália
-2019,2,Brasil + México + Espanha + Japão  |  EUA + Austrália
-2020,3,Brasil + México + Espanha  |  EUA + Austrália  |  Japão
-2021,2,Brasil + México + Espanha  |  EUA + Austrália + Japão
-2022,2,Brasil + México + Espanha  |  EUA + Austrália + Japão
-2023,2,Brasil + México + Espanha  |  EUA + Austrália + Japão
-2024,2,Brasil + México + Espanha  |  EUA + Austrália + Japão
-2025,2,Brasil + México + Espanha  |  EUA + Austrália + Japão
+ano,n_comunidades,comunidades,Q,Q_nulo,Q_nulo_p95,p
+2017,2,Brasil + México + Espanha + Austrália + Japão  |  EUA,0.0,0.09177599428889362,0.24936379347773238,0.9441117764471058
+2018,2,Brasil + Japão  |  EUA + México + Espanha + Austrália,0.09862205386465744,0.09370356526900414,0.2503642207872021,0.5968063872255489
+2019,3,Brasil + México + Espanha  |  EUA + Austrália  |  Japão,0.012274563023360135,0.08889178602668216,0.2492483758541036,0.7065868263473054
+2020,2,EUA + Brasil + México + Espanha + Austrália  |  Japão,-1.1102230246251565e-16,0.08462198975245937,0.182037882907418,0.9740518962075848
+2021,3,Brasil + México + Espanha  |  EUA + Austrália  |  Japão,0.0025154715123476556,0.09640076520865119,0.2506209456601849,0.7524950099800399
+2022,3,Brasil + México + Espanha  |  EUA + Austrália  |  Japão,0.007003750662997549,0.09201437595063999,0.25046834637723164,0.7145708582834331
+2023,3,Brasil + México + Espanha  |  EUA + Austrália  |  Japão,0.0059325231482889595,0.08982399304717655,0.2488727117293386,0.7045908183632734
+2024,2,EUA + Brasil + México + Espanha + Austrália  |  Japão,-2.220446049250313e-16,0.0841011591488399,0.18571343716433064,0.9960079840319361
+2025,2,EUA + Brasil + México + Espanha + Austrália  |  Japão,-2.220446049250313e-16,0.09005305166106899,0.24950183849093235,0.9960079840319361

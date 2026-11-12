@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# tabelas intermediárias regeneradas automaticamente (o resumo do MGDplus leva ~1 min; os escores parciais da
+# toxicidade só servem para retomar uma execução interrompida)
+dados/cache/
