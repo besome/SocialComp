@@ -17,7 +17,7 @@ PY=${PYTHON:-python}
 roda() {
     echo "==================== $1  ($(date +%H:%M:%S))"
     # "python -m nbconvert" (e não "jupyter nbconvert") garante que o kernel é o desse mesmo Python
-    "$PY" -m nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 "$1"
+    "$PY" -m nbconvert --execute --inplace --ExecutePreprocessor.timeout=-1 "$1"
 }
 
 ETAPAS=("$@")
