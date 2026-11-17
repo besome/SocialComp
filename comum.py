@@ -20,8 +20,21 @@ PASTA_RES = RAIZ / "resultados"
 PASTA_CACHE = RAIZ / "dados" / "cache"          # tabelas intermediárias (sem letras)
 
 # ---------------------------------------------------------------- países
-# os 6 países com letras (top 40 anual)
-PAISES = ["us", "br", "mx", "es", "au", "jp"]
+# os 9 países com letras (top 100 anual): 8 dos 10 maiores mercados da IFPI (sem China e Coreia do Sul) + México
+PAISES = ["us", "gb", "ca", "au", "de", "fr", "br", "mx", "jp"]
+TOP_N = 100          # o finalData.csv traz 120 por célula; as análises usam as 100 primeiras pelo score
+
+# idioma -> família (H2: distância linguística em 3 níveis)
+FAMILIA_LINGUA = {"en": "germânica", "de": "germânica", "fr": "românica", "pt": "românica", "es": "românica",
+                  "ja": "japônica"}
+
+
+def dist_ling(a, b):
+    """0 = mesmo idioma, 1 = mesma família, 2 = famílias diferentes (entre os mercados a e b)."""
+    la, lb = LINGUA_PAIS[a], LINGUA_PAIS[b]
+    if la == lb:
+        return 0
+    return 1 if FAMILIA_LINGUA.get(la) == FAMILIA_LINGUA.get(lb) else 2
 
 NOMES = {
     "ar": "Argentina", "at": "Áustria", "au": "Austrália", "be": "Bélgica", "br": "Brasil", "ca": "Canadá",
@@ -160,7 +173,7 @@ def carrega_letras(arq=None):
 
 
 def idioma_simples(i):
-    return i if i in ("en", "es", "pt", "ja", "ko") else "outro"
+    return i if i in ("en", "es", "pt", "ja", "fr", "de") else "outro"
 
 
 # ---------------------------------------------------------------- charts
@@ -228,3 +241,100 @@ def datas_lancamento():
     r = r[r["release_date"].astype(str).str.len() == 10]
     r["release_date"] = pd.to_datetime(r["release_date"], errors="coerce")
     return r.dropna().set_index("track_id")["release_date"], s.drop_duplicates("track_id").set_index("track_id")["explicit"]
+
+
+# ---------------------------------------------------------------- top 100 com colunas derivadas
+def _primeiro_artista(a):
+    """O finalData mistura separadores: ' | ' (charts de 4 semanas) e ', ' (chart diário de 2017)."""
+    return re.split(r"\s*\|\s*|,\s*", str(a))[0].strip().lower()
+
+
+def origem_artistas(h_global=0.80, min_solo=10, cache=True):
+    """País de origem de cada artista (pelo nome do artista principal, em minúsculas), estimado pelos charts.
+
+    Mesma regra do pipelineRedes, mas sobre os ~37 países dos charts de 4 semanas: origem = país onde o artista
+    mais aparece (contando só músicas solo quando ele tem >= min_solo entradas solo). Quem está espalhado por quase
+    todos os países (entropia normalizada >= h_global) recebe global = True. Colunas: origem, share, entropia, global.
+    """
+    arq = PASTA_CACHE / "origem_artistas.csv"
+    if cache and arq.exists():
+        return pd.read_csv(arq, index_col=0)
+    w = carrega_4semanas()
+    e = w[["cc", "week_end", "artists"]].dropna().copy()
+    e["solo"] = ~e["artists"].str.contains("|", regex=False)
+    e = e.assign(art=e["artists"].str.split(r"\s*\|\s*")).explode("art")
+    e["art"] = e["art"].str.strip().str.lower()
+    todas = e.groupby(["art", "cc"]).size().unstack(fill_value=0)
+    solo = e[e["solo"]].groupby(["art", "cc"]).size().unstack(fill_value=0).reindex(columns=todas.columns, fill_value=0)
+    usa_solo = solo.index[solo.sum(axis=1) >= min_solo]
+    cont = todas.copy()
+    cont.loc[usa_solo] = solo.loc[usa_solo]
+    p = cont.div(cont.sum(axis=1), axis=0)
+    H = -(p * np.log(p.where(p > 0, 1))).sum(axis=1) / np.log(cont.shape[1])
+    r = pd.DataFrame({"origem": cont.idxmax(axis=1), "share": p.max(axis=1), "entropia": H})
+    r["global"] = r["entropia"] >= h_global
+    if cache:
+        PASTA_CACHE.mkdir(parents=True, exist_ok=True)
+        r.to_csv(arq)
+    return r
+
+
+def primeira_aparicao(cache=True):
+    """Primeira data em que cada música (chave) aparece em QUALQUER chart: diário (69 mercados, 2017-01 a 2022-03)
+    ou de 4 semanas (~37 países, 2018-05 em diante)."""
+    arq = PASTA_CACHE / "primeira_aparicao.csv"
+    if cache and arq.exists():
+        return pd.read_csv(arq, index_col=0, parse_dates=["primeira"])["primeira"]
+    d = carrega_diario_entradas().groupby("chave")["primeira"].min()
+    w = carrega_4semanas().groupby("chave")["week_end"].min()
+    r = pd.concat([d, w], axis=1).min(axis=1).rename("primeira")
+    if cache:
+        PASTA_CACHE.mkdir(parents=True, exist_ok=True)
+        r.to_frame().to_csv(arq)
+    return r
+
+
+def carrega_top(n=TOP_N, arq=None, derivadas=True):
+    """finalData.csv -> top n por (país, ano), uma linha por (país, ano, música), com as colunas derivadas:
+
+    - pos: posição pelo score (pontos) dentro da célula
+    - peso_atencao: streams da música / streams da célula (soma 1 em cada célula)
+    - repetida: a música estava no top n do mesmo país no ano anterior (NaN no 1º ano)
+    - estreia: 1º ano da música no top n do país (NaN no 1º ano, em que não dá para saber)
+    - compartilhada: está no top n de 2+ países no mesmo ano
+    - catalogo: 1ª aparição em qualquer chart 2+ anos antes (NaN antes de 2019: os charts começam em 2017)
+    - artista, origem, global_artista, domestico: origem do artista principal (ver origem_artistas)
+    """
+    d = carrega_letras(arq)
+    d = d[d["cc"].isin(PAISES) & (d["letra_limpa"].str.len() >= 30)].copy()
+    d = (d.sort_values("pontos", ascending=False)
+          .drop_duplicates(["cc", "year", "chave"])                 # mesma música 2x na mesma célula
+          .sort_values(["cc", "year", "pontos"], ascending=[True, True, False]))
+    d["pos"] = d.groupby(["cc", "year"]).cumcount() + 1
+    d = d[d["pos"] <= n].copy()
+    d["idioma"] = d["idioma"].map(idioma_simples)
+    d["peso_atencao"] = d["streams"] / d.groupby(["cc", "year"])["streams"].transform("sum")
+    if not derivadas:
+        return d.reset_index(drop=True)
+
+    ano0 = d["year"].min()
+    ant = set(zip(d["cc"], d["year"] + 1, d["chave"]))
+    d["repetida"] = [float((c, y, k) in ant) for c, y, k in zip(d["cc"], d["year"], d["chave"])]
+    d.loc[d["year"] == ano0, "repetida"] = np.nan
+    primeiro = d.groupby(["cc", "chave"])["year"].transform("min")
+    d["estreia"] = (d["year"] == primeiro).astype(float)
+    d.loc[d["year"] == ano0, "estreia"] = np.nan
+    d["compartilhada"] = d.groupby(["year", "chave"])["cc"].transform("nunique") >= 2
+
+    prim = primeira_aparicao()
+    anos = d["year"] - d["chave"].map(prim).dt.year
+    d["catalogo"] = (anos >= 2).astype(float)
+    d.loc[d["year"] < ano0 + 2, "catalogo"] = np.nan
+
+    org = origem_artistas()
+    d["artista"] = d["artists"].map(_primeiro_artista)
+    d["origem"] = d["artista"].map(org["origem"])
+    d["global_artista"] = d["artista"].map(org["global"]).fillna(False).astype(bool)
+    d["domestico"] = (d["origem"] == d["cc"]).astype(float)
+    d.loc[d["origem"].isna(), "domestico"] = np.nan
+    return d.reset_index(drop=True)
