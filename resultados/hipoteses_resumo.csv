@@ -1,0 +1,8 @@
+hipótese,resultado
+H1 forma,Brasil lingua_local: sobe; Brasil domestico: sobe; Alemanha lingua_local: estável; Alemanha domestico: estável; França lingua_local: sobe; França domestico: sobe; Japão lingua_local: estável; Japão domestico: estável; México lingua_local: sobe; México domestico: sobe
+"H1 conteúdo (H1b, estreias domésticas)","-0.0006/ano [-0.0016, +0.0007], p = 0.399 -> sem tendência"
+"H1 conteúdo (H1b, todas)","-0.0080/ano [-0.0099, -0.0057], p = 0.004 -> divergência"
+H1 robustez,5 de 15 variantes com inclinação > 0; 2 com convergência
+H2 (traduzida): famílias diferentes,β = -0.1826 (p_QAP = 0.001); interação com o tempo β = -0.01125 (p_QAP = 0.000)
+H2 (original): famílias diferentes,β = -0.2130 (p_QAP = 0.000); interação com o tempo β = -0.01267 (p_QAP = 0.000)
+H3,"η² estilo − tema = +0.00271/ano [-0.00147, +0.00545]"
