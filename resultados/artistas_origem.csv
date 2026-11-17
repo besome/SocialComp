@@ -1,1003 +1,2309 @@
 ids,nome,cc,bloco,share,base
-00XhexlJEXQstHimpZN910,Brytiago,mx,hispano,0.5,todas
-00me4Ke1LsvMxt5kydlMyU,Cosculluela,es,hispano,0.7647058823529411,todas
-00vsUIEaNHw6qoQnh8DQM2,EL IMA,es,hispano,0.8846153846153846,todas
-027TpXKGwdXP7iwbjUSpV8,The Walters,us,anglo,0.8378378378378378,solo
+007FXgr0jLBJxhPJjacXQH,Eric Land,br,luso,1.0,todas
+00CMSJdbf36zOzKB3z8JrR,Victor Cardenas,mx,hispano,0.5909090909090909,todas
+00FQb4jTyendYWaN8pK0wa,Lana Del Rey,us,anglo,0.32432432432432434,todas
+00XhexlJEXQstHimpZN910,Brytiago,mx,hispano,0.9655172413793104,todas
+00me4Ke1LsvMxt5kydlMyU,Cosculluela,mx,hispano,1.0,todas
+00x1fYSGhdqScXBRpSj3DW,Olivia Dean,gb,anglo,0.2947976878612717,solo
+013VYwIVErHijBfHJFP1Ql,Xand Avião,br,luso,1.0,todas
+027TpXKGwdXP7iwbjUSpV8,The Walters,us,anglo,0.5254237288135594,solo
 02A3cEvlLLCbIMVDrK2GHV,Starley,jp,japonês,1.0,todas
+02kJSzxNuaWGqwubyUba0Z,G-Eazy,ca,anglo,0.7272727272727273,todas
+02qlwM8fpqep7vX8KKEFmK,LA Vision,de,germânico,1.0,todas
+037wzy2YR7LOBvRI9uV5UX,PSK,fr,franco,1.0,todas
+03E7w8NrBr4lNCK33TQyil,Keyakizaka46,jp,japonês,1.0,solo
+03PnQHlbH5nDDVX3hNg628,Dj GM,br,luso,1.0,todas
 03Yb3iBy9GCifXiATEFcit,Pepe Aguilar,mx,hispano,1.0,todas
+03bmDyr8klGV17DKQnPZVA,Joshi Mizu,de,germânico,1.0,todas
+03d2mJXSMtuPI0nIvLnhoS,Zoe Wees,de,germânico,0.6666666666666666,solo
+03evdtQP9vcuqdDU6hOluN,Nick Nash,br,luso,1.0,todas
+03k7SIn9vVGUuVvR6JhAW9,Drumla,de,germânico,1.0,todas
+048LktY5zMnakWq7PTtFrz,CKay,fr,franco,0.390625,solo
+04AIS3XqFcq2k8w3Tx4AmU,Siboy,fr,franco,1.0,todas
+04HqRx07Bv9gh7rsrMTqs7,Miss Li,de,germânico,1.0,todas
 04NtfTeul9H9B41tPvF3MG,Dj Win,br,luso,1.0,todas
-04QHNiih9ZesPvals6II1h,MC Marks,br,luso,1.0,todas
-04gDigrS5kc9YWfZHwBETP,Maroon 5,au,global,0.2818181818181818,solo
+04QHNiih9ZesPvals6II1h,MC Marks,br,luso,1.0,solo
+04ei5kNgmDuNAydFhhIHnD,Landon Cube,us,anglo,0.7333333333333333,todas
+04gDigrS5kc9YWfZHwBETP,Maroon 5,au,global,0.1949685534591195,solo
 04mzq9GH08zOBRdV2gzmXm,El Padrinito Toys,mx,hispano,1.0,todas
-06HL4z0CvFAxyc27GXpf02,Taylor Swift,au,global,0.3584905660377358,solo
+054k3bx4tpjx1tfypvq3eq,Bobby Vandamme,de,germânico,1.0,todas
+05hirnMeVIzCrcUxbrysZU,Hatik,fr,franco,1.0,solo
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,au,global,0.25988023952095807,solo
+06PAmgIjWsh7qNnmikUYl0,Stard Ova,de,germânico,1.0,todas
+06VwNCd4PPAxBuxheaf5bz,DJ Robin,de,germânico,1.0,todas
 06cd30Cv9US973Ika84gDw,Lucas Lucco,br,luso,1.0,todas
+06e0gXtUpvgPUZFrR2ywsg,DJ Dozabri,br,luso,1.0,todas
 06lnOkY99sXVW44Y0M4BDP,Vitão,br,luso,1.0,solo
-07PdYoE4jVRF6Ut40GgVSP,Cartel De Santa,mx,hispano,1.0,todas
-07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,mx,hispano,0.5309734513274337,solo
-07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,es,hispano,0.5161290322580645,todas
+06nvjg4wBANK6DCHjqtPNd,Mahmood,fr,franco,0.7142857142857143,todas
+074tUrKhXVuH4s5Mfg0zWz,CHICO CARLITO,jp,japonês,1.0,todas
+07CimrZi5vs9iEao47TNQ4,Flowdan,gb,anglo,1.0,todas
+07FfkbljNIdl45Ijlh1aXS,RHODES,de,germânico,1.0,todas
+07PdYoE4jVRF6Ut40GgVSP,Cartel De Santa,mx,hispano,1.0,solo
+07SFzTMeYf5P8Rd32a9Zzw,,de,germânico,1.0,todas
+07UyhXWf7aDbvCZKhTKCpr,Pierre Garnier,fr,franco,1.0,solo
+07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,mx,hispano,1.0,solo
+07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,de,germânico,0.3068181818181818,solo
+07h4CCFmlXkwx0g4PL5Uuh,Guy2Bezbar,fr,franco,1.0,solo
+07ox80BTdnwoNNcQT5IvBP,DJ Miller Oficial,br,luso,1.0,todas
 07qgzS86XBNsyrY6MAVDAc,Sodré,br,luso,1.0,todas
-08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,au,anglo,0.5760869565217391,solo
-08GfvCW09pv2QP4y9sle2a,Sam Barber,au,anglo,0.5555555555555556,todas
-08Ld63UgKrJ0nZnCkzHtzc,Project Pat,us,anglo,0.6388888888888888,todas
+0860MVRZC3Llgf1mFvnd1R,NESS,de,germânico,1.0,todas
+08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,gb,anglo,0.4134969325153374,solo
+08GfvCW09pv2QP4y9sle2a,Sam Barber,au,anglo,0.30612244897959184,todas
+08Ld63UgKrJ0nZnCkzHtzc,Project Pat,ca,anglo,0.359375,todas
+08ao8gzTHBtNf5Laf9jjwR,King Khalil,de,germânico,1.0,todas
+08lN7bm4Etec8ETFxaTUmq,Nogizaka46,jp,japonês,1.0,solo
 08zSkHjCY3ypH4gdBVHWgO,BUDAH,br,luso,1.0,todas
+09E5z6upwkmwTKX8LGQgMo,Yaro,fr,franco,1.0,todas
 09EYYUcfEDOvj3D5f45L99,MC Ingryd,br,luso,1.0,todas
 09U6hmCerKcIJrixubiBjm,Pineapple StormTv,br,luso,1.0,todas
-09ryxLeU3mzmubZtcyDGdA,David Marley,es,hispano,1.0,todas
-0AqlFI0tz2DsEoJlKSIiT9,Emilia,es,hispano,1.0,todas
+09agIJMxCD2k87ys9Al0f0,VIZE,de,germânico,0.5454545454545454,solo
+09bMYbg60r42iQsG8afMnA,MC Hariel,br,luso,1.0,todas
+09xj0S68Y1OU1vHMCZAIvz,Café Tacvba,mx,hispano,1.0,solo
+0A0FS04o6zMoto8OKPsDwY,YG,us,anglo,0.38,todas
+0A6OfD8GWLEGjoudKJqadn,Xiara,de,germânico,1.0,todas
+0AY6tq934rmw7zSFRl6e6S,Nueva H,mx,hispano,1.0,todas
 0AspLZGQkP38yddNoD0pLn,Mario Bautista,mx,hispano,1.0,todas
 0B1ce3uNrzkdm76NXI4mhX,Tani Yuuki,jp,japonês,1.0,solo
 0BHm7qbh3ENxvXzkQAG7MP,Mari Fernandez,br,luso,1.0,todas
-0BqURncJM5B1BBu7UM51eq,Guaynaa,mx,hispano,0.7058823529411765,solo
-0C0XlULifJtAgn6ZNCW2eu,The Killers,au,anglo,0.5904255319148937,solo
-0CVOcYvRcSvOXyuR4YGKaC,Dani Fernández,es,hispano,1.0,solo
+0BJ2EjOqcfgFvlZXNKrNbE,Saja Boys,au,global,0.20481927710843373,todas
+0BKx4UjPvXVGY15u0xFbbi,,gb,anglo,1.0,todas
+0BqURncJM5B1BBu7UM51eq,Guaynaa,mx,hispano,1.0,solo
+0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,ca,anglo,0.5,todas
+0By75sLZQ06mWyzNiSdLUB,Menor,br,luso,1.0,todas
+0C0XlULifJtAgn6ZNCW2eu,The Killers,au,anglo,0.2624113475177305,solo
+0C1YfsZSxVHgL0Z8bngOTM,Dr. Yaro,fr,franco,1.0,solo
+0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,au,global,0.15625,solo
+0CdnnCbbKD4oIzBmxi2o7r,Manu,br,luso,1.0,todas
+0ChjBYedhZTQnWZWQYg15U,Bryan Martin,ca,anglo,0.6296296296296297,solo
+0Cp8WN4V8Tu4QJQwCN5Md4,BENEE,au,anglo,1.0,solo
 0CrGLmfVKzk9rAyiNb91ft,Diego & Arnaldo,br,luso,1.0,solo
+0Cs47vvRsPgEfliBU9KDiB,D.O.D,gb,anglo,0.6904761904761905,todas
 0DjAjUeZwSixK0dRwplBXb,Alta Consigna,mx,hispano,1.0,solo
-0EmeFodog0BfCgMzAIvKQp,Shakira,es,hispano,0.5,todas
+0Dvx6p8JDyzeOPGmaCIH1L,RAF Camora,de,germânico,1.0,todas
+0EmeFodog0BfCgMzAIvKQp,Shakira,mx,hispano,0.4791666666666667,todas
+0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,us,anglo,0.4423076923076923,todas
+0FMBXfGasuAjdpsCs7zgju,Traia Véia,br,luso,1.0,todas
+0Fb9qTWnjsB90xH3zWr4oa,Kareen Lomax,gb,anglo,0.7,todas
+0FnDCrmcQT8qz5TEsZIYw5,Awich,jp,japonês,1.0,todas
 0FvHxb8a4I0A2i8jKCsFei,Oscar Ortiz,mx,hispano,0.9090909090909091,todas
-0FwnPHExlRRxEZPLAi5tmG,JC Reyes,es,hispano,1.0,todas
-0GM7qgcRCORpGnfcN2tCiB,Tainy,mx,hispano,0.5535714285714286,todas
-0GgY7hjMoGDsX8ZDe2mwds,Soolking,es,hispano,1.0,todas
-0H39MdGGX6dbnnQPt6NQkZ,SAINt JHN,au,global,0.3076923076923077,todas
+0GInfEJXl2kGPhSsVqEqXh,Morgan Seatree,gb,anglo,0.8181818181818182,todas
+0GM7qgcRCORpGnfcN2tCiB,Tainy,mx,hispano,0.8125,todas
+0GOx72r5AAEKRGQFn3xqXK,GIMS,fr,franco,0.948051948051948,solo
+0GgY7hjMoGDsX8ZDe2mwds,Soolking,fr,franco,0.9714285714285714,solo
+0GpuSge5ffZ053NhXxgQkV,Cardenales De Nuevo León,mx,hispano,1.0,solo
+0H39MdGGX6dbnnQPt6NQkZ,SAINt JHN,ca,global,0.19230769230769232,todas
 0HFoOA61ShFCVKyKUPoN6B,Silvanno Salles,br,luso,1.0,todas
-0IEzMvarfVycBJAXjjEZOL,La Pantera,es,hispano,0.9558823529411765,todas
+0HSc7yUdNSosxRb2UJnXlz,Namika,de,germânico,1.0,todas
+0HkcYmcjrBR3SCw9Ld5VZk,Calboy,us,anglo,0.5666666666666667,solo
+0HxX6imltnNXJyQhu4nsiO,LF SYSTEM,gb,anglo,0.7352941176470589,solo
+0IVBT8qQNwvHLzOJL6kGpE,Oriente,br,luso,1.0,todas
 0IhzJFf4QBEz0ifqLwScKV,Dj GBR,br,luso,1.0,todas
 0Il5vC8lqunSFNav4mMLxU,Natanzinho Lima,br,luso,1.0,todas
+0IoWUuXfqpkfpxBRzthHU4,Codiciado,mx,hispano,1.0,todas
 0J7U24vlOOIeMpuaO6Q85A,LP,mx,hispano,1.0,solo
+0JBdTCGs111JKKYfLqOEBa,Shirin David,de,germânico,1.0,solo
 0JRPF8WIKUtSO2IUYfrcuh,Kaique e Felipe,br,luso,1.0,todas
+0JidbbbZv5SFBEwuc4dREP,Slim Beat,br,luso,1.0,todas
 0JjPiLQNgAFaEkwoy56B1C,L7NNON,br,luso,1.0,todas
-0KKUc4amZyvswV2YL6WTar,Mariah Angeliq,mx,hispano,0.6206896551724138,todas
-0KPX4Ucy9dk82uj4GpKesn,Dalex,mx,hispano,0.6027397260273972,todas
-0L1f9i3L3fkMNENljDOsjG,Rocco Hunt,es,hispano,1.0,todas
-0MInKJqZscEeNc5K3K0mkE,Simone & Simaria,br,luso,1.0,todas
-0NGAZxHanS9e0iNHpR8f2W,Alok,br,luso,1.0,todas
+0KKUc4amZyvswV2YL6WTar,Mariah Angeliq,mx,hispano,0.6428571428571429,todas
+0KPX4Ucy9dk82uj4GpKesn,Dalex,mx,hispano,1.0,todas
+0KcbRunfjZHfwEnEgd1Dy6,Murillo e LT no Beat,br,luso,1.0,todas
+0L1f9i3L3fkMNENljDOsjG,Rocco Hunt,fr,franco,1.0,todas
+0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,au,anglo,0.36774193548387096,solo
+0LKAV3zJ8a8AIGnyc5OvfB,SDM,fr,franco,1.0,solo
+0LOK81e9H5lr61HlGGHqwA,XG,jp,japonês,1.0,todas
+0LnhY2fzptb0QEs5Q5gM7S,Laylow,fr,franco,1.0,todas
+0LyOADBjj28cbvJWTXUEGA,Loren Allred,gb,anglo,1.0,solo
+0M2CO5ijP35MDhNwvpgxTV,sped up nightcore,us,anglo,0.2857142857142857,todas
+0M42FTSaBb8W0laID5CR0U,EO,gb,anglo,0.9411764705882353,todas
+0MInKJqZscEeNc5K3K0mkE,Simone & Simaria,br,luso,1.0,solo
+0MlMFTEEEk0uSwI4hYSxrq,MC Fahah,br,luso,1.0,todas
+0MoaBi6dSquXp6rrlqlF8R,Buscabulla,mx,hispano,0.7333333333333333,todas
+0NB5wv4kn6A919CLHUKRmk,DJ Ws da Igrejinha,br,luso,1.0,todas
+0NGAZxHanS9e0iNHpR8f2W,Alok,br,luso,1.0,solo
+0NIIxcxNHmOoyBx03SfTCD,Tinashe,au,global,0.18947368421052632,todas
+0NIPkIjTV8mB795yEIiPYL,Wallows,us,anglo,0.5357142857142857,todas
 0NhKCHTPG7Sz62S3zxV1Cf,Ecca Vandal,au,anglo,1.0,todas
 0NiaKn55OzJswiYevvlKfz,Raí Saia Rodada,br,luso,1.0,solo
-0NlNru2YcUz6RbnpYGQz26,Clave Especial,mx,hispano,1.0,todas
+0NlNru2YcUz6RbnpYGQz26,Clave Especial,mx,hispano,0.9375,todas
+0NsJZ5PMjqghGDuMzY7CuT,Marcos & Belutti,br,luso,1.0,todas
+0Ntl0oWMPWfBOoi9Qcr9ht,Vitaa,fr,franco,1.0,todas
 0O0hxUrO2PKxZknken3R24,Suchmos,jp,japonês,1.0,todas
+0OROVBEZCocg0FcgJpyBse,Alex Sensation,mx,hispano,1.0,todas
 0OhiQFSqbnnmB52NWEpsO5,Mi Banda El Mexicano,mx,hispano,1.0,solo
+0Otd1ReHJtVAzwAuRj09Zg,HITMAKER,br,luso,1.0,todas
+0PCCGZ0wGLizHt2KZ7hhA2,Artemas,de,global,0.189873417721519,solo
+0PFtn5NtBbbUNbU9EAmIWF,TOTO,au,anglo,0.39823008849557523,solo
 0PMk31f9Log4ixwUUY40p6,Malibu,br,luso,1.0,todas
-0Q8NcsJwoCbZOHHW63su5S,Mora,es,hispano,1.0,solo
-0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,jp,japonês,0.875,todas
+0PcU18DNfkn3pmbjy5yMFz,Genezio,fr,franco,1.0,todas
+0PrhwIWbqYFYyY2ZrkIWgI,Adriel Favela,mx,hispano,1.0,todas
+0Q8NcsJwoCbZOHHW63su5S,Mora,mx,hispano,0.9753086419753086,todas
+0QDtEwBuAbylERTOT4PntE,Ribb,br,luso,1.0,todas
+0QHGCPmM4UgeNvrNPntSlu,Cynthia Luz,br,luso,1.0,todas
+0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,ca,global,0.21794871794871795,todas
+0QTxqtxb1Ynangd0fpm3PM,,br,luso,1.0,todas
 0QVJH6vaMDapyORDypL5hS,CVSTRO,br,luso,1.0,todas
 0QZqdhoRQkn1VphAa5eX8h,10-FEET,jp,japonês,1.0,solo
-0QrUbsrL5imqntAfDl8i7q,Fred De Palma,es,hispano,1.0,todas
+0RMJOzHDhAKY1o2j0W0vxY,EJAE,ca,global,0.17669172932330826,todas
+0RPzmE1iY76tx1eBBXFyYn,DJ Ivis,br,luso,1.0,todas
+0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,de,germânico,0.7647058823529411,solo
 0SmgVe3giVHaJjGmIz8xA4,Yoss Bones,mx,hispano,1.0,todas
-0TnOYISbd1XYRBk9myaseg,Pitbull,es,hispano,0.85,todas
+0SwO7SWeDHJijQ3XNS7xEE,MGMT,us,anglo,0.625,todas
+0T8Ix53aIN4F7aEKj4EnKy,Jasiel Nuñez,mx,hispano,0.864406779661017,todas
+0TImkz4nPqjegtVSMZnMRq,TLC,au,anglo,0.47368421052631576,solo
+0TKFPt9w0AAEnhB9bd0pLy,LUM!X,de,germânico,0.7605633802816901,todas
+0TfWqqSFcyuhcNnp5oL83k,MC Cothiê,br,luso,1.0,todas
+0TnOYISbd1XYRBk9myaseg,Pitbull,de,germânico,0.33695652173913043,todas
+0TvvDswOgvPbgSPK2RDf62,wifiskeleton,us,anglo,0.43478260869565216,todas
+0U3b0BjITtQHwjwBVtiGcO,DMNDS,de,germânico,0.5,todas
 0U5RYP2HMdGv2GhicLhkOI,Neto Peña,mx,hispano,1.0,todas
+0U7ti3mwGrBNlKNE4YlbfT,Sierra Kidd,de,germânico,1.0,todas
 0UWZUmn7sybxMCqrw9tGa7,Juanes,mx,hispano,1.0,todas
 0UZ1nu3kcdNlCoiKRjmSSY,Peking Duk,au,anglo,1.0,solo
 0UbJJayomun8CvZKCPH9j3,Luíza & Maurílio,br,luso,1.0,todas
+0Upxnyh9nIUNSOmNE8WF4R,BYOR,de,germânico,0.5135135135135135,todas
 0V208yTQ5OGOUBZuszu6Fn,fhop music,br,luso,1.0,todas
-0VRj0yCOv2FXJNP47XQnx5,Quavo,us,anglo,0.375,todas
-0WOxhx4hikIsyF3CRPLC8W,Famous Dex,us,anglo,0.7142857142857143,solo
-0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,au,anglo,1.0,todas
-0XeEobZplHxzM9QzFQWLiR,Eslabon Armado,mx,hispano,0.39473684210526316,todas
+0VQRHmzky5fo3E5LZB0x3e,Cyclope Beatz,br,luso,1.0,todas
+0VRj0yCOv2FXJNP47XQnx5,Quavo,au,global,0.21808510638297873,todas
+0VVKg6krYM45eGuevSlcRk,Lina Maly,de,germânico,1.0,todas
+0VZrPa7mWAYXH4CwmYk8Km,Kidd Keo,mx,hispano,1.0,todas
+0VlrorDSkEbLK1D6VvMgd2,Rubi,de,germânico,1.0,todas
+0WK3H9OErSn5zKOkOV5egm,,ca,anglo,1.0,todas
+0WOxhx4hikIsyF3CRPLC8W,Famous Dex,us,anglo,0.43478260869565216,solo
+0WvTL8PecsD3VxRGuHdSxj,Galdino,br,luso,1.0,todas
+0Wwji82sLA0Hcvtuak3omb,AUDREY NUNA,ca,global,0.1702127659574468,todas
+0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,gb,anglo,0.35714285714285715,solo
+0XNa1vTidXlvJ2gHSsRi4A,Franz Ferdinand,gb,anglo,0.7878787878787878,solo
+0XRkZikEumDTaGGE9mW8HA,2 Engel & Charlie,de,germânico,1.0,todas
+0XeEobZplHxzM9QzFQWLiR,Eslabon Armado,mx,hispano,1.0,solo
 0XwVARXT135rw8lyw1EeWP,Christian Nodal,mx,hispano,1.0,solo
-0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,us,anglo,0.4840989399293286,solo
-0Y6dVaC9DZtPNH4591M42W,TV Girl,us,anglo,1.0,solo
-0Yg29FX1M4ayqjXs0ttZFq,Young Cister,es,hispano,0.75,todas
-0YinUQ50QDB7ZxSCLyQ40k,Mustard,us,anglo,0.7115384615384616,todas
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,us,global,0.26160990712074306,solo
+0Y6dVaC9DZtPNH4591M42W,TV Girl,us,anglo,0.6448598130841121,solo
+0YOr5sV4zMMyj5xviWiFjW,Chris Beats Zn,br,luso,1.0,todas
+0YinUQ50QDB7ZxSCLyQ40k,Mustard,us,anglo,0.34545454545454546,todas
+0YqeL4iGLLNiwRXZvew1TM,Larry,fr,franco,1.0,todas
 0ZCO8oVkMj897cKgFH7fRW,Los Ángeles Azules,mx,hispano,1.0,todas
-0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,au,anglo,0.5454545454545454,todas
-0ZHPrnImGh4re3TbSNkoZl,Beret,es,hispano,1.0,solo
+0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,au,anglo,0.4083333333333333,todas
 0aD7NQx7yauKlVDnqOxk6q,AI,jp,japonês,1.0,solo
-0adJG3bdFTHCkTY28NkY4u,BEJO,es,hispano,0.8846153846153846,todas
+0aOIluXr131XqrXFwFCFGT,Sevek,de,germânico,0.75,todas
+0aSE67DwCWR6JKhdVUmz6I,Alef Donk,br,luso,1.0,todas
+0aXaZj4wB5jLF2E2d8WEVi,47ter,fr,franco,1.0,solo
 0b2GL7Y02vu50qieoQmw1w,IAmChino,mx,hispano,1.0,todas
+0b62itBWBdLgiecXjXCqKC,Maxwell,de,germânico,1.0,todas
 0bAsR2unSRpn6BQPEnNlZm,Aimer,jp,japonês,1.0,solo
-0bdJZl7TDeiymDYzMJnVh2,Preme,au,global,0.3235294117647059,todas
+0bdJZl7TDeiymDYzMJnVh2,Preme,ca,global,0.2153846153846154,todas
 0blbVefuxOGltDBa00dspv,LiSA,jp,japonês,1.0,solo
-0du5cEVh5yTK9QJze8zA0C,Bruno Mars,us,anglo,0.34615384615384615,solo
-0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,au,anglo,0.5128205128205128,solo
-0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,es,hispano,0.4878048780487805,todas
-0eecdvMrqBftK0M1VKhaF4,CNCO,mx,hispano,0.5833333333333334,todas
+0bmxU94V20pNJ2Vie9kFYv,Rea Garvey,de,germânico,1.0,todas
+0bp9CvkjQYhUJvWRHjFRWI,WEDNESDAY CAMPANELLA,jp,japonês,1.0,solo
+0bzyhFojsIgDceZ4NQK9pY,Dj Nbeat,br,luso,1.0,todas
+0c173mlxpT3dSFRgMO8XPh,Big Sean,us,anglo,0.48,todas
+0cCNT5RyWndpS7Zx7ISEDw,Kelly Ruíz,mx,hispano,0.5909090909090909,todas
+0cGUm45nv7Z6M6qdXYQGTX,Kehlani,ca,global,0.2,todas
+0cb0p26TbAeBeekZHfxWlS,Mentissa,fr,franco,1.0,todas
+0du5cEVh5yTK9QJze8zA0C,Bruno Mars,au,anglo,0.35119047619047616,solo
+0e68cnJyUTJu1nEuxxMSLm,Tati Zaqui,br,luso,1.0,todas
+0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,ca,global,0.25868725868725867,solo
+0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,mx,hispano,0.8,todas
+0eVixEZVW2PB1UogwTWXc1,Berq,de,germânico,1.0,solo
+0eecdvMrqBftK0M1VKhaF4,CNCO,mx,hispano,0.7,todas
 0elWFr7TW8piilVRYJUe4P,Natanael Cano,mx,hispano,1.0,solo
+0f1IECbrVV952unZkzrsg2,Mc Gw,br,luso,1.0,todas
+0f2YkMXwFNJNSX7MymevKE,Kaash Paige,br,luso,1.0,todas
 0f59qYByNYzspwAr7huTSB,Isadora Pompeo,br,luso,1.0,solo
-0fTSzq9jAh4c36UVb4V7CB,Alex Warren,au,anglo,0.275,solo
+0f6Q3bpuXN7TfNxeJJBd3m,MC Marley,br,luso,1.0,todas
+0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,us,global,0.35294117647058826,todas
+0fDiTJ244gjZeFeSGl79cJ,Dadá Boladão,br,luso,1.0,todas
+0fTSzq9jAh4c36UVb4V7CB,Alex Warren,gb,global,0.21631205673758866,solo
+0gAILSEru1PKMwP0tAqNLS,Willow Sage Hart,au,anglo,0.3939393939393939,todas
+0gGcw3tA1fZoF23qa8KFb7,Bolémvn,fr,franco,1.0,todas
 0gHj4MPwwcZ8Zl9CY0hqT5,Mc Paiva ZS,br,luso,1.0,todas
-0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,es,global,0.25203252032520324,todas
+0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,us,global,0.18442622950819673,todas
 0hCWVMGGQnRVfDgmhwLIxq,sakanaction,jp,japonês,1.0,solo
+0hSFeqPehe7FtCNWuQ6Bsy,BUMP OF CHICKEN,jp,japonês,1.0,solo
 0hWRVPGWjaXcEvg8l65Tx0,Luiz Lins,br,luso,1.0,todas
-0haZhu4fFKt0Ag94kZDiz2,Sofía Reyes,es,hispano,0.5454545454545454,todas
+0haZhu4fFKt0Ag94kZDiz2,Sofía Reyes,mx,hispano,0.6521739130434783,todas
+0hl7gXAUNmCr3cyhoE5Yga,Teko Bolado,br,luso,1.0,todas
 0i1s9WcIu0PrUvHzALgofo,Seu Jorge,br,luso,1.0,todas
-0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,us,anglo,0.72,todas
+0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,us,anglo,0.3396584440227704,todas
+0iFq8SzyZaaQ2Fn6CLDxqW,Clueso,de,germânico,1.0,todas
 0iZz25uH5PLaShpqq84uYv,Papatinho,br,luso,1.0,todas
+0id62QV2SZZfvBn9xpmuCl,Aloe Blacc,gb,global,0.20930232558139536,todas
 0ixIqccVXNU45qPhq3kWex,Maquiny,br,luso,1.0,todas
 0ixzjrK1wkN2zWBXt3VW3W,Yuuri,jp,japonês,1.0,solo
+0jD7VeE1m2SdHbOWeCtB9l,Naiara Azevedo,br,luso,1.0,todas
 0jJmZHZHNe8n24Y33z5Nil,DISH//,jp,japonês,1.0,solo
 0jLROJ4FhMIKMF9XzlR5IZ,Bruno & Denner,br,luso,1.0,todas
+0jPHHnU8GUWEF7rwPE9osY,Jordan Adetunji,gb,anglo,0.27586206896551724,solo
+0jTDeBJQr3unrK29LklnAv,Lexa,br,luso,1.0,todas
 0jWCX6zp4RjWrmZRxJ2uri,Novelbright,jp,japonês,1.0,solo
-0jbo7KFNMiIkfBR6ih0yhm,Íñigo Quintero,es,hispano,0.75,solo
-0jeYkqwckGJoHQhhXwgzk3,Cruzzi,es,hispano,0.8392857142857143,todas
-0jnsk9HBra6NMjO2oANoPY,,es,hispano,0.6666666666666666,todas
+0jbo7KFNMiIkfBR6ih0yhm,Íñigo Quintero,fr,franco,0.4827586206896552,solo
+0jnsk9HBra6NMjO2oANoPY,,de,germânico,0.6666666666666666,todas
 0kj68SnX4WCXwveyBbRX8p,MC Saci,br,luso,1.0,todas
 0kjGPGtoyKwKVOZAKmv5K6,GIULIA BE,br,luso,1.0,solo
-0mA4dkNGiN4fqTBi2SLlAv,Edgardo Nuñez,mx,hispano,0.9090909090909091,todas
+0koQ34MqfcfCFCiMGEY400,DJ Craig Gorman,gb,anglo,1.0,todas
+0ksX396B3t2Gt8kwr0BJZk,,gb,anglo,1.0,todas
+0lAWpj5szCSwM4rUMHYmrr,Måneskin,fr,global,0.21428571428571427,solo
+0lHB0Qc4pmD5RkTLlHeESo,MC L da Vinte,br,luso,1.0,todas
+0lxgtTr0rNyTf3j6smPBp2,Alex Luna,mx,hispano,1.0,todas
+0mA4dkNGiN4fqTBi2SLlAv,Edgardo Nuñez,mx,hispano,0.918918918918919,todas
+0mfeoleda752Uj4JbEZDIN,Dj Tk,br,luso,1.0,todas
+0mnNM5o7vtxo3ivC7Tmoah,Chily,fr,franco,1.0,solo
 0my6Pg4I28dVcZLSpAkqhv,El Fantasma,mx,hispano,1.0,solo
-0n6sKrG0xKAf8xmdqeNGke,Los Legendarios,es,hispano,0.5161290322580645,todas
+0n6sKrG0xKAf8xmdqeNGke,Los Legendarios,mx,hispano,0.8888888888888888,todas
+0n9VWli2NkR8OqJS4dXTqw,MC Pupio,br,luso,1.0,todas
 0nFdWpwl7h6fp3ADRyG14L,Marina Sena,br,luso,1.0,todas
-0niAkxgT6y57bRbT0Ge94z,LiL CaKe,es,hispano,0.7647058823529411,todas
+0nnBZ8FXWjG9wZgM2cpfeb,Leon Thomas,us,anglo,0.3793103448275862,solo
 0nzfP49X2nrzmmkwZf180L,Gustah,br,luso,1.0,todas
 0oAZhL6hFrM3YRr6QzjlOf,MJ Records,br,luso,1.0,todas
-0odliLZMTk45CEVzF3Zocl,Mozart La Para,es,hispano,1.0,todas
-0pWR7TsFhvSCnbmHDjWgrE,Creepy Nuts,jp,japonês,1.0,solo
+0obu7Om4zu9ahul5DI4JtY,Chris MC,br,luso,1.0,todas
+0oeiA5U9u1U45Gos5cywUU,Soso Maness,fr,franco,1.0,todas
+0pOruKWwgyqSLZhn4Xovs9,Ardian Bujupi,de,germânico,1.0,todas
+0pVHBkObr9UNIWpms1e4I0,Zartmann,de,germânico,1.0,solo
+0pVJXCGsBydS7rq0R4w4hm,Yuri Redicopa,br,luso,1.0,todas
+0pWR7TsFhvSCnbmHDjWgrE,Creepy Nuts,jp,japonês,0.975,solo
 0pcoadNMmvrUyab1RxWBoV,MC Hariel,br,luso,1.0,todas
-0pePYDrJGk8gqMRbXrLJC8,Luis R Conriquez,mx,hispano,0.936,todas
-0qTZZWLzuD59Un5r1speHm,Chris Jedi,mx,hispano,0.8333333333333334,todas
-0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,es,hispano,0.4755244755244755,solo
+0pePYDrJGk8gqMRbXrLJC8,Luis R Conriquez,mx,hispano,1.0,solo
+0psEe4IooMjolOPMrz9A5M,YOAKE,jp,japonês,1.0,solo
+0qTZZWLzuD59Un5r1speHm,Chris Jedi,mx,hispano,1.0,todas
+0r0R5nIjDY04TfxRM10Bcb,Alligatoah,de,germânico,1.0,solo
+0rKRcoCpKA2jLHuIXXn80i,Octavian,de,germânico,1.0,todas
+0rUu2qzqezBrCddX1RuUyJ,Omar Camacho,mx,hispano,1.0,todas
+0rvjqX7ttXeg3mTy8Xscbt,Journey,ca,anglo,0.28415300546448086,solo
+0t84CBqmvihsUVFme33TLd,GReeeN,de,germânico,1.0,solo
+0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,mx,hispano,0.9074074074074074,solo
 0tvACMjTDrW7HCo4F2wiIb,DJ RD,br,luso,1.0,todas
-0u6GtibW46tFX7koQ6uNJZ,Topic,au,anglo,0.45614035087719296,todas
+0u2FHSq3ln94y5Q57xazwf,Keith Urban,au,anglo,0.7222222222222222,todas
+0u6GtibW46tFX7koQ6uNJZ,Topic,de,germânico,0.4106280193236715,todas
+0uGD30yANzeWbNUAQoiJF2,Ana Laura Lopes,br,luso,1.0,todas
 0uGWkZRPp1Urk77XBrPBsZ,AgroPlay,br,luso,1.0,todas
-0uxYECT7XqHNccQAg5Uhe4,Nico Valdi,es,hispano,0.7647058823529411,todas
+0ukgrNYk51TkMQr0f2Br4Q,Maverick Sabre,br,luso,1.0,todas
 0vLuOi2k62sHujIfplInlK,Hungria,br,luso,1.0,solo
-0vR2qb8m9WHeZ5ByCbimq2,Reik,es,hispano,0.5254237288135594,todas
-0vRvGUQVUjytro0xpb26bs,Arizona Zervas,us,global,0.3076923076923077,solo
+0vR2qb8m9WHeZ5ByCbimq2,Reik,mx,hispano,0.9080459770114943,todas
+0vRvGUQVUjytro0xpb26bs,Arizona Zervas,us,global,0.17857142857142858,solo
 0vdcZzmneH0nK9CYFHQBjk,Dj Chris No Beat,br,luso,1.0,todas
 0vjeBgTzYTwmYoVySJzXGD,Virlan Garcia,mx,hispano,1.0,solo
 0vsOB7tW4ItHtdZBzKQZxp,Lukinhas,br,luso,1.0,todas
+0wH3O1Z1MJXYrl2BVENPD4,ARIZONATEARS,us,anglo,0.3157894736842105,todas
 0wRzWf3I4lUl9hdFF5uL0m,Sukima Switch,jp,japonês,1.0,solo
+0wi7qglMjD1ucDG8UCzagm,Idris Elba,gb,anglo,1.0,todas
 0xA8Rmfl9di0sVaPl9AyR9,DJ Yuri Martins,br,luso,1.0,todas
-0xRXCcSX89eobfrshSVdyu,MEDUZA,br,luso,0.5463917525773195,todas
+0xRXCcSX89eobfrshSVdyu,MEDUZA,br,global,0.23046875,todas
 0xj9MJx9r0wO2o4aqdergP,DJ TOPO,br,luso,1.0,todas
 0y7B2G0jNMGWyQJsOoRMUt,Ajaxx,br,luso,1.0,todas
+0yApzRdrUqTGqX9MULdnmV,Thiaguinho MT,br,luso,1.0,todas
+0yO1IUIzyJgjMqFbKw57pq,DJ 2w,br,luso,1.0,todas
 0ySFZq3Wd0SQUyJUzmJAeb,sumika,jp,japonês,1.0,solo
-0yfhOzsYbBALSbWK4DjpCh,Pedro Calderon,es,hispano,1.0,todas
-0ys2OFYzWYB5hRDLCsBqxt,Fuerza Regida,mx,hispano,0.8257575757575758,solo
-10exVja0key0uqUkk6LJRT,Vance Joy,au,anglo,0.7302631578947368,solo
-11YLRSsZA3YVuQQtHXKTlz,Rafa Pabón,es,hispano,0.5,todas
-11kt6ggsdxvI8MhyeSMKom,CYRIL,au,anglo,0.8947368421052632,solo
+0ydBtmgupeHnGowYxRo6tq,IIVEN,de,germânico,1.0,todas
+0ys2OFYzWYB5hRDLCsBqxt,Fuerza Regida,mx,hispano,0.8514056224899599,solo
+0zOcE3mg9nS6l3yxt1Y0bK,The Fray,gb,anglo,0.5,solo
+0zhMujl1yB8pkB023Qm4Y2,Green Montana,fr,franco,1.0,todas
+0zyPMXUsjcvUvgWmaRt0bY,MC Caja,br,luso,1.0,todas
+10XY9PZCJKzUFzZOdtlQLU,LX,de,germânico,1.0,todas
+10exVja0key0uqUkk6LJRT,Vance Joy,au,anglo,0.29540481400437635,solo
+11YLRSsZA3YVuQQtHXKTlz,Rafa Pabón,mx,hispano,1.0,todas
+11iQCRz636WFdHj42qxAF6,POCAH,br,luso,1.0,solo
+11kt6ggsdxvI8MhyeSMKom,CYRIL,de,germânico,0.3888888888888889,solo
+11mqrDSFRRz8g0Wb3syJj5,Panteon Rococo,mx,hispano,1.0,solo
+11p2E654TTU8e0nZWBR4AL,Mark Ambor,de,germânico,0.2222222222222222,solo
+11pXvO7wYuzRWYONDOBd33,Danny Chung,au,global,0.20481927710843373,todas
 11rNmgKeDd6wHHvvhzPHH9,Doug Hits,br,luso,1.0,todas
-12GqGscKJx3aE4t07u7eVZ,Peso Pluma,mx,hispano,0.864406779661017,solo
-12Zk1DFhCbHY6v3xep2ZjI,070 Shake,au,anglo,0.6666666666666666,todas
-12vb80Km0Ew53ABfJOepVz,Ñengo Flow,mx,hispano,0.48333333333333334,todas
-137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,au,anglo,0.8518518518518519,todas
+124jbwgd8Hh6LW7jAqTa8r,Agatino Romero,de,germânico,0.5,todas
+12GqGscKJx3aE4t07u7eVZ,Peso Pluma,mx,hispano,0.8533333333333334,solo
+12Zk1DFhCbHY6v3xep2ZjI,070 Shake,gb,anglo,0.3870967741935484,todas
+12vb80Km0Ew53ABfJOepVz,Ñengo Flow,mx,hispano,0.891566265060241,todas
+12xme1fwd3iGEW7rF9b6tp,Wincent Weiss,de,germânico,1.0,solo
+137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,au,anglo,0.5,todas
 13A9x5VINTOaVnYxK4rbNQ,Clau,br,luso,1.0,todas
-13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,au,anglo,0.6551724137931034,todas
-13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,us,anglo,1.0,todas
+13VVAjO14WSrctkGL7U3xc,DJ RENAN DA BL,br,luso,1.0,todas
+13bDjug9N0pyv3ZUINjkDV,Bausa,de,germânico,1.0,solo
+13lFKnH7sS9T35uPQmxaOs,kojikoji,jp,japonês,1.0,todas
+13mm5rU1jvWfWG6uQ46ypd,Pierre de Maere,fr,franco,1.0,solo
+13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,au,anglo,0.2441860465116279,todas
+13wroZC00C9ix8fUR0JvaY,The Stickmen Project,de,germânico,1.0,todas
+13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,us,global,0.2653061224489796,todas
+140rt2E4rTCFAA6R6cbyYb,Sarhad,de,germânico,1.0,todas
+14CHVeJGrR5xgUGQFV5BVM,Fivio Foreign,gb,anglo,0.5,todas
 14D0I0RYqvIorkPL2EWoQh,MC WM,br,luso,1.0,solo
+14H15rElxdGClICOZXEYHP,MoStack,gb,anglo,1.0,todas
 14T8NkbwXVZgbOvwnuGV89,GReeeeN,jp,japonês,1.0,solo
-14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,es,hispano,0.7333333333333333,todas
-15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,us,anglo,0.4693333333333333,solo
-164Uj4eKjl6zTBKfJLFKKK,JVKE,us,anglo,0.5806451612903226,solo
+14jVHWj9dqpLhs8hHEMnyJ,MC 2jhow,br,luso,1.0,todas
+14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,mx,hispano,1.0,todas
+15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,us,global,0.2848180677540778,solo
+15bTpg6S948FjSiOhB7eXi,Didi,br,luso,1.0,todas
+15h1AB4jpLCdXLZNT7glWj,Linh,fr,franco,1.0,todas
+15jZ8OLtnGATWHlQkltG7f,Amel Bent,fr,franco,1.0,todas
+164Uj4eKjl6zTBKfJLFKKK,JVKE,us,anglo,0.28125,solo
+16plk1BhihSieDutGFbLt8,One Acen,gb,anglo,1.0,todas
+17CbKzT0I4256iVuPvrZXr,Dj Serpinha,br,luso,1.0,todas
 17TFSnqADESRM8BPSaM5aB,Krono,mx,hispano,0.6571428571428571,todas
-17lzZA2AlOHwCwFALHttmp,2 Chainz,es,hispano,0.6666666666666666,todas
-181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,au,global,0.34545454545454546,todas
-18lpwfiys4GtdHWNUu9qQr,Ocean Alley,au,anglo,1.0,solo
-19HM5j0ULGSmEoRcrSe5x3,Milo j,es,hispano,0.7619047619047619,todas
+17fY0VRyqRgmqI3dHlE1UU,IRAH,gb,anglo,1.0,todas
+17lzZA2AlOHwCwFALHttmp,2 Chainz,us,anglo,0.52,todas
+181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,us,anglo,0.36363636363636365,solo
+18ISxWwWjV6rPLoVCXf1dz,RIN,de,germânico,1.0,solo
+18MFcGBHtyW0mU3ufcm0X1,Diane Guerrero,gb,anglo,0.25806451612903225,todas
+18Z49sdpTYjv4TmBJPHMCb,Rumi,au,anglo,0.22580645161290322,todas
+18dspUI6gqabm5XCC2RcUD,SOG,mx,hispano,0.95,todas
+18lpwfiys4GtdHWNUu9qQr,Ocean Alley,au,anglo,0.95,solo
+19JY4BpaJkAlSR4iDxB1MX,Cesar Mc,br,luso,1.0,todas
+19u3RGWKsjmbg9eI6zAiNp,13 Organisé,fr,franco,1.0,todas
 1A773r2lVYAnmt8uwb5BOu,Grupo Arranke,mx,hispano,1.0,solo
+1AAfkmCFRTSDg18GQ3itgl,,de,germânico,1.0,todas
 1AL2GKpmRrKXkYIcASuRFa,Wesley Safadão,br,luso,1.0,solo
 1APqNiQUA2XpwLEbywSWmZ,Tropa da W&S,br,luso,1.0,todas
+1AmK5toq2JV8BT9tCkDFAa,Tazeboy,fr,franco,1.0,todas
 1AyWsgtaIgXbzjJlTx2ZDp,AAA,jp,japonês,1.0,solo
+1B0Rp4SWGnFgGCPU5Pju6E,Nego do Borel,mx,hispano,0.6875,todas
+1B5n6jsxvFldc6Nq8Wx8VJ,OIK,br,luso,1.0,todas
+1BEUkE2CSUgHTLSBMZdnFB,Mae Muller,au,anglo,0.3076923076923077,todas
 1BNbDHa9FSPxIyZmcymSyL,Dj Lc da Roça,br,luso,1.0,todas
 1BRkfP0amngMbqJ4aV3KKp,Dynho Alves,br,luso,1.0,solo
+1Bl6wpkWCQ4KVgnASpvzzA,BROCKHAMPTON,au,anglo,0.3333333333333333,solo
 1Bp5RHQ2K9k986YoxNvACB,Perera DJ,br,luso,1.0,todas
+1BrFcFtIp3ZqvuI5C0VcK3,MC Luan da BS,br,luso,1.0,todas
+1CUhHjPhPbMDlGJyUGxzP2,Jinu,au,anglo,0.22580645161290322,todas
 1CbQrKvCpEnekM3QMGJtXK,MC Meno K,br,luso,1.0,todas
-1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,au,global,0.3963963963963964,todas
-1D6vAeVUcgMbSx80IA3Zun,Henrique & Diego,br,luso,1.0,todas
+1CoZyIx7UvdxT5c8UkMzHd,Jorja Smith,br,luso,1.0,todas
+1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,de,global,0.22773972602739725,todas
+1D6vAeVUcgMbSx80IA3Zun,Henrique & Diego,br,luso,1.0,solo
+1DqzXlcCmklnLECrUuo1DC,MC Pê Original,br,luso,1.0,todas
 1DuBkL1pAgaZQHXKPiVr08,Léo Foguete,br,luso,1.0,todas
-1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,es,hispano,0.7307692307692307,todas
-1EXjXQpDx2pROygh8zvHs4,Melendi,es,hispano,1.0,solo
-1GAymyGBvB4gQy5Z5LZ1Wj,Lalo Ebratt,es,hispano,0.5432098765432098,todas
-1GDbiv3spRmZ1XdM1jQbT7,NATTI NATASHA,mx,hispano,0.5192307692307693,todas
-1HY2Jd0NmPuamShAr6KMms,Lady Gaga,au,global,0.3435374149659864,todas
+1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,mx,hispano,1.0,todas
+1E8mXBWN7AXZCOPYbOky4J,Jazeek,de,germânico,1.0,solo
+1EZIni3W4CmC2bTy75Q053,benno!,de,germânico,1.0,todas
+1EfwyuCzDQpCslZc8C9gkG,SDP,de,germânico,1.0,todas
+1FXdfOOisB3d3hfZOjhjID,Esther Graf,de,germânico,1.0,todas
+1Ffb6ejR6Fe5IamqA5oRUF,,gb,anglo,1.0,todas
+1FmxE030Xe2H8Bn9bdv6Pd,Vanessa Paradis,fr,franco,1.0,todas
+1G0YV9WooUBjrwDq0Q7EFK,Charlotte Cardin,fr,franco,1.0,solo
+1GAymyGBvB4gQy5Z5LZ1Wj,Lalo Ebratt,mx,hispano,1.0,todas
+1GDbiv3spRmZ1XdM1jQbT7,NATTI NATASHA,mx,hispano,0.797752808988764,todas
+1GKIlPFdcewHtpDVCQ8zmJ,Brray,mx,hispano,0.8095238095238095,todas
+1GLtl8uqKmnyCWxHmw9tL4,The Kooks,gb,anglo,1.0,solo
+1GVuCyb4PlArufUZDUnRQi,southstar,de,germânico,0.8125,solo
+1Gm0kKaDx4GH6pQF88rjSK,Cadet,gb,anglo,1.0,todas
+1GmsPCcpKgF9OhlNXjOsbS,Lizzy McAlpine,gb,anglo,0.358974358974359,solo
+1H1sDUWSlytzifZTDpKgUA,Belters Only,gb,anglo,1.0,todas
+1H2agrqo1Y8alTi5Wde6UG,FABE BROWN,de,germânico,1.0,todas
+1HBjj22wzbscIZ9sEb5dyf,Jonas Blue,gb,global,0.2540983606557377,todas
+1HFlteLskPFaDFOdfn31hb,2Click,br,luso,1.0,todas
+1HY2Jd0NmPuamShAr6KMms,Lady Gaga,fr,global,0.18072289156626506,solo
+1Hsdzj7Dlq2I7tHP7501T4,Niall Horan,au,anglo,0.68,todas
+1IFAU4mznUcfPVP9z2c24N,Daecolm,de,germânico,0.725,todas
+1INuLZXjjVbcJRyWvD1iSq,Jack & Jack,jp,global,0.22077922077922077,todas
+1IOofxVTB3jFgrfUpufZgF,DJ NATAN 22,br,luso,1.0,todas
 1IVneWn4g15GupVFKwNdGJ,Dj Aladin GDB,br,luso,1.0,todas
+1IiTy72Esd2mIfGuvsvdQB,Ay Em,gb,anglo,1.0,todas
+1IueXOQyABrMOprrzwQJWN,Sigala,gb,anglo,0.8043478260869565,todas
 1JJq541frMPfUIQiUoVrnp,Mc Laranjinha,br,luso,1.0,todas
-1JPZHb1qziDJ05n0a1OvfW,NEEKA,au,anglo,1.0,todas
-1JbemQ1fPt2YmSLjAFhPBv,Chayanne,es,hispano,1.0,solo
+1JPZHb1qziDJ05n0a1OvfW,NEEKA,au,anglo,0.6086956521739131,todas
+1JQLCxphQYlnbokiEvfB8o,Matheuzinho,br,luso,1.0,todas
 1K3wppIvsUK99HODkiNgeu,DJ JOAO DA INESTAN,br,luso,1.0,todas
+1KCSPY1glIKqW2TotWuXOR,P!nk,de,germânico,0.4,solo
+1KP6TWI40m7p3QBTU6u2xo,BØRNS,us,anglo,0.5106382978723404,solo
 1Kxnfp5mLIF4Qmx44xNFKl,Daniel Caon,br,luso,1.0,todas
+1L5GuSYb4gktP74dqFkJpi,Vibe Chemistry,gb,anglo,1.0,todas
+1LGh5vyaoQP9bgTwLSMTyW,Thiago Brava,br,luso,1.0,todas
 1LIuN7ov1IBQDdLsU83ojl,Hugo & Guilherme,br,luso,1.0,solo
-1McMsnEElThX1knmY4oliG,Olivia Rodrigo,au,global,0.3333333333333333,solo
+1MIVXf74SZHmTIp4V4paH4,Mabel,gb,anglo,0.35384615384615387,solo
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,gb,global,0.19553072625698323,solo
 1MzXJ8AaHdidMAnjgcahS4,Delacruz,br,luso,1.0,todas
-1NNRWkhwmcXRimFYSBpB1y,Yng Lvcas,mx,hispano,0.8181818181818182,solo
-1OAjDaKgg00KCUYqDe68un,GIGI D'AGOSTINO,mx,global,0.35,todas
+1NNRWkhwmcXRimFYSBpB1y,Yng Lvcas,mx,hispano,0.7317073170731707,todas
+1OAjDaKgg00KCUYqDe68un,GIGI D'AGOSTINO,de,global,0.30708661417322836,todas
+1OB278sOZVSFx5vXqYha83,J. Rey Soul,fr,franco,0.28125,todas
+1OFOShsIbhy1l5x73yuVyB,Shenseea,ca,anglo,0.21875,todas
+1OHw2r7Diz2rc9JktaFV6N,Erika Sirola,de,germânico,0.5882352941176471,todas
+1OJvqVmekd5OPxlTeHmlBl,Ion Miles,de,germânico,1.0,todas
+1Oa0bMld0A3u5OTYfMzp5h,Nate Dogg,ca,anglo,0.39473684210526316,todas
 1OwYxVDNKP9JtSpp5E0uA4,MC Zaquin,br,luso,1.0,solo
-1QcutbFtA6u8A2ZFTZuLSL,Panda Black,es,hispano,1.0,todas
-1RyvyyTE3xzB2ZywiAwp0i,Future,us,anglo,0.6122448979591837,todas
+1PKErrAhYFdfrDymGHRQRo,Nathan Evans,de,germânico,0.8,solo
+1PTl9q5EaEZejVGts7MBLN,Mac Tyer,fr,franco,1.0,todas
+1PbtWtrN7jZpd4toqxrjm2,Lagique,de,germânico,0.5652173913043478,todas
+1QEd635szhierW6gzRiS1o,Hannah Laing,gb,anglo,1.0,todas
+1QPdp5duV6lV4XINCzjwQ2,Dinos,fr,franco,1.0,solo
+1QsdzIKkTT5gDFj8GB1cIX,Yseult,fr,global,0.32142857142857145,todas
+1RBzGO6Nm3uyhUSxP7EDWO,KEVIN ROLDAN,mx,hispano,1.0,solo
+1ReCqmDLLcp6Z0bCh2JDCA,Capital T,de,germânico,1.0,todas
+1RyvyyTE3xzB2ZywiAwp0i,Future,us,anglo,0.8333333333333334,solo
+1S2S00lgLYLGHWA44qGEUs,Gen Hoshino,jp,japonês,1.0,solo
+1S8OQ9SqlLdD9l4paaZMuZ,Ayase,jp,japonês,1.0,solo
+1SUu1Bi7ev9HbOzyVC77qD,Kool Savas,de,germânico,1.0,todas
 1SXhEXzOTF7YeuQX59m7pT,NATTAN,br,luso,1.0,solo
 1SZXYhJz4sqEss888VmWLP,Mc Brinquedo,br,luso,1.0,todas
-1SupJlEpv7RS2tPNRaHViT,Nicky Jam,mx,hispano,0.4391304347826087,todas
+1ShZZUjkbXCjhwrb18BA8I,Bryce Vine,ca,anglo,1.0,todas
+1SnSPHBs8l5iAvoWF0aO05,FOURTY,de,germânico,1.0,solo
+1SupJlEpv7RS2tPNRaHViT,Nicky Jam,mx,hispano,0.6022727272727273,todas
+1SxuyHZnLUFyFHGzdGaxZk,Wejdene,fr,franco,1.0,todas
+1T6DQ853AlyL47W8a2jC0f,Otto Waalkes,de,germânico,1.0,todas
+1T746ELZF5gDelGXV5W5KE,Los Contacto,mx,hispano,1.0,todas
+1TA5sGRlKUJXBN4ZyJuDIX,Blessd,mx,hispano,1.0,todas
 1TYJOhNSxMOODWiDVhuyZb,Kawe,br,luso,1.0,todas
-1TtXnWcUs0FCkaZDPGYHdf,Darell,mx,hispano,0.4557823129251701,todas
-1U1el3k54VvEUzo3ybLPlM,Kali Uchis,us,anglo,0.45161290322580644,solo
-1URnnhqYAYcrqrcwql10ft,21 Savage,us,anglo,0.7619047619047619,solo
+1Ts9of7VPZElwPQnqnDSfW,Lyanno,mx,hispano,1.0,todas
+1TtXnWcUs0FCkaZDPGYHdf,Darell,mx,hispano,0.7068965517241379,todas
+1TulCA2zO3YxAjQ7ZsvtDq,KIAN,au,anglo,1.0,solo
+1U1el3k54VvEUzo3ybLPlM,Kali Uchis,us,global,0.32558139534883723,solo
+1UEipeDjRtS1qnuhmKgmXg,Peter Plate,de,germânico,1.0,todas
+1URnnhqYAYcrqrcwql10ft,21 Savage,us,anglo,0.38095238095238093,solo
+1UjxAZqzphB1tsMb1aWBj0,Omega,fr,franco,1.0,todas
+1UtoD47sbgbZQ0VzVKQhu8,Marília Mendonça,br,luso,1.0,todas
+1VXE1xqGNlT9HG6TcjpQ9I,,au,anglo,1.0,todas
+1VcbchGlIfo3Gylxc3F076,Cold Chisel,au,anglo,1.0,solo
+1VeNLxolTVovUG1ROeumVp,,gb,anglo,1.0,todas
+1VmIfQToGVtxmv2w3QtyVY,Symba,de,germânico,1.0,todas
 1Vnwxb3UkZxMF4S3J6hxAS,MC NAHARA,br,luso,1.0,todas
-1WMwuNKzEFtU6pPkdtryYS,,es,hispano,0.6923076923076923,todas
+1VwDG9aBflQupaFNjUru9A,NAYEON,jp,japonês,1.0,solo
+1WA2YgK6RudLFgrIIPfUeR,MATHEUS ALVES,br,luso,1.0,todas
+1WDkNp8Duv9QhO246S4dDa,Bramsito,fr,franco,1.0,todas
+1WMwuNKzEFtU6pPkdtryYS,,mx,hispano,1.0,todas
+1WO1hFAkFbeo9tV3uVX7Dy,A1 x J1,gb,anglo,0.7777777777777778,solo
 1WQBwwssN6r8DSjUlkyUGW,MC Cabelinho,br,luso,1.0,todas
 1WXbiUMl1AT9Inb619xPUg,BIN,br,luso,1.0,todas
-1WsYCXdezMjn0KoIrLvMmC,Ed Sheeran & Justin Bieber,au,global,0.33,todas
+1WaFQSHVGZQJTbf0BdxdNo,Tommy Richman,us,global,0.23809523809523808,solo
+1Wic7dyEeEpQXDBbDf6HKm,HoodBlaq,de,germânico,1.0,todas
+1WsYCXdezMjn0KoIrLvMmC,Ed Sheeran & Justin Bieber,au,global,0.22297297297297297,todas
 1X6ORK7IekgmyjV6IFPszP,Gustavo Mioto,br,luso,1.0,solo
+1X842P1hBNRnwsuy0e3DLS,Dj Pikeno Mpc,br,luso,1.0,todas
 1XErHyc10VN8bfGKma1Yyc,Leo Ieiri,jp,japonês,1.0,solo
+1XKjtpH5P81gpOXDB91IEB,Miami Yacine,de,germânico,1.0,todas
 1XYuC1vxinTjHCNd5clB8C,ARASHI,jp,japonês,1.0,solo
-1XsW0sYHCKLzpiGZ9QSFY0,Cotorra Music Grup,es,hispano,1.0,todas
-1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,jp,japonês,1.0,todas
-1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,au,global,0.2892768079800499,solo
+1XggRlhdW70SWvKflaZUEI,Didá Banda Feminina,br,luso,1.0,todas
+1XtR9vPQD6cjmHlR5PuHPu,Kevin AMF,mx,hispano,1.0,todas
+1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,jp,japonês,0.8333333333333334,todas
+1XynjLPAyPi8SZAx8LHN0Z,Nuka,de,germânico,0.4782608695652174,todas
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,ca,global,0.20377733598409542,solo
 1Y5vJqABeI6QI6R95EDV6o,tuki.,jp,japonês,1.0,solo
+1YOVBTvznjiDvtAj4ExHeo,BK,br,luso,1.0,todas
+1Yfe3ONJlioHys7jwHdfVm,Lomepal,fr,franco,1.0,solo
 1YhMWppPt9RVODKD1KCs7W,El Bebeto,mx,hispano,1.0,solo
-1Yj5Xey7kTwvZla8sqdsdE,Cris MJ,es,hispano,0.5,solo
-1ZMJSCQw8DIefcLb1FIpY0,Los Dareyes De La Sierra,mx,hispano,0.8235294117647058,todas
+1Yj5Xey7kTwvZla8sqdsdE,Cris MJ,mx,hispano,0.9,solo
+1YjaVTeHBlVRRxbk7H30HN,Lunis,fr,franco,0.5714285714285714,todas
+1Z8ODXyhEBi3WynYw0Rya6,De La Soul,gb,anglo,0.275,todas
+1ZMJSCQw8DIefcLb1FIpY0,Los Dareyes De La Sierra,mx,hispano,0.8571428571428571,solo
+1ZPGzmbFTn8GRjqTqnLiFE,Niklas Dee,de,germânico,1.0,todas
+1ZcnsSFqWusWlRK01vKE6b,Montaigne,au,anglo,1.0,todas
+1ZyqnbV7Brg5LgyS4EZCUD,FiNCH,de,germânico,1.0,todas
 1a3fr7NdeBT4JlGj6YlbDL,Caio Luccas,br,luso,1.0,todas
-1aMt4A5jrQHxDYyC7rXgV0,Pol Granch,es,hispano,0.5675675675675675,todas
-1aWJsBQa67l72j1VT3D6Ow,Micro TDH,mx,hispano,0.7857142857142857,todas
-1ackd5XprZEkH3McKbQD51,Juan Magán,es,hispano,0.9629629629629629,todas
-1anyVhU62p31KFi8MEzkbf,Chance the Rapper,jp,japonês,0.875,todas
+1aMt4A5jrQHxDYyC7rXgV0,Pol Granch,mx,hispano,1.0,todas
+1aQwKFn00nswXRDUDipm0K,Gaullin,de,germânico,0.7333333333333333,solo
+1aS5tqEs9ci5P9KD9tZWa6,Bonez MC,de,germânico,1.0,solo
+1aSxMhuvixZ8h9dK9jIDwL,Kate Bush,gb,global,0.21951219512195122,solo
+1aWJsBQa67l72j1VT3D6Ow,Micro TDH,mx,hispano,1.0,todas
+1ackd5XprZEkH3McKbQD51,Juan Magán,de,germânico,0.5,todas
+1anyVhU62p31KFi8MEzkbf,Chance the Rapper,ca,global,0.22764227642276422,todas
 1b8S7EPzdckRyIh0uSbOMI,DJ Oreia,br,luso,1.0,todas
-1bAftSH8umNcGZ0uyV7LMg,Duki,es,hispano,1.0,todas
+1bAftSH8umNcGZ0uyV7LMg,Duki,mx,hispano,1.0,todas
+1bZDq4po4dMIpN74Zendm0,Janieck,de,germânico,0.6666666666666666,todas
 1bfl0AU8SqmLkElptOprhC,Julión Álvarez y su Norteño Banda,mx,hispano,1.0,solo
-1c22GXH30ijlOfXhfLz9Df,Elvis Crespo,es,hispano,1.0,todas
-1cNDP5yjU5vjeR8qMf4grg,YNW Melly,us,anglo,0.7631578947368421,solo
+1bj5GrcLom5gZFF5t949Xl,Martin Solveig,gb,anglo,1.0,todas
+1bpI6QDUqmfKmV0Tlhj0Jm,Pajel,de,germânico,1.0,solo
+1bpnl8qbR9GxmiNlkEufW6,DJ Japa NK,br,luso,1.0,todas
+1bufaOa1xsdvxGxeqQJtzW,Kim,fr,franco,1.0,todas
+1c3uso4iIeeX3P0bhKaQDq,Jaxomy,de,germânico,0.5,todas
+1c70yCa8sRgIiQxl3HOEFo,Cherish,de,global,0.22950819672131148,todas
+1cH0i2n6YLrWFDDemqztay,Henning May,de,germânico,1.0,todas
+1cKyknhftNKXCjMBd2hDrG,DYSTINCT,fr,franco,1.0,todas
+1cNDP5yjU5vjeR8qMf4grg,YNW Melly,us,anglo,0.39361702127659576,solo
+1cNPXWhKfjI0fT5EMCnamR,Dj Guuga,br,luso,1.0,todas
+1cUpGtXcSQsovNYEZOQgOG,Nanpa Básico,mx,hispano,1.0,todas
 1cYhx7ZOhYoVmnDPb9KMwo,Mc Davi,br,luso,1.0,todas
 1dKdetem2xEmjgvyymzytS,Grupo Firme,mx,hispano,1.0,solo
+1dfeR4HaWDbWqFHLkxsg1d,Queen,gb,global,0.2736318407960199,solo
+1eDupbD9kIx8UaZlzcBG5r,samUIL Lee,au,global,0.20481927710843373,todas
+1eIYP01ZLPKEExhcV6xFgt,Grelo,br,luso,1.0,solo
+1eXXCUkwhu0MRLTamWEgXE,Oskoow,fr,franco,1.0,todas
 1elUiq4X7pxej6FRlrEzjM,Jorge & Mateus,br,luso,1.0,solo
-1enXMVomlMi88CZFYL1m2f,K y B,es,hispano,1.0,todas
-1etNnR2SdlelBQAICa2Q5m,Mc Pedrinho,br,luso,0.9487179487179487,todas
+1etNnR2SdlelBQAICa2Q5m,Mc Pedrinho,br,luso,0.8852459016393442,todas
+1ew4rMO5r0Oon1R9xZxo8Q,Victor WAO,br,luso,1.0,todas
+1f1DjtYgH6yBzBSiGteBJl,Were-vana,fr,franco,1.0,todas
 1fUSLFr4WUBx7joEcGwpvG,Sorriso Maroto,br,luso,1.0,todas
-1fctva4kpRbg2k3v7kwRuS,Rvssian,es,hispano,0.6875,todas
-1fux65HMCBvfJHqlBc4Nno,Casper Magico,es,hispano,0.44642857142857145,todas
-1gALaWbNDnwS2ECV09sn2A,Nightcrawlers,au,anglo,0.5517241379310345,todas
+1fcS44jH4wr0qwxSVdxWyX,Maria,br,luso,1.0,todas
+1fctva4kpRbg2k3v7kwRuS,Rvssian,mx,hispano,0.9,todas
+1fux65HMCBvfJHqlBc4Nno,Casper Magico,mx,hispano,0.43478260869565216,todas
+1g0fXhQMHAxlRyIBkCbuE7,Matt Simons,de,germânico,0.625,todas
+1gALaWbNDnwS2ECV09sn2A,Nightcrawlers,de,germânico,0.25,todas
 1gJdf4Yybu4X5A2xYV3NMV,Eden Muñoz,mx,hispano,1.0,solo
-1gW6pz5n1aK249L0GvfQCC,Grupo Marca Registrada,mx,hispano,1.0,todas
+1gW6pz5n1aK249L0GvfQCC,Grupo Marca Registrada,mx,hispano,1.0,solo
+1gl0S9pS0Zw0qfa14rDD3D,Surf Curse,us,anglo,0.40350877192982454,solo
 1glBi4zyzqaSQoy8ReU0rz,Grupo Los de la O,mx,hispano,1.0,solo
+1gveCzOmKMjqEMwuB5kKNH,Grandão Vaqueiro,br,luso,1.0,todas
 1hPg0YVHOP4dizsVCYCnIA,DJ LG PROD,br,luso,1.0,todas
 1hcdI2N1023RvSwLzTtdsp,Natalia Lafourcade,mx,hispano,1.0,solo
-1i8SpTcr7yvPOmcqrbnVXY,Ozuna,es,hispano,0.5714285714285714,solo
-1jSjfSgDjedJdi5MoyRu78,Lary Over,mx,hispano,0.6956521739130435,todas
-1jiZvw42D4oquLl24x2VWV,Lefty Gunplay,us,anglo,0.68,todas
+1i8SpTcr7yvPOmcqrbnVXY,Ozuna,mx,hispano,0.7333333333333333,solo
+1iCnM8foFssWlPRLfAbIwo,Gigi Perez,au,anglo,0.19205298013245034,solo
+1iXdpCz3AeLEAvzqeNodt8,Victor Cibrian,mx,hispano,1.0,todas
+1jSjfSgDjedJdi5MoyRu78,Lary Over,mx,hispano,1.0,todas
+1jiZvw42D4oquLl24x2VWV,Lefty Gunplay,us,anglo,0.37777777777777777,todas
+1jt8MU2um5rIprsn87sDtR,MC Guh SR,br,luso,1.0,todas
+1k5LyiTCRzPjORzcgHqJxF,Kanaria,jp,japonês,1.0,solo
+1kiq2kUV0cbLUhJsr7cpW0,Alida,de,germânico,0.7407407407407407,todas
+1kvygchIwU4XHXY8xD6ugf,Jeck,fr,franco,1.0,todas
+1kwzW1IszUiq4Gs9BFesvW,Hornet La Frappe,fr,franco,1.0,solo
 1l8Fu6IkuTP0U5QetQJ5Xt,Fifth Harmony,jp,japonês,1.0,todas
+1lB3I3SI30v2ZOpR4XQqzJ,Gambi,fr,franco,1.0,solo
+1lmU3giNF3CSbkVSQmLpHQ,Surf Mesa,au,global,0.15873015873015872,todas
 1luOe8HkZQ7zwuaO2wuJqI,[Alexandros],jp,japonês,1.0,solo
+1mN9lPKzTRTOop4u7S1Uy9,iri,jp,japonês,1.0,solo
 1mV9h1AwhRXSjBFcYpajgY,Mc Lele JP,br,luso,1.0,todas
-1mXAhKnZEdF6rotyyd4GBi,MC Kevinho,br,luso,0.9130434782608695,todas
-1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,es,hispano,0.5538461538461539,solo
+1mXAhKnZEdF6rotyyd4GBi,MC Kevinho,br,luso,1.0,todas
+1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,mx,hispano,0.8333333333333334,solo
+1moxjboGR7GNWYIMWsRjgG,Florence + The Machine,gb,anglo,0.7435897435897436,solo
+1mux8L6xg2Cmrc7k0wQczl,Bacilos,mx,hispano,1.0,solo
 1mvpEXClANunyiHFtAXCxt,MC Rick,br,luso,1.0,todas
-1oMiDFyAgmIzw9ZBQYHOJI,El Guincho,mx,hispano,0.5,todas
-1oSPZhvZMIrWW5I41kPkkY,Jimin,jp,global,0.35365853658536583,solo
+1nRbtbdYK51y71nVOxu332,Kerchak,fr,franco,1.0,solo
+1ntQKIMIgESKpKoNXVBvQg,Kaaris,fr,franco,1.0,solo
+1nzgtKYFckznkcVMR3Gg4z,KSI,gb,anglo,0.6428571428571429,solo
+1o2NpYGqHiCq7FoiYdyd1x,Bea Miller,au,anglo,0.5263157894736842,todas
+1oMiDFyAgmIzw9ZBQYHOJI,El Guincho,mx,hispano,0.8695652173913043,todas
+1oSPZhvZMIrWW5I41kPkkY,Jimin,jp,japonês,0.35036496350364965,solo
 1oSgjdbgLYULVmEBojPRw8,Fernando & Sorocaba,br,luso,1.0,todas
-1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,mx,hispano,0.6213592233009708,todas
-1pgDilWYDWLoOgGjf1iHNu,,mx,hispano,0.6111111111111112,todas
+1okJ4NC308qbtY9LyHn6DO,BloodPop®,jp,japonês,0.75,todas
+1p7SAzJmgALCTLBAcW7YzA,Nicolas J,de,germânico,1.0,todas
+1pBLC0qVRTB5zVMuteQ9jJ,Lily-Rose Depp,ca,global,0.2097902097902098,todas
+1pPmIToKXyGdsCF6LmqLmI,Rich The Kid,us,anglo,0.37142857142857144,solo
+1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,mx,hispano,1.0,todas
+1pZ1kGj7yoPvG1sSN74imk,Maria Marçal,br,luso,1.0,solo
+1pgDilWYDWLoOgGjf1iHNu,Zion,mx,hispano,1.0,todas
+1pk1stIyHnuK6lXZ8QiNKt,MC Koringa,br,luso,1.0,todas
+1pkDzgHvVqC17qYGKfLPpb,Mozzik,de,germânico,1.0,todas
+1q7T9rFQ2a2ukA1PU51fo3,Koba LaD,fr,franco,1.0,solo
+1qM11R4ylJyQiPJ0DffE9z,Lilas,jp,japonês,1.0,solo
+1qQLhymHXFPtP5U8KNKsm6,Apache 207,de,germânico,1.0,solo
 1qma7XhwZotCAucL7NHVLY,Mr.Children,jp,japonês,1.0,solo
-1r4hJ1h58CWwUQe3MxPuau,Maluma,mx,hispano,0.5930735930735931,solo
+1qto4hHid1P71emI6Fd8xi,Aventura,mx,hispano,0.7727272727272727,todas
+1r3tpVQ08jFAA2P4xzV5o4,Gaby Music,mx,hispano,1.0,todas
+1r43wW70tnGUauQYvY5w48,BENNETT,de,germânico,0.6818181818181818,solo
+1r4hJ1h58CWwUQe3MxPuau,Maluma,mx,hispano,0.95,solo
 1rIc4yTieeRq25NA3T8RQ5,DJ Matt D,br,luso,1.0,todas
-1rTUwYS38LkQTlT2fhikch,Yung Beef,mx,hispano,0.631578947368421,todas
+1rTUwYS38LkQTlT2fhikch,Yung Beef,mx,hispano,1.0,todas
+1rpxM2mBJnWdfPeieLDYOc,ZEG P,fr,franco,1.0,todas
+1rsA71w7RvNFRojjnFzHcG,Kolo,br,luso,1.0,todas
+1ruutHJcECI7cos2n5TqpO,Nayer,de,germânico,0.34831460674157305,todas
+1rw8ZTLnDHd74TWDDukjVi,Conrad Sewell,au,anglo,1.0,todas
 1rzgK16tw9LTPmu6eMFyMF,Adriano Rhod,br,luso,1.0,todas
-1sBkRIssrMs1AbVkOJbc7a,Rick Ross,us,anglo,0.53125,todas
-1sPg5EHuQXTMElpZ4iUgXe,ANAVITÓRIA,br,luso,1.0,todas
-1snhtMLeb2DYoMOcVbb8iB,Kenshi Yonezu,jp,japonês,0.992,solo
+1sBkRIssrMs1AbVkOJbc7a,Rick Ross,ca,anglo,0.2714285714285714,todas
+1sLYZv95ZXwVfyGHan5w45,Jaykae,gb,anglo,1.0,todas
+1sPg5EHuQXTMElpZ4iUgXe,ANAVITÓRIA,br,luso,1.0,solo
+1snhtMLeb2DYoMOcVbb8iB,Kenshi Yonezu,jp,japonês,0.9929078014184397,solo
 1t17z3vfuc82cxSDMrvryJ,Macaroni Empitsu,jp,japonês,1.0,solo
 1tKrZaph4cLsnEdqC5BNEQ,Clayton & Romário,br,luso,1.0,solo
-1tMWkquIkQtVD6vaZlDbSQ,Chema Rivas,es,hispano,1.0,solo
-1tZ99AnqyjgrmPwLfGU5eo,Fito y Fitipaldis,es,hispano,1.0,solo
-1uNFoZAHBGtllmzznpCI3s,Justin Bieber,jp,japonês,0.4083333333333333,solo
-1uRVM0wBdtyEuU582EeKJM,NOTION,au,anglo,0.75,todas
+1tPQcKxMrvf09Ry8zk68gt,DJ JOÃO PEREIRA,br,luso,1.0,todas
+1tqhsYv8yBBdwANFNzHtcr,Lil Dicky,gb,anglo,0.3,todas
+1tuNNda2SSH3o4lUms5K6C,Sebastian Esquivel,mx,hispano,1.0,todas
+1uNFoZAHBGtllmzznpCI3s,Justin Bieber,au,global,0.22857142857142856,solo
+1uRVM0wBdtyEuU582EeKJM,NOTION,au,anglo,0.27586206896551724,todas
+1uU7g3DNSbsu0QjSEqZtEd,Masked Wolf,ca,global,0.19767441860465115,solo
 1uf8uSErmKc3JVtmjVBZ83,Azzy,br,luso,1.0,todas
+1ul8iLt2WnFe2UIyovjg7q,reezy,de,germânico,1.0,solo
+1v2nDgCQIAgO0tTXWcQbgh,Two Maloka,br,luso,1.0,todas
+1vCWHaC5f2uS3yhpwWbIA6,Avicii,au,anglo,0.3782051282051282,solo
+1vMCydfeqfc5BdxolssKxU,SEYSEY,fr,franco,1.0,todas
 1vp5pm1DluN0sNXx4tMZzo,Atitude 67,br,luso,1.0,solo
-1vrahybrKylgwkjhbmOz94,Yera,es,hispano,0.6818181818181818,todas
-1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,mx,hispano,0.5514018691588785,solo
-1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,es,hispano,0.5531914893617021,todas
+1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,mx,hispano,0.8941176470588236,solo
+1vzbmGlmb0yoO6drUgxm5C,Dj Chadin do C,br,luso,1.0,todas
+1wLLRA70itxEltujaQlLiT,C ARMA,de,germânico,1.0,solo
+1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,mx,hispano,1.0,todas
 1xFn1xod58AGaSZjrxdiXA,El Chacal,mx,hispano,1.0,todas
+1xNmvlEiICkRlRGqlNFZ43,Axwell,de,germânico,0.8333333333333334,todas
+1xoxekeb8jUVHKJB7m6bfg,Tyler Cole,au,anglo,0.23809523809523808,todas
 1yDAF4rsplzWHhq3yFGZjM,Pablo Martins,br,luso,1.0,todas
+1yIifIA91WgmfzBcjbQB8i,Kurdo,de,germânico,1.0,todas
 1yR65psqiazQpeM79CcGh8,Marília Mendonça,br,luso,1.0,solo
+1yqxFtPHKcGcv6SXZNdyT9,MK,gb,anglo,0.7166666666666667,todas
+1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,mx,global,0.25196850393700787,todas
+1z7b1Pr1rSlvWRzsW3HOrS,Russ,us,anglo,1.0,todas
 1zEo6Fk1iaaOYFlFPBHCFn,Humberto & Ronaldo,br,luso,1.0,todas
-1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,au,anglo,0.47115384615384615,solo
-1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,au,anglo,0.4122137404580153,todas
-1zdSbv2pR3OIFKselYbJsC,Tunvao,es,hispano,1.0,todas
+1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,au,anglo,0.3181818181818182,solo
+1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,ca,global,0.2623456790123457,todas
 1zzQeAzbxN9ctihMrpTo3H,Acertei,br,luso,1.0,todas
-20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,au,anglo,0.38333333333333336,solo
-20cmhoGvN0eyzhmsHJH1Mg,Luude,au,anglo,1.0,todas
+204IwDdaHE4ymGk9Kya2pY,Djonga,br,luso,1.0,todas
+205dGSmCjnFA0Mjptshdsx,Chinozo,jp,japonês,1.0,solo
+205i7E8fNVfojowcQSfK9m,Dom Dolla,au,anglo,1.0,solo
+20JMfmzDb5cjHxEoMXXMyY,Favé,fr,franco,1.0,solo
+20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,gb,global,0.2206896551724138,solo
+20MbZeDJcbXxkcZWumh9rC,BUARQUE,br,luso,1.0,todas
+20cmhoGvN0eyzhmsHJH1Mg,Luude,au,anglo,0.3968253968253968,todas
+20gsENnposVs2I4rQ5kvrf,Sam Feldt,au,anglo,0.375,todas
 20nJFshDG1OYH7Qp9K0TXf,Victor Valverde,mx,hispano,1.0,todas
-20rKUmFZsfv9GBXiv6R9d6,CamrinWatsin,au,anglo,1.0,todas
-20sxb77xiYeusSH8cVdatc,Meek Mill,us,anglo,0.5897435897435898,todas
-20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,au,global,0.25396825396825395,todas
+20rKUmFZsfv9GBXiv6R9d6,CamrinWatsin,au,anglo,0.375,todas
+20sxb77xiYeusSH8cVdatc,Meek Mill,ca,anglo,0.35,todas
+20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,ca,global,0.18811881188118812,todas
 210Sy1oGhvPu929TKoSVcN,Kotim,br,luso,1.0,todas
-21451j1KhjAiaYKflxBjr1,Zion & Lennox,es,hispano,0.574468085106383,solo
+21451j1KhjAiaYKflxBjr1,Zion & Lennox,mx,hispano,1.0,solo
+216arN9tLMMn2ltwEAxmF5,SG,jp,japonês,1.0,solo
+21E3waRsmPlU7jZsS13rcj,Ne-Yo,de,germânico,0.34831460674157305,todas
 21ELc2P2rA3Cu6xw3VWqvv,Mc Kadu,br,luso,1.0,todas
-22dFwJoRBV51ue5TGnC7Dt,Beny Jr,es,hispano,1.0,todas
+21H6paZGGR6dQpVmAqbdzV,1986zig,de,germânico,1.0,todas
+21UJ7PRWb3Etgsu99f8yo8,Stereophonics,gb,anglo,1.0,solo
+21WAvVROZ83oUvJwFTG2dH,João Bosco e Gabriel,br,luso,1.0,todas
+21aa4pj9BvbFB2iT8kRpnq,Michael Schulte,de,germânico,1.0,todas
+21dVknSLCsK37cWozWDZZS,Matt Sassari,de,germânico,0.5818181818181818,solo
+22FsmLO3ZyvgWBy5QbfcQi,ayaka,jp,japonês,1.0,solo
 22jNvLBrXGKr4CcV2tw8Ag,Jonas Esticado,br,luso,1.0,solo
-22wbnEMDvgVIAGdFeek6ET,Benson Boone,au,anglo,0.3352941176470588,solo
-23herDudxPBB3S81GB5uG3,Alizzz,es,hispano,1.0,todas
+22qcssYcY9HKu3mgcXXEGq,Rooz,de,germânico,1.0,todas
+22wbnEMDvgVIAGdFeek6ET,Benson Boone,ca,global,0.17922077922077922,solo
+23fqKkggKUBHNkbKtXEls4,Kygo,au,global,0.24074074074074073,todas
 23ot0eI6ByBW6LrlBfr2bm,Pedro Lotto,br,luso,1.0,todas
-23rdR5gsZI5BqncTEKLtDU,Mufasa,au,anglo,0.5517241379310345,todas
+23rdR5gsZI5BqncTEKLtDU,Mufasa,de,germânico,0.25,todas
+23wEWD21D4TPYiJugoXmYb,Thalia,mx,hispano,1.0,todas
 2450WxbFxHjnttFAv31zGk,Bagua Records,br,luso,1.0,todas
-246dkjvS1zLTtiykXe5h60,Post Malone,us,anglo,0.39260969976905313,solo
+246dkjvS1zLTtiykXe5h60,Post Malone,us,global,0.24357405140758873,solo
+250b0Wlc5Vk0CoUsaCY84M,JENNIE,ca,global,0.2097902097902098,todas
 257kEbQnBziYfmtmqiNuNE,CHEMISTRY,jp,japonês,1.0,solo
-25UNJbwGZSQKvz5cPLWlv3,Los Dos Carnales,mx,hispano,1.0,todas
+25UNJbwGZSQKvz5cPLWlv3,Los Dos Carnales,mx,hispano,1.0,solo
 25XJqeReVV38w0tR04GGBd,Mainstreet,br,luso,1.0,todas
-26VFTg2z8YR0cCuwLzESi2,Halsey,au,global,0.375,solo
+25uiPmTg16RbhZWAqwLBy5,Charli xcx,au,anglo,0.2962962962962963,solo
+25yJrwrn5I0EUdQEiTtNSO,Lefa,fr,franco,1.0,todas
+26JbIcCELE7o1nl8pw6Vlg,shytaupe,jp,japonês,1.0,solo
+26OrZl5U3VNGHU9qUj8EcM,Shift K3Y,gb,anglo,1.0,todas
+26T3LtbuGT1Fu9m0eRq5X3,Cage The Elephant,us,anglo,0.7708333333333334,solo
+26V3iUEDBumgX9YpSBka1b,,mx,hispano,1.0,todas
+26VFTg2z8YR0cCuwLzESi2,Halsey,au,global,0.23636363636363636,solo
+26WKgv73kRHD0gEDKD1i8j,Keinemusik,de,germânico,0.375,todas
+26XzvosH2cl8Re6KSo9m8Z,ZieZie,gb,anglo,1.0,todas
+26ZBeXl5Gqr3TAv2itmyCU,indigo la End,jp,japonês,1.0,solo
+26rewgSEfGzNpapjPw5VZh,Gringo Bamba,de,germânico,1.0,todas
+26zgIfFyTCImkHAp5gwKW8,Joé Dwèt Filé,fr,franco,1.0,solo
+27CMmXxUH8UMkVGuFNFSOi,DJ Douglinhas,br,luso,1.0,todas
 27azwwkxutWL1BWMkgNIh0,Vulgo FK,br,luso,1.0,todas
-28ExwzUQsvgJooOI0X1mr3,Jay Rock,us,anglo,0.6354166666666666,todas
-28gNT5KBp7IjEOQoevXf9N,Camilo,es,hispano,0.6875,solo
+28ExwzUQsvgJooOI0X1mr3,Jay Rock,us,anglo,0.4121212121212121,todas
+28TqrmNSPiKo5w3WVb3A3N,Aymen,de,germânico,1.0,todas
+28gNT5KBp7IjEOQoevXf9N,Camilo,mx,hispano,1.0,solo
 28ie4NNTa2VW2QV4Zray8M,Mc Poze do Rodo,br,luso,1.0,todas
+28uJnu5EsrGml2tBd7y8ts,Vintage Culture,br,luso,1.0,todas
+29CQLw9uLWsl8Qkz9holfr,Racionais MC's,br,luso,1.0,solo
+29PgYEggDV3cDP9QYTogwv,Carolina Gaitán - La Gaita,gb,anglo,0.25806451612903225,todas
 2A3i7OnSUdZB3FXX5Qv3Wp,DJ Dael,br,luso,1.0,todas
+2AdUWxNm17kkGZiPGuorth,MC Mari,br,luso,1.0,todas
+2BFFFDU8cOaMWt7i2BHLtX,Contec,de,germânico,1.0,todas
 2C6i0I5RiGzDKN9IAF8reh,Banda MS de Sergio Lizárraga,mx,hispano,1.0,solo
-2CCgb0KApjfQDuTppovpf8,Rvfv,es,hispano,1.0,todas
 2CKOmarVWvWqkNWUatHCex,Ana Castela,br,luso,1.0,solo
+2Ci1Tt7bCEU3OTByr1nc0y,Kew,br,luso,1.0,todas
 2CotyFTVKWR1jJLPTrrjdu,TR,br,luso,1.0,todas
 2Cra8I2P4OnMkVguqZRVwi,Felipe Original,br,luso,1.0,todas
-2D8UzkIVdg1bj0Iqz6gjk0,ABHIR,es,hispano,0.8846153846153846,todas
+2D4FOOOtWycb3Aw9nY5n3c,Declan McKenna,gb,anglo,0.7954545454545454,solo
+2D8Vb8JwQhndC6H6heA1kD,R2,fr,franco,1.0,solo
 2DORQjKJVYZMx9uu82UGtT,Amy Shark,au,anglo,1.0,todas
+2DaxqgrOhkeH0fpeiQq2f4,Oasis,gb,anglo,0.6198083067092651,solo
+2Diqn1jFkehRd9MVDGKGdq,Eddin,de,germânico,1.0,todas
 2Dlvgi70UoJJicfKgoW5Vo,Grupo Recluta,mx,hispano,1.0,todas
-2DspEsT7UXGKd2VaaedgG4,Alex Rose,es,hispano,0.7857142857142857,todas
-2ExGrw6XpbtUAJHTLtUXUD,Stefflon Don,es,hispano,0.6956521739130435,todas
-2FXC3k01G6Gw61bmprjgqS,Hozier,au,anglo,0.4594594594594595,solo
+2DspEsT7UXGKd2VaaedgG4,Alex Rose,mx,hispano,1.0,todas
+2E5bmPbkiGhZ3ZK798zFIb,Dauner,de,germânico,1.0,todas
+2EFpb61Lpi0l5ldOiqbZkK,Landy,fr,franco,1.0,solo
+2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,us,anglo,0.7424242424242424,solo
+2ExGrw6XpbtUAJHTLtUXUD,Stefflon Don,gb,anglo,0.6923076923076923,todas
+2FJjf1qmmogfQyqLKjbPML,Mc Menor DN,br,luso,1.0,todas
+2FXC3k01G6Gw61bmprjgqS,Hozier,au,anglo,0.2832512315270936,solo
+2FqdskWqZqDdlSnAIo9BGA,KAMI WA SAIKORO WO FURANAI,jp,japonês,1.0,solo
+2FrLTuXGuFDzQsjKidB03W,João Neto & Frederico,br,luso,1.0,todas
 2GAcS9WZyORyDBzd5bwfU5,Dj Vitin do Pc,br,luso,1.0,todas
-2IMZYfNi21MGqxopj9fWx8,Rels B,es,hispano,1.0,todas
+2GBDOaCl73BVUs2RerIme7,Corneille,fr,franco,1.0,todas
+2GYIFLUsVVHPPUzOfJndRh,Benzz,de,germânico,0.5,solo
+2GlEiSHYEKlq9cUYDa9oZb,Lynda,fr,franco,1.0,solo
+2Gzy8TYJ5xrEMDyUjZuDsK,,de,germânico,1.0,todas
+2HHmvvSQ44ePDH7IKVzgK0,Jain,fr,franco,1.0,todas
+2HIP5sNZWkrPgSBWRk8XpA,SIRA,de,germânico,1.0,todas
+2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,gb,global,0.2962962962962963,todas
+2HSmynRDUgRfom3fditkjf,Bleu Soleil,fr,franco,1.0,todas
+2HUwZ0kumzCSlhFcjFZfpp,Flipp Dinero,us,anglo,0.3488372093023256,solo
+2HkAI0YrEcgoR8QdaURqhO,Dimitri Vegas,de,germânico,0.7222222222222222,todas
+2IDLDx25HU1nQMKde4n61a,Rich Brian,ca,anglo,0.4827586206896552,todas
+2IMZYfNi21MGqxopj9fWx8,Rels B,mx,hispano,1.0,solo
 2IUl3m1H1EQ7QfNbNWvgru,Vaundy,jp,japonês,1.0,solo
-2KxjMGXFgX1vt9grpbD3xI,Dvicio,es,hispano,1.0,todas
-2LIk90788K0zvyj2JJVwkJ,Jack Harlow,au,anglo,0.5185185185185185,solo
-2LRoIwlKmHjgvigdNGBHNo,Feid,es,hispano,0.5864661654135338,solo
-2LmcxBak1alK1bf7d1beTr,Juhn,mx,hispano,0.532258064516129,todas
+2Im8m4STDBosjfmb5hmP80,Loredana,de,germânico,1.0,solo
+2IoSLl3tqYMq9DzR0d6NJN,Elams,fr,franco,1.0,todas
+2JLl6rSFWx9YuSPLcLhkAG,Julian Perretta,fr,franco,0.5263157894736842,todas
+2K709GZR5lppCr7ATLKlbz,DJ Léo da 17,br,luso,1.0,todas
+2KLuVzz04VmFSXXT24kiNp,Dejinha,br,luso,1.0,todas
+2KZFvVVk9lxD85USaOv76T,Gustavo Moura & Rafael,br,luso,1.0,todas
+2LAqcqAQ8KPTsl1HBgBrqM,Michelle Williams,gb,anglo,1.0,todas
+2LIk90788K0zvyj2JJVwkJ,Jack Harlow,au,anglo,0.25301204819277107,solo
+2LRoIwlKmHjgvigdNGBHNo,Feid,mx,hispano,1.0,solo
+2LUi4eKMEFKFM4awgurcSs,4Keus,fr,franco,1.0,todas
+2Lg7y5DHmBMrxRI6Y4ThfU,Romero,de,germânico,1.0,todas
+2LhsePRtgCo4THVKULQBL7,L.V.,de,germânico,0.5714285714285714,todas
+2LiWxiQzuD9nmWQ6NCA8Gd,B-Real,mx,hispano,1.0,todas
+2LmcxBak1alK1bf7d1beTr,Juhn,mx,hispano,0.9428571428571428,todas
 2MKq3nQOfCRUwxtmmAOpqR,MC Kapela,br,luso,1.0,todas
 2MRXYszuTIaEliCCD22crt,Manim Vaqueiro,br,luso,1.0,todas
+2MdFJmUQf3ckA99IhFF9my,Ely Oaks,de,germânico,0.6666666666666666,solo
 2NMYOlZHIEsSq7pp5jBjic,Kizzy,br,luso,1.0,todas
-2NfSBtmWe7oPw1EmetJVso,Boza,es,hispano,0.775,solo
-2NjfBq1NflQcKSeiDooVjY,Tones And I,au,global,0.39655172413793105,solo
-2O8vbr4RYPpk6MRA4fio7u,SAIKO,es,hispano,1.0,solo
-2OnKRchqP7tT0FzTvWIFI7,Wolfine,mx,hispano,0.8181818181818182,solo
-2QMsj4XJ7ne2hojxt6v5eb,Riley Green,us,anglo,0.88,solo
-2QWIScpFDNxmS6ZEMIUvgm,Julieta Venegas,mx,hispano,0.5625,todas
-2R21vXR83lH98kGeO99Y66,Anuel AA,es,hispano,0.6344086021505376,todas
+2NfSBtmWe7oPw1EmetJVso,Boza,mx,hispano,0.8181818181818182,solo
+2NjfBq1NflQcKSeiDooVjY,Tones And I,au,global,0.27247191011235955,solo
+2NlKrNMdpYxGjt3Pvw87rC,Europa,gb,anglo,1.0,todas
+2NpPlwwDVYR5dIj0F31EcC,Leony,de,germânico,1.0,solo
+2Ns3GuAU2LYllDr7z20d0e,No Limit,fr,franco,1.0,todas
+2OFij1ppCwYFCOTq7vzafi,bees & honey,de,germânico,0.37254901960784315,todas
+2OnKRchqP7tT0FzTvWIFI7,Wolfine,mx,hispano,1.0,solo
+2PJEagPIxaBugeMjIyKVXF,Aitch,gb,anglo,1.0,solo
+2PaZWGu5T5nHjY2xxAkFsT,THE SCOTTS,ca,global,0.20454545454545456,todas
+2Q4r4Epfaaho06ONTHx7OS,MC's Jhowzinho & Kadinho,br,luso,1.0,solo
+2QMsj4XJ7ne2hojxt6v5eb,Riley Green,ca,anglo,0.4897959183673469,solo
+2QWIScpFDNxmS6ZEMIUvgm,Julieta Venegas,mx,hispano,0.75,todas
+2QjS2N6sORI7H4qbf6xitS,WC no Beat,br,luso,1.0,todas
+2R21vXR83lH98kGeO99Y66,Anuel AA,mx,hispano,0.868995633187773,todas
+2RDOrhPqAM4jzTRCEb19qX,Sheck Wes,ca,anglo,0.2777777777777778,solo
 2REmOYHdJPfuEKXH1mSaHs,,jp,japonês,1.0,todas
-2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,us,anglo,0.5652173913043478,solo
-2T1aUibqR2QC2sINIDQOAK,Mambo Kingz,es,hispano,0.5178571428571429,todas
-2U3FuHYvL3vhkbDAXm24Ep,Dan Caplen,au,anglo,0.4482758620689655,todas
+2RJBv9wXbW6m539q9NOfW1,Soprano,fr,franco,1.0,todas
+2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,us,anglo,0.28272251308900526,solo
+2RYonYiVhhzBz82UFXOvEN,KEVIN WOO,au,global,0.20481927710843373,todas
+2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,gb,anglo,0.5,todas
+2Reg4IlIHtEGZHnSD4pphn,erobé,de,germânico,1.0,todas
+2Rimf9z3oYDBeszSXFACRR,Daniel Everidge,gb,anglo,1.0,todas
+2RrkjxcwXz281MxRs8Oqp7,LUNA,de,germânico,1.0,todas
+2SRd7Kx7xWkZjoaFKgEreg,Paul,de,germânico,1.0,todas
+2SabhGDiBSyaM6QSuBUVqB,Noizy,de,germânico,1.0,todas
+2SrSdSvpminqmStGELCSNd,Stormzy,gb,anglo,0.7333333333333333,solo
+2T1aUibqR2QC2sINIDQOAK,Mambo Kingz,mx,hispano,0.9882352941176471,todas
+2T1se5h5FRkw7ZfR7yxdlm,Tayrone,br,luso,1.0,todas
+2T8o1YNgbgsE41xb62AlRY,Rain Radio,gb,anglo,1.0,todas
+2TWBei99x2tV70bdYbWdAf,Dayvi,mx,hispano,0.5909090909090909,todas
+2TcGJdSOiOvITBzhvfX8XB,Shouse,de,germânico,0.5172413793103449,solo
+2TiXt00aPsggbxZxL1RaG7,KUMMER,de,germânico,1.0,todas
+2U3FuHYvL3vhkbDAXm24Ep,Dan Caplen,gb,anglo,0.3333333333333333,todas
+2UMMVk4WPg6pKXQGvufnuG,TOMONARI SORA,jp,japonês,1.0,solo
 2UMj7NCbuqy1yUZmiSYGjJ,MC Kevin o Chris,br,luso,1.0,solo
-2UNjfzEkfsdWVDwnuD6vdH,bbyclose,au,anglo,1.0,todas
-2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,es,hispano,0.803921568627451,todas
+2UNjfzEkfsdWVDwnuD6vdH,bbyclose,au,anglo,0.375,todas
+2UOx6w3eHpPKc3RBnNV3Rl,Safri Duo,de,germânico,1.0,todas
+2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,mx,hispano,1.0,todas
 2UmhByzSum8X2lQZ7pWvWp,,jp,japonês,1.0,todas
-2VSHKHBTiXWplO8lxcnUC9,GAYLE,au,global,0.24390243902439024,solo
+2UwqpfQtNuhBwviIC0f2ie,Damso,fr,franco,1.0,solo
+2VAnyOxzJuSAj7XIuEOT38,AlunaGeorge,gb,anglo,1.0,todas
+2VSHKHBTiXWplO8lxcnUC9,GAYLE,fr,global,0.15789473684210525,solo
 2VcWFvgGxVdma52qB5DSDw,AKASAKI,jp,japonês,1.0,solo
-2W6kbe0nm96COrHzNmfLLd,MC Fioti,es,hispano,0.6,todas
+2VykmpwjNmZuVWKiKnqonz,prodbyeros,br,luso,1.0,todas
+2W6kbe0nm96COrHzNmfLLd,MC Fioti,de,germânico,0.5,todas
+2W8yFh0Ga6Yf3jiayVxwkE,Dove Cameron,ca,global,0.21621621621621623,solo
+2WBJQGf1bT1kxuoqziH5g4,Purple Disco Machine,de,germânico,0.5714285714285714,todas
+2WmxTCUVOyGsqn4GA7VxuC,Gustav,de,germânico,1.0,todas
+2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,ca,anglo,0.30612244897959184,solo
+2X97ZAqRKRMYFIDqtvGgGc,Silk City,gb,global,0.2777777777777778,todas
 2XjqKvB2Xz9IdyjWPIHaXi,Sheena Ringo,jp,japonês,1.0,solo
-2YRyPiW98bpkARAS4B3OQP,Dei V,es,hispano,0.8796296296296297,todas
-2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,us,anglo,0.5639097744360902,solo
+2XnBwblw31dfGnspMIwgWz,Axwell /\ Ingrosso,de,germânico,0.8333333333333334,todas
+2XnY6NZ6rENbLMYabjkRey,Toby Romeo,de,germânico,0.8181818181818182,todas
+2XoNHBh5o3I1Niqsr5uA3P,Anyme023,fr,franco,1.0,todas
+2YRHC9O0GHvyHY38yFP434,Dadi,fr,franco,1.0,todas
+2YVF0Ou5zIc4mpgtLIlGN0,Robert Miles,gb,anglo,1.0,todas
+2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,us,anglo,0.32677165354330706,solo
 2Z0lRIqr997lIUiPtrpKCr,Matheus & Kauan,br,luso,1.0,solo
+2Z9KL8Zmqx5Sg3cd7Fldhl,Olexesh,de,germânico,1.0,todas
 2ZXnTEyYopSLCDiz5Z0XIf,MC Kekel,br,luso,1.0,todas
 2ZjWbNQAjL74Pf4aqikIz2,Shota Shimizu,jp,japonês,1.0,solo
+2a0uxJgbvvIRI4GX8pYfcr,J Hus,gb,anglo,1.0,todas
+2as15AH2BTrPk8v4gyElmr,Rhenzy Feliz,gb,anglo,0.25806451612903225,todas
 2ayMogRmamCnzMAk4YiFAz,Takanori Nishikawa,jp,japonês,1.0,todas
-2ayNSoKPCRAfjp6hQ76hRu,Nacho,es,hispano,0.9285714285714286,todas
-2bxxlINUlcMQQb39K7IopR,Abraham Mateo,es,hispano,1.0,todas
-2cFrymmkijnjDg9SS92EPM,blackbear,us,anglo,0.4642857142857143,solo
-2cPqdH7XMvwaBJEVjheH8g,Jay Wheeler,es,hispano,0.6695652173913044,todas
-2cWZOOzeOm4WmBJRnD5R7I,Normani,au,global,0.3020833333333333,todas
+2ayNSoKPCRAfjp6hQ76hRu,Nacho,mx,hispano,0.8,todas
+2bdRWQiJL18iqUjSiPNBUI,VIZE,de,germânico,1.0,todas
+2c32JruIkUyfdycHmhIph4,花譜,jp,japonês,1.0,todas
+2cBh5lVMg222FFuRU7EfDE,Sophie Ellis-Bextor,gb,anglo,0.36363636363636365,solo
+2cFrymmkijnjDg9SS92EPM,blackbear,ca,global,0.22807017543859648,solo
+2cPqdH7XMvwaBJEVjheH8g,Jay Wheeler,mx,hispano,1.0,todas
+2cQr2KbzdRtIFlfbHGnNsL,Ziv Zaifman,gb,anglo,1.0,todas
+2cWZOOzeOm4WmBJRnD5R7I,Normani,au,anglo,0.2727272727272727,solo
+2ctUnxn4qlNB9rYMyKJuMf,Ikke Hüftgold,de,germânico,1.0,todas
 2d9LRvQJnAXRijqIJDDs2K,Emicida,br,luso,1.0,todas
+2e4uIDIIBXR0MmZe0AJGhR,Bosse,de,germânico,1.0,todas
 2eK9gcJQ6uqVvJL63dnOM3,Simone Mendes,br,luso,1.0,solo
-2f6TzIGIIxEuwp6o7kEbhy,Pablo Mas,es,hispano,1.0,todas
+2eh8cEKZk4VeruUrGq748D,Rim'K,fr,franco,1.0,todas
+2emd6h8cx0U8QUAxDddXPF,Whindersson Nunes,br,luso,1.0,todas
+2f7f3AmL16mmiAmYnxmmfx,Provinz,de,germânico,1.0,solo
 2f8xoxornfSw6ePzgyM9NO,MC Jvila,br,luso,1.0,todas
+2feDdbD5araYcm6JhFHHw7,Labrinth,fr,franco,0.375,todas
+2fq90a9LyDsSfhAmAx8iYh,SiarBeats,br,luso,1.0,todas
+2fsk4VlJdNF6G8cCMDrrzB,Norma Jean Martine,de,germânico,0.5245901639344263,todas
+2gTcdmBwgyh3EORKIXCzlw,El Profesor,de,germânico,0.7857142857142857,todas
+2gW0M5fn2r7Lo4Hn1r8HZ5,Creeds,de,germânico,0.9615384615384616,solo
+2gduEC76ry33RVurAvT05p,Nathan Dawe,gb,anglo,0.8717948717948718,todas
 2h5Ha0ZiMFmOQD3iYcSXsy,KayBlack,br,luso,1.0,todas
-2h93pZq0e7k5yf4dywlkpM,Frank Ocean,au,anglo,0.5652173913043478,solo
+2h6hAChW74hB9HvrNoK1RY,Quarterhead,de,germânico,0.5483870967741935,todas
+2h93pZq0e7k5yf4dywlkpM,Frank Ocean,us,anglo,0.2920962199312715,solo
+2hVWBpjLW4Q7fboYz2pVYK,MOLIY,ca,anglo,0.21875,todas
 2hejA1Dkf8v8R0koF44FvW,Gera MX,mx,hispano,0.9259259259259259,todas
-2hlmm7s2ICUX0LVIhVFlZQ,Gunna,us,anglo,0.5862068965517241,solo
+2hlmm7s2ICUX0LVIhVFlZQ,Gunna,us,anglo,0.24299065420560748,solo
 2hrWpLNoJcs1EnWSXvB6JI,The Rubens,au,anglo,1.0,solo
 2iK1rsbYstkSVn57M4s8ut,Gaab,br,luso,1.0,todas
-2jSGzJw0ebJLu7OLVSOcBP,Plan B,mx,hispano,0.58,solo
-2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,us,anglo,0.6376811594202898,solo
-2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,us,anglo,0.8461538461538461,solo
-2lJ6K4PTrrweXhRiqh1CZE,SUPER-Hi,au,anglo,1.0,todas
+2iojnBLj0qIMiKPvVhLnsH,Trey Songz,us,anglo,1.0,todas
+2j2rh3oQh4QEUnNTDKYSJD,187 Strassenbande,de,germânico,1.0,todas
+2jFnPm8VeSO19i6B8blXB5,Abou Debeing,fr,franco,1.0,todas
+2jSGzJw0ebJLu7OLVSOcBP,Plan B,mx,hispano,1.0,solo
+2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,ca,anglo,0.3546099290780142,solo
+2jn9JOmdrR9BdiR1LTvYG4,Boy Matthews,au,anglo,1.0,todas
+2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,au,anglo,0.36065573770491804,todas
+2kCO8LXN1usaOPL3iEE28I,Tai Verdes,au,anglo,0.34782608695652173,solo
+2kIs76sEGiulKeqetZq6ua,Jok'air,fr,franco,1.0,solo
+2kMDiFDvjMOoLfcZbLgA6s,MC M10,br,luso,1.0,todas
+2kS9NyuATpYwjeB93h24H5,Nina Chuba,de,germânico,1.0,solo
+2kU94AZG0xEVKnOUKDbEfg,i wanna be a jack-o-lantern,us,anglo,0.43478260869565216,todas
+2kXKa3aAFngGz2P4GjG5w2,SCH,fr,franco,1.0,solo
+2kqUKsTuEj1lPbm6BSn1AU,Rich Music LTD,mx,hispano,1.0,todas
+2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,ca,anglo,0.6388888888888888,solo
+2l35CQqtYRh3d8ZIiBep4v,MKTO,au,anglo,0.47619047619047616,solo
+2lJ6K4PTrrweXhRiqh1CZE,SUPER-Hi,au,anglo,0.6086956521739131,todas
+2lQUT7KTSpuj9z8PdtMdtz,July,de,germânico,1.0,todas
+2lW4v8QBN9C7ENq22OTS9V,Baby,br,luso,1.0,todas
+2loEsOijJ6XiGzWYFXMIRk,Adam Port,de,germânico,0.375,todas
 2mJOGcLR3aCHkM1uAF93or,DREAMS COME TRUE,jp,japonês,1.0,solo
-2nm38smINjms1LtczR0Cei,Goodboys,br,luso,0.5463917525773195,todas
+2mLA48B366zkELXYx7hcDN,Peggy Gou,gb,anglo,0.3333333333333333,solo
+2mRSRf8SwYI5p2wXvPEZFe,DJ Marcus Vinicius,br,luso,1.0,todas
+2mkCm5VNJTplOKJxcDYMpa,Ericson,de,germânico,1.0,todas
+2mpeljBig2IXLXRAFO9AAs,Dido,de,germânico,0.44594594594594594,todas
+2mxe0TnaNL039ysAj51xPQ,R. Kelly,au,anglo,0.5,todas
+2myuqB0gKAo75dE2eSWgzt,Silent Addy,ca,anglo,0.21875,todas
+2n0Qz7ZvKS6kwjPuj9sW4H,Senex Jr.,de,germânico,0.6666666666666666,todas
+2nm38smINjms1LtczR0Cei,Goodboys,br,global,0.29444444444444445,todas
+2nnza2r2urV90Ykr5Sfnsi,FLEM KGB,fr,franco,1.0,todas
 2nszmSgqreHSdJA3zWPyrW,Luis Miguel,mx,hispano,1.0,solo
-2o08sCWF5yyo2G4DCiT7T9,,au,anglo,0.5,todas
-2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,au,global,0.38,solo
-2oQX8QiMXOyuqbcZEFsZfm,El Alfa,es,hispano,0.6875,todas
-2p1fiYHYiXz9qi0JJyxBzN,Skepta,au,anglo,0.6551724137931034,todas
+2o08sCWF5yyo2G4DCiT7T9,HVME,de,germânico,0.45454545454545453,solo
+2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,de,global,0.3125,solo
+2oOAiE62UgqjCEWTHPdn0F,Nuit Incolore,fr,franco,1.0,solo
+2oQX8QiMXOyuqbcZEFsZfm,El Alfa,fr,franco,0.5714285714285714,todas
+2oT7xd9iTO2ejLsNGIMa5f,Flow La Movie,mx,hispano,1.0,todas
+2oZq6t5DkE2BdGbD6x8RXh,Stay Flee Get Lizzy,gb,anglo,1.0,todas
+2omBO7SLYnERf6OtvWkJNL,MC Thin,br,luso,1.0,todas
+2otUckChxWf2cp6UP2cD6e,Zuna,de,germânico,1.0,todas
+2p1fiYHYiXz9qi0JJyxBzN,Skepta,au,anglo,0.36363636363636365,todas
+2pG0eQLB8CbmmWWmjJi4yd,Osquel,mx,hispano,1.0,todas
+2pHk4wAmL7ofTAuvCIUWtv,Roméo Elvis,fr,franco,1.0,solo
+2ptKt4yP4mYRZmvi09JYyi,Timal,fr,franco,1.0,todas
+2q2P3aOEL8WUFApgPupsM9,Yoru no Hitowarai,jp,japonês,1.0,solo
 2q9wk5fkeU2C9CgCKdh4AN,Mc IG,br,luso,1.0,solo
 2qATSoNFfzMaTEZFfJpG4c,SMU,br,luso,1.0,todas
-2qk9voo8llSGYcZ6xrBzKx,Kings of Leon,au,anglo,0.9473684210526315,solo
-2qxJFvFYMEDqd7ui6kSAcq,Zedd,jp,japonês,1.0,todas
-2rGri7YZ2eiCS58zgvmlQb,Sinsinati,es,hispano,1.0,todas
-2rhFzFmezpnW82MNqEKVry,Ski Mask The Slump God,us,anglo,0.7272727272727273,solo
-2rmkQLzj0k4nZdQehOUByO,Chino Pacas,mx,hispano,0.7241379310344828,solo
-2sSGPbdZJkaSE2AbcGOACx,The Marías,us,anglo,0.7368421052631579,solo
+2qk9voo8llSGYcZ6xrBzKx,Kings of Leon,gb,anglo,0.39572192513368987,solo
+2qoQgPAilErOKCwE2Y8wOG,GloRilla,us,anglo,0.36,todas
+2qxJFvFYMEDqd7ui6kSAcq,Zedd,jp,global,0.2891566265060241,todas
+2rEVnwCPBeGkWMv425KoG1,AYLIVA,de,germânico,1.0,solo
+2rTo8KIkBTFjQS7VvaKYQ4,W&W,de,germânico,0.7674418604651163,todas
+2rUfBClgdqQ4Svcg0A6gIl,noa,jp,japonês,1.0,todas
+2raERfjzsdnUUQeZSge5eZ,Sammy,mx,hispano,1.0,todas
+2rhFzFmezpnW82MNqEKVry,Ski Mask The Slump God,us,anglo,0.5,solo
+2rmkQLzj0k4nZdQehOUByO,Chino Pacas,mx,hispano,0.7894736842105263,solo
+2s7Oijd4mFGgEkhYJtf3sJ,Shane Codd,gb,anglo,1.0,todas
+2s7fZ34RK8RUJQ2ewsh6I5,RK,fr,franco,1.0,solo
+2sF5nNXnrrsCPZlt8ZpyGd,Rich Amiri,us,anglo,0.3181818181818182,solo
+2sSGPbdZJkaSE2AbcGOACx,The Marías,us,anglo,0.48148148148148145,solo
 2sd5k8N8cAOm6Q8OCcePw4,Rin音,jp,japonês,1.0,solo
-2sil8z5kiy4r76CRTXxBCA,The Goo Goo Dolls,au,anglo,0.5625,solo
-2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,au,anglo,0.6805555555555556,solo
-2txHhyCwHjUEpJjWrEyqyX,Tom Odell,au,anglo,0.42857142857142855,solo
+2sil8z5kiy4r76CRTXxBCA,The Goo Goo Dolls,au,anglo,0.27692307692307694,solo
+2t0frJEIdex2PTwuLlGxDD,Carbonne,fr,franco,1.0,solo
+2t1vHqFELDwweQWM6JYxHG,Kelvin Jones,de,germânico,1.0,todas
+2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,au,anglo,0.3167420814479638,solo
+2tPR06hLUvH5aIY3JXNIxY,dutchavelli,gb,anglo,1.0,todas
+2tcoLkA9Hexz70Kuc1NTUl,Gradur,fr,franco,1.0,todas
+2tswayWsUGjUwpvN8KRwuN,MORADA,br,luso,1.0,solo
+2txHhyCwHjUEpJjWrEyqyX,Tom Odell,de,germânico,0.2465753424657534,solo
+2uFC1dAj5b0YU7vulKNZ0p,Banx & Ranx,ca,anglo,0.5217391304347826,todas
+2uIRmVaCVpHQjaVgph5clS,ZT (3x3),gb,anglo,0.5,todas
 2uSwBbWqsXgoMYQjynmwQ7,Di Propósito,br,luso,1.0,todas
-2uVpysjtU2tanrR1N9YVjE,Blacknife,es,hispano,1.0,todas
-2uYWxilOVlUdk4oV9DvwqK,Mitski,us,anglo,0.5625,solo
-2urF8dgLVfDjunO0pcHUEe,Alvaro Soler,es,hispano,0.8947368421052632,solo
+2uYWxilOVlUdk4oV9DvwqK,Mitski,us,global,0.2465753424657534,solo
+2ubn2zwyYaLdHOCKnTouU2,Ziak,fr,franco,1.0,solo
+2urF8dgLVfDjunO0pcHUEe,Alvaro Soler,de,germânico,0.46153846153846156,solo
+2vVNxGBvKRQMWwI5c8KmYh,Tujamo,de,germânico,1.0,todas
+2vWGxqWbGgmgxVDZ5CBvBP,Bielzin,br,luso,1.0,todas
 2vjeuQwzSP5ErC1S41gONX,CHANMINA,jp,japonês,1.0,solo
-2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,jp,japonês,0.4772727272727273,todas
-2wY79sveU1sp5g7SokKOiI,Sam Smith,au,global,0.24193548387096775,todas
-2wkoKEfS6dXwThbyTnZWFU,Mau y Ricky,es,hispano,0.5483870967741935,todas
-2ydZrTy8U3kOMOzx20s3dg,DJ Nelson,es,hispano,0.69,todas
-2ysnwxxNtSgbb9t1m2Ur4j,George Ezra,au,anglo,0.8974358974358975,solo
-2z1MpPojFcvxYcEAx0lT6w,Vicco,es,hispano,1.0,solo
+2wIVse2owClT7go1WT98tk,,gb,anglo,1.0,todas
+2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,jp,japonês,0.40384615384615385,todas
+2wY79sveU1sp5g7SokKOiI,Sam Smith,au,global,0.2631578947368421,solo
+2wkoKEfS6dXwThbyTnZWFU,Mau y Ricky,mx,hispano,1.0,todas
+2xOLGU5UNLV3KQSFteF8ZW,Boladin 211,br,luso,1.0,todas
+2yNNYQBChuox9A5Ka93BIn,HUNTR/X,ca,global,0.1702127659574468,todas
+2yPprAQlrIQWu60g09B9MZ,,gb,anglo,1.0,todas
+2ydZrTy8U3kOMOzx20s3dg,DJ Nelson,mx,hispano,1.0,todas
+2ye2Wgw4gimLv2eAKyk1NB,Metallica,au,anglo,0.4423076923076923,solo
+2yh2yg3b2viRskto7M1cx7,TM,de,germânico,1.0,todas
+2ysnwxxNtSgbb9t1m2Ur4j,George Ezra,gb,anglo,0.5562913907284768,solo
+2yyaNPcdxZcn4iutCcLMaC,Orso,de,germânico,0.375,todas
+2z2TRvloJt4EfUNQp9rHAi,Alonzo,fr,franco,1.0,solo
+2z7DJIoCCkzCqCjBhKXzHB,Kokosvoice,fr,franco,1.0,todas
+2zGf6lwQ9PxXdoeo5XXP2K,Projota,br,luso,1.0,todas
 2zUQjYvy0TevSi4d3PjqQO,MONGOL800,jp,japonês,1.0,solo
 2zWqENF4cnsd1nLmraG9IE,DJ Lucas Beat,br,luso,1.0,todas
-31IVfzTQ5bAPL8XMrO6dVx,Axolotes Mexicanos,es,hispano,0.9318181818181818,todas
-31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,us,anglo,0.6666666666666666,solo
-329e4yvIujISKGKz1BZZbO,Farruko,es,hispano,0.4375,solo
+2zjdf1M6DGPcBFnvEYmydy,John Amplificado,br,luso,1.0,todas
+30Hiyu8fW3upjYdoXoXy8i,RUXN,br,luso,1.0,todas
+30qXkHd2Thmw1wqJvgRa7o,MC Torugo,br,luso,1.0,todas
+311uEW9rt5g2NmzjGEKS2E,Mae Stephens,gb,anglo,0.46153846153846156,solo
+31TPClRtHm23RisEBtV3X7,Justin Timberlake,au,anglo,1.0,todas
+31Ua7zSTJxegjyd49ujbSA,NSG,gb,anglo,1.0,todas
+31VFEohvhOUKrtAONEBhMG,Kenia Os,mx,hispano,1.0,solo
+31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,ca,anglo,0.3090909090909091,solo
+325L7kby6bkG5qSXXAFEWM,Joker Bra,de,germânico,1.0,todas
+329e4yvIujISKGKz1BZZbO,Farruko,mx,hispano,0.27,solo
+32NfHH4nSmu97Z4RQjPyET,N.I.N.A,br,luso,1.0,todas
+32QmJ5obSke8YKDbQvVPUx,Eito,jp,japonês,1.0,solo
+32kPQzj1rk4nnGIIJpIUic,CERES,de,germânico,1.0,todas
+32x7si7OXL4SMHBU25qRai,DJ AL4DDIN,br,luso,1.0,todas
 33JQK4UoS2aMPYBfdB5Ftt,Ryan Riback,jp,japonês,1.0,todas
-33NVpKoXjItPwUJTMZIOiY,David Kushner,au,anglo,0.5294117647058824,solo
-33qOK5uJ8AR2xuQQAhHump,Teddy Swims,au,anglo,0.4888888888888889,solo
-34PYzJSu4DHKEyhdBfsn0E,TORRRES,es,hispano,1.0,todas
-35WVTyRnKAoaGExqgktVyb,Hotel Ugly,us,anglo,0.631578947368421,solo
+33NVpKoXjItPwUJTMZIOiY,David Kushner,au,global,0.18556701030927836,solo
+33ScadVnbm2X8kkUqOkC6Z,Don Omar,de,germânico,0.4126984126984127,todas
+33qOK5uJ8AR2xuQQAhHump,Teddy Swims,au,global,0.22110552763819097,solo
+33zatJq0MdffoK8tEpWVFu,MC YOSHI,fr,franco,1.0,todas
+341CfLcUdaBGixB8IJjYwW,Lupillo Rivera,mx,hispano,1.0,todas
+34BnNmWVguXa3CigvfHJHS,GORDÃO DO PC,br,luso,1.0,todas
+34IKMjXZ3Qy0vjG82n97r6,Bruno Cardoso,br,luso,1.0,todas
+34LetYSjEuG2fBb4Z8PwPg,Pashanim,de,germânico,1.0,solo
+34kJWuUS4hNN1MkqiIG0dS,,br,luso,1.0,todas
+34nbQa7Hug9DYkRJpfKNFv,T3R Elemento,mx,hispano,1.0,todas
+353KPo8gVAfcZfwF7BPZDy,Münchener Freiheit,de,germânico,1.0,solo
+35WVTyRnKAoaGExqgktVyb,Hotel Ugly,us,anglo,0.3956043956043956,solo
 35YkpX0zYwHG8vOIhObvxP,Mano Walter,br,luso,1.0,solo
-35l9BRT7MXmM8bv2WDQiyB,beabadoobee,au,global,0.2923076923076923,todas
-360IAlyVv4PCEVjgyMZrxK,Miguel,us,anglo,0.547945205479452,solo
-36cgvBn0aadzOijnjjwqMN,ILLIT,jp,japonês,0.9142857142857143,solo
-37230BxxYs9ksS7OkZw3IU,Chencho Corleone,mx,hispano,0.45604395604395603,todas
+35dxfY1wywqVRUEaVuMm13,Bou,gb,anglo,1.0,todas
+35l9BRT7MXmM8bv2WDQiyB,beabadoobee,au,global,0.16964285714285715,todas
+35oGZihZclGoTVuICPXRP9,Jere Klein,mx,hispano,1.0,todas
+360IAlyVv4PCEVjgyMZrxK,Miguel,us,anglo,0.2962962962962963,solo
+36CUTsdtNgCwMq6zKD1l8I,Mauro Castillo,gb,anglo,0.25806451612903225,todas
+36PxHmbx5QrRTpuCaw4FuV,,au,anglo,1.0,todas
+36SRwzRkX5zW3ABjJrevqX,Dadá Boladão,br,luso,1.0,todas
+36caCzfSrrL7a8Mvd1SuRr,Chapo102,de,germânico,1.0,todas
+36cgvBn0aadzOijnjjwqMN,ILLIT,jp,japonês,0.8648648648648649,solo
+37230BxxYs9ksS7OkZw3IU,Chencho Corleone,mx,hispano,0.8211920529801324,todas
+37czgDRfGMvgRiUKHvnnhj,Öwnboss,de,germânico,0.75,todas
+37lTKHi901VnwngQ7C8noT,Malachiii,de,germânico,0.375,todas
 37mqXU98U5GmH5ZDtlHM1c,Matheus Fernandes,br,luso,1.0,todas
+387fj6TuPJ3y2H8ViAm6r0,Pietro Lombardi,de,germânico,1.0,todas
 38Bf9u0Tg0JOEcjxzqSuAj,JR Torres,mx,hispano,1.0,todas
-38PzLQE4GW8o7A18oGhi0x,hey daisy,au,anglo,0.6875,todas
+38GSybQjdc6sxptciOkxMq,Zaho de Sagazan,fr,franco,1.0,solo
+38KSpOSYnwQX9zcOcVKdym,Frauenarzt,de,germânico,1.0,todas
+38PzLQE4GW8o7A18oGhi0x,hey daisy,au,anglo,0.3235294117647059,todas
 38WbKH6oKAZskBhqDFA8Uj,ZUTOMAYO,jp,japonês,1.0,solo
-38fj30EaPzIxhpEuhdPZ6q,alPeDue,es,hispano,1.0,todas
-39E15l8zeCDYpSZwFNX4G2,Eleni Foureira,es,hispano,1.0,solo
+39B7ChWwrWDs7zXlsu3MoP,Sonny Fodera,gb,anglo,0.717391304347826,todas
+39KEQQAG9JhIt71g9NEVhh,Azet,de,germânico,1.0,todas
 39QiJaZ1HzRcpY9xlMKCsF,TrapLaudo,br,luso,1.0,todas
-3ATyg4fGC9F8trfb0GRWmX,,es,hispano,1.0,todas
+3A9B6c1CrSPauiOblw7pWz,Nico Santos,de,germânico,1.0,todas
+3AA28KZvwAUcZuOKwyblJQ,Gorillaz,gb,anglo,0.275,todas
+3ABLHSKKZzNcgpBuXvLB9W,Kpoint,fr,franco,1.0,todas
+3AXI2Qfty5IVrmtQzi8weo,MOKABY,de,germânico,0.7333333333333333,todas
 3BjFX1nExMNHvSaoLd1I1k,Takaya Kawasaki,jp,japonês,1.0,solo
+3ByS6WHuxmY7mMp7HsVn3u,,au,anglo,1.0,todas
 3CDoRporvSjdzTrm99a3gi,LUDMILLA,br,luso,1.0,todas
+3CGLLDfrPjF2FJ8HDCKMMv,Paulo e Nathan,br,luso,1.0,todas
 3CIIaeZuFYrAD6PRVyuO4U,Felipe Amorim,br,luso,1.0,solo
-3CbYyyd8wH3RT6t0jwpdzC,Murda Beatz,us,global,0.38461538461538464,todas
-3Ces1OJeGOVGcUB0wPaPXJ,Mala Rodríguez,es,hispano,1.0,todas
-3CjlHNtplJyTf9npxaPl5w,CHVRCHES,au,anglo,0.4583333333333333,todas
+3CJKkU0XuElRT1z8rEtIYg,Luciano,de,germânico,1.0,solo
+3CbYyyd8wH3RT6t0jwpdzC,Murda Beatz,ca,global,0.18181818181818182,todas
+3CjlHNtplJyTf9npxaPl5w,CHVRCHES,au,global,0.23404255319148937,todas
+3CnCGFxXbOA8bAK54jR8js,Vald,fr,franco,1.0,solo
+3Cz37xnWAOtQEa5jfrTUbL,VEN1,fr,franco,1.0,solo
+3DCWeG2J1fZeu0Oe6i5Q6m,PLK,fr,franco,1.0,solo
+3DIMAAaWSlVl1YQ9nsQmUN,Dj Nk Da Serra,br,luso,1.0,todas
 3DYDViKP5r8OuydfJ7XxnS,"Juan Luis Londoño Arias ""Maluma""",mx,hispano,1.0,todas
-3DeOmVSmpv7WknXoo1OS8p,Alleh,es,hispano,0.8604651162790697,todas
-3E12tRURRvPfHz0hAMCFYc,Omar Courtz,es,hispano,0.7954545454545454,todas
-3E6xrwgnVfYCrCs0ePERDz,Wisin,es,hispano,0.5307692307692308,todas
-3EOEK57CV77D4ovYVcmiyt,Dennis Lloyd,au,global,0.38461538461538464,solo
-3Edve4VIATi0OZngclQlkN,Dopamine,au,anglo,0.5517241379310345,todas
-3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,es,hispano,0.6808510638297872,todas
+3DbwFQlvLxRSi2uX8mf81A,Sexyy Red,us,anglo,0.27419354838709675,todas
+3E6xrwgnVfYCrCs0ePERDz,Wisin,mx,hispano,0.9655172413793104,todas
+3EOEK57CV77D4ovYVcmiyt,Dennis Lloyd,de,global,0.273972602739726,solo
+3EYuWIltJb3kzoKyRzcTsi,Dj Yuri Pedrada,br,luso,1.0,todas
+3Edve4VIATi0OZngclQlkN,Dopamine,de,germânico,0.25,todas
+3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,mx,hispano,0.6521739130434783,todas
+3EmNguRllf32GJRqIKnD0C,DAAZ,mx,hispano,1.0,todas
+3EwCyH36uCmBdntay44KAT,Nickz Beatz,br,luso,1.0,todas
+3F2BUPEkX9IDaRYAeJN0Gh,Amo,de,germânico,1.0,todas
+3FBJxYbSWdf4s3b7qKbjRL,Los Honorables,mx,hispano,1.0,todas
+3FUY2gzHeIiaesXtOAdB7A,Train,au,anglo,0.8,solo
+3Fl1V19tmjt57oBdxXKAjJ,Blueface,us,anglo,0.3181818181818182,solo
 3FlCKtwOEYQQYyGVEbxG2Z,George Henrique & Rodrigo,br,luso,1.0,todas
-3FtVhV92rZyHa7ot2ioG5a,El Bobe,es,hispano,1.0,todas
-3Gf3gwkmZyNuecCyJyVD9j,Bigla The Kid,es,hispano,1.0,todas
-3HJq88k0us5XSJ4tD3J8RG,Jorsshh,mx,hispano,0.9473684210526315,todas
+3FoFW2AoUGRHBacC6i4x4p,Russ Millions,gb,anglo,0.8857142857142857,todas
+3GBBxBdoolb0B5YizZq9bF,Eno,de,germânico,1.0,solo
+3GM0VyM1n1qvk0v2PfXX4n,Tiago Mac,br,luso,1.0,todas
+3GxKJzJK4LpsYGXQrw77wz,Mimi Webb,gb,anglo,1.0,solo
+3HJq88k0us5XSJ4tD3J8RG,Jorsshh,mx,hispano,0.9428571428571428,todas
+3HkeiQiokrKJhhjZ9skb23,equal,de,germânico,1.0,todas
+3HmSuQk0VaGhv9hX22h10J,TRIANGLE DES BERMUDES,fr,franco,1.0,todas
+3HphLd0XiELTvIPYf55dYC,Dance Fruits Music,de,germânico,0.5,todas
+3HqP3nd8WI0VfHRhApPlan,Trinix,fr,franco,1.0,todas
 3I44LJGCaI0gSPPz3n16xn,Mc Luki,br,luso,1.0,todas
-3IYUhFvPQItj6xySrBmZkd,Creedence Clearwater Revival,au,anglo,0.7162162162162162,solo
-3Isy6kedDrgPYoTS1dazA9,Sean Paul,jp,japonês,1.0,todas
+3IW7ScrzXmPvZhB27hmfgy,Jul,fr,franco,1.0,solo
+3IYUhFvPQItj6xySrBmZkd,Creedence Clearwater Revival,ca,anglo,0.39603960396039606,solo
+3Isy6kedDrgPYoTS1dazA9,Sean Paul,gb,anglo,0.29545454545454547,todas
+3J7r4VsNmuWixU0nXvyPd8,Kalash,fr,franco,1.0,todas
+3JOwYU8Yv0wCe18FFanLEK,DJ AK BR,br,luso,1.0,todas
 3JSSjGYcIkgsrz7892CelT,Ed Maverick,mx,hispano,1.0,solo
 3JcD2LnyvfEki9d7705GaY,Dj Lc,br,luso,1.0,todas
-3JhNCzhSMTxs9WLGJJxWOY,Macklemore,au,anglo,0.8407079646017699,todas
-3LZZPxNDGDFVSIPqf4JuEf,Ice Spice,au,anglo,0.5,todas
-3MHaV05u0io8fQbZ2XPtlC,Prince Royce,es,hispano,1.0,todas
-3MRynBsyLGzv3IQ9Fip6hO,Ana Guerra,es,hispano,1.0,todas
-3MZsBdqDrRTJihTHQrO6Dq,Joji,us,anglo,0.90625,solo
-3MdXrJWsbVzdn6fe5JYkSQ,Latto,jp,japonês,0.5675675675675675,todas
-3Me35AWHCGqW4sZ7bWWJt1,Xavi,mx,hispano,0.7209302325581395,solo
+3JhNCzhSMTxs9WLGJJxWOY,Macklemore,au,anglo,0.2261904761904762,todas
+3JrsRa8z1Pngkkf4pDrokD,DJ Swat,br,luso,1.0,todas
+3JsHnjpbhX4SnySpvpa9DK,V,jp,japonês,0.75,solo
+3K2Srho6NCF3o9MswGR76H,Bakar,gb,anglo,0.34782608695652173,solo
+3K2zB87GZv1krx031en5VA,La Roux,gb,anglo,1.0,todas
+3K5sYlHk7RZimjYhUWej8D,LUIZA,fr,franco,1.0,todas
+3KJigfhLjMfuE2HXsgXbln,Kento Nakajima,jp,japonês,1.0,todas
+3KQylwDxYE7Vxli0BSuwaf,$OHO BANI,de,germânico,1.0,todas
+3KedxarmBCyFBevnqQHy3P,Jessie Reyez,mx,global,0.23076923076923078,todas
+3L774tiJRvPmAS90pOLB44,Rsko,fr,franco,1.0,todas
+3LKXWvXFWrkwUzJWxzwVpW,Tony Dize,mx,hispano,0.6470588235294118,todas
+3LZZPxNDGDFVSIPqf4JuEf,Ice Spice,au,anglo,0.23809523809523808,todas
+3Lk8ifX8dLKXls1ZCZAHgc,DANNA,mx,hispano,1.0,solo
+3MHaV05u0io8fQbZ2XPtlC,Prince Royce,mx,hispano,1.0,todas
+3MZsBdqDrRTJihTHQrO6Dq,Joji,us,anglo,0.4927536231884058,solo
+3MdXrJWsbVzdn6fe5JYkSQ,Latto,au,anglo,0.3870967741935484,solo
+3Me35AWHCGqW4sZ7bWWJt1,Xavi,mx,hispano,0.7272727272727273,solo
 3MrDVzg7ZXaYMyQmbDInr7,WIU,br,luso,1.0,solo
+3MyFDtqB80WZvbtCZRsekM,Bakermat,fr,franco,0.8695652173913043,solo
+3NH8t45zOTqzlZgBvZRjvB,PNL,fr,franco,0.99581589958159,solo
 3NRXKeatDxKe4apH6XawKX,DA PUMP,jp,japonês,1.0,solo
+3NTbOmzlj2cL86XFuDVFvZ,MAN WITH A MISSION,jp,japonês,1.0,todas
 3Nipsl6GVwwGyeAk0J29C6,MC G15,br,luso,1.0,todas
-3Nrfpe0tUJi4K4DXYWgMUX,BTS,jp,japonês,0.6762295081967213,solo
+3Nrfpe0tUJi4K4DXYWgMUX,BTS,jp,japonês,0.6630901287553648,solo
+3O5HD95HTEPgoPFOjAb7yV,DripReport,fr,global,0.25,solo
 3OxZ4asD88P1lJJmLcXz4K,Márcia Fellipe,br,luso,1.0,todas
-3PhoLpVuITZKcymswpck5b,Elton John,au,global,0.3697478991596639,todas
-3QSQFmccmX81fWCUSPTS7y,Dean Lewis,au,anglo,0.7419354838709677,solo
+3PLCOySHJ9zwED5yZvDtPZ,CUTIE STREET,jp,japonês,1.0,solo
+3PSGIWWzhs6TnocrDnG2qs,SARAH SEY,fr,franco,1.0,todas
+3PZTvUS5fUUhV3EKAjqdZk,Mc Danny,br,luso,1.0,todas
+3PeXrPTDFpmBfdfBR8nDAj,6PM RECORDS,de,germânico,1.0,todas
+3PhoLpVuITZKcymswpck5b,Elton John,au,global,0.20952380952380953,todas
+3PpJbrAbphauEun8Xf9tD2,Theodora,fr,franco,1.0,solo
+3PsyPWjsftbfeXGorZv4AM,Grand Corps Malade,fr,franco,1.0,todas
+3Q1GZN8Q2eH1o9e7umyjL2,Laniia,de,germânico,1.0,todas
+3QSQFmccmX81fWCUSPTS7y,Dean Lewis,au,anglo,0.42857142857142855,solo
+3QVolfxko2UyCOtexhVTli,Angèle,fr,franco,1.0,solo
 3QWnDVzCzffmWoYCAGNajE,Chippoke Ohashi,jp,japonês,1.0,solo
-3RtNN1VnooWEn3KQk03DUL,Noriel,es,hispano,0.6666666666666666,todas
-3S9Hg7sRKhmtWunFZ2yAYP,El Bogueto,mx,hispano,0.631578947368421,todas
+3R3WEsfL1WC1zLiz3XG9K5,miwa,jp,japonês,1.0,solo
+3RG6ihKgeBkOsLAPZxoPp9,Raul Vega,mx,hispano,1.0,todas
+3RbuVoer2pZlqAXI73ElhX,Cheriimoya,de,germânico,1.0,todas
+3RqBeV12Tt7A8xH3zBDDUF,Kelsea Ballerini,ca,anglo,0.2857142857142857,todas
+3RtNN1VnooWEn3KQk03DUL,Noriel,mx,hispano,1.0,todas
+3S46qb1V62vKdGl1sR6LEQ,Schürze,de,germânico,1.0,todas
+3S9Hg7sRKhmtWunFZ2yAYP,El Bogueto,mx,hispano,1.0,todas
+3SB4jbHhsv6NQTh7ZT5GzS,TkN,br,luso,1.0,todas
+3SCOuAxngTC1yGjKMcIPEd,Lasso,mx,hispano,1.0,solo
+3SYnDj7btg9gFY7ps8m5d5,RANI,au,anglo,0.375,todas
+3SozjO3Lat463tQICI9LcE,Tyla,au,global,0.19696969696969696,solo
+3THyxXDkvAVvmfZKP3Fq7G,Mc Pepeu,br,luso,1.0,todas
 3TJGVUkSJzk5ZPixMFczZX,Vitor Fernandes,br,luso,1.0,solo
 3TNpNnN7Y8QhtJJnQ08YeF,iRO,br,luso,1.0,todas
-3TVXtAsR1Inumwj472S9r4,Drake,us,global,0.4222222222222222,solo
-3VHAySZQPlfGlNLslzXYpN,NATHY PELUSO,es,hispano,1.0,todas
-3WGpXCj9YhhfX11TToZcXP,Troye Sivan,au,anglo,0.5,todas
+3TOqt5oJwL9BE2NG9MEwDa,Disturbed,fr,franco,0.56,todas
+3TVXtAsR1Inumwj472S9r4,Drake,ca,global,0.23630672926447574,solo
+3TqfPVt0HX8GCzNOOjDcum,Sun Diego,de,germânico,1.0,todas
+3UP5WnnFrMhewKp7cGeqQx,Naestro,fr,franco,1.0,todas
+3UY1KK0iXeC0mpaK0ltFza,asmi,jp,japonês,1.0,todas
+3Uees4yarZxpOrkxJsU8jA,Igow,br,luso,1.0,todas
+3VASiWHuSkZzujob6UXob6,LAVINIA,de,germânico,0.7777777777777778,todas
+3VVMRDGpbQR2SK9nHX3DW5,yangskinny,jp,japonês,1.0,solo
+3WGpXCj9YhhfX11TToZcXP,Troye Sivan,au,global,0.27450980392156865,todas
+3WQ1s2QFvL6crxBvrVhwzj,Gabriel Diniz,br,luso,1.0,todas
+3Wb38LDP3N4tkobValgE9D,Juanka,mx,hispano,0.8095238095238095,todas
+3XZewrXpRQqqCMuUMAIhvN,Domiziana,de,germânico,1.0,solo
 3XcCT5MPlQPWFTJyzXbfuX,Maejor,br,luso,1.0,todas
+3Xt3RrJMFv5SZkCfUE8C1J,Kim Petras,au,global,0.1951219512195122,todas
+3YBJLs7RqR0aPGBgU27nDh,Werenoi,fr,franco,1.0,solo
+3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,fr,franco,0.7142857142857143,todas
 3YmP6Oc4NvRqn5ZoL9KWbo,,jp,japonês,1.0,todas
-3ZpEKRjHaHANcpk10u6Ntq,Ayra Starr,es,hispano,0.6875,todas
+3YwqjMyrRfuixi2pbgTGCE,Heuss L'enfoiré,fr,franco,1.0,solo
+3Z3aTg9PwJ37e8xeO0aUC9,01099,de,germânico,1.0,todas
+3ZpEKRjHaHANcpk10u6Ntq,Ayra Starr,fr,franco,0.4642857142857143,solo
+3ZuBEj9ppJe8GSdKaMTfMN,Nimo,de,germânico,1.0,todas
 3a5ydeAaojKa3CHWe5PVWK,MC MM,br,luso,1.0,todas
 3abT87tqQ4Q5PA5nw6CYyH,Ángela Aguilar,mx,hispano,1.0,todas
-3bO19AOone0ubCsfDXDtYt,Myles Smith,au,anglo,0.7209302325581395,solo
-3bvfu2KAve4lPHrhEFDZna,Lola Indigo,es,hispano,1.0,solo
-3eVa5w3URK5duf6eyVDbu9,ROSÉ,au,global,0.2857142857142857,todas
-3fZk3Gm5dN5v5yfYMQ04Bx,Dímelo Flow,mx,hispano,0.6708860759493671,todas
+3aly4xJOy3LVznzvRIvFYC,F1 The Album,au,anglo,0.25,todas
+3b5bg1k6N9u31OtzSfK2dP,Dosseh,fr,franco,1.0,solo
+3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,au,anglo,0.3125,todas
+3bO19AOone0ubCsfDXDtYt,Myles Smith,gb,anglo,0.2682926829268293,solo
+3c0gDdb9lhnHGFtP4prQpn,KATSEYE,au,global,0.2,solo
+3c96G4d2lUOxhomM2mby5S,Bushido,de,germânico,1.0,todas
+3dH7pcBScIJQboDyMzUzez,GLK,fr,franco,1.0,todas
+3drLodjKeTMvZMvx07Q3Ku,Matheus,br,luso,1.0,todas
+3drqpTL4sQOckmAfF9i1wg,Summer Cem,de,germânico,1.0,solo
+3e7awlrlDSwF3iM0WBjGMp,Little Mix,gb,anglo,1.0,solo
+3eVa5w3URK5duf6eyVDbu9,ROSÉ,au,global,0.16560509554140126,todas
+3ebS2RuCq8QeLyndUDmgB5,WizTheMc,de,germânico,0.37254901960784315,todas
+3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,ca,global,0.25,todas
+3fZk3Gm5dN5v5yfYMQ04Bx,Dímelo Flow,mx,hispano,1.0,todas
 3fll16LLw6kdDxWzSpJPEQ,Malu,br,luso,1.0,todas
-3g9MKjIP9xrMTY5Pbwr6Nk,Kreamly,es,hispano,0.75,todas
+3gGUMEwIX6XodWsYEvKSal,YBN Nahmir,ca,anglo,0.6666666666666666,todas
+3gemH8D6fpu12DmTmUZYAL,Culcha Candela,de,germânico,1.0,solo
+3glwpkS2UIcYp8vojjnbr5,Russ Millions,gb,anglo,0.375,todas
+3h95Ve9m3Q07d8VG6V9hEU,Foorin,jp,japonês,1.0,solo
 3hTffafUYLLgO4yuPAxb5U,Lenin Ramírez,mx,hispano,1.0,todas
-3hcs9uc56yIGFCSy9leWe7,Lil Durk,us,anglo,0.48484848484848486,todas
-3hq7WoPJsrRP0KMSLhUgRz,Murilo Huff,br,luso,1.0,todas
-3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,us,global,0.2857142857142857,todas
-3jc496ljiyrS3ECrD7QiqL,Gipsy Kings,es,hispano,1.0,todas
+3hWQDRr1PqwvnHeiZlucBq,Bouss,fr,franco,1.0,solo
+3hcs9uc56yIGFCSy9leWe7,Lil Durk,us,anglo,0.3617021276595745,todas
+3hq7WoPJsrRP0KMSLhUgRz,Murilo Huff,br,luso,1.0,solo
+3hteYQFiMFbJY7wS0xDymP,Gesaffelstein,ca,anglo,0.25,todas
+3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,gb,anglo,0.3821138211382114,todas
+3iMzbvXlgNUpoFccD60bvr,Prezioso,de,germânico,0.6896551724137931,todas
+3igykO7sW43wfhSjvnETTo,Prototype,fr,franco,1.0,todas
+3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,us,global,0.1891891891891892,todas
+3jLj1sAQaEpLpktyJmyGIh,Lourena,br,luso,1.0,todas
+3jNkaOXasoc7RsxdchvEVq,Chase & Status,gb,anglo,0.8636363636363636,todas
+3jiOHVFdVQjbSDVeC7RgY7,Wir sind Helden,de,germânico,1.0,solo
+3joq445M6f168kb3mkp7BB,DJ WN,br,luso,1.0,todas
 3jpPlA4ASvE9TlObazOIee,BLOOM VASE,jp,japonês,1.0,solo
 3k68C6mNMJL6OaAdWeW2ZF,Diego & Victor Hugo,br,luso,1.0,solo
-3l9G1G9MxH6DaRhwLklaf5,Oscar Maydon,mx,hispano,0.92,todas
+3kEcQwpYE06lQJAAA3fVAA,DJ Kawest,fr,franco,1.0,todas
+3klZnJvYGIbWritVwQD434,Duncan Laurence,de,global,0.26,solo
+3l0CmX0FuQjFxr8SK7Vqag,Clairo,us,anglo,0.5357142857142857,todas
+3l9G1G9MxH6DaRhwLklaf5,Oscar Maydon,mx,hispano,0.946236559139785,todas
 3lIU3RoZiHen1QXAQ3KQ9e,Tz da Coronel,br,luso,1.0,todas
-3lLDZNIMUmxMzIE6Vz9Agz,KIDDO,es,hispano,1.0,todas
-3lY9Fxceu60W1rbon7PkuF,Omar Montes,es,hispano,1.0,todas
+3lLDZNIMUmxMzIE6Vz9Agz,KIDDO,de,germânico,1.0,todas
+3lX6w0gmtgVeijiFxNz5O7,Mc Nando Dk,br,luso,1.0,todas
 3la3vRfIuDMsydpPfUBryR,DJ Ari SL,br,luso,1.0,todas
-3m5qlPf2OkihLz3dRYnkPA,Ovy On The Drums,es,hispano,0.8725490196078431,todas
+3m785bWzNnoLuIJP88DUN1,SAMY,de,germânico,1.0,todas
+3mWQ5gAWWhoPDNHyAEC5Hz,Roy Bianco & Die Abbrunzati Boys,de,germânico,1.0,solo
+3mirzmIKVfvqcW0M5OKAzR,Yanns,fr,franco,1.0,solo
+3mmI5HKArDwgggj4j0aJyC,BHZ,de,germânico,1.0,todas
+3nFkdlSjzX9mRTtwJOzDYB,JAŸ-Z,au,anglo,0.2911392405063291,todas
+3nmpoFfQfHCsqho4taq5FK,Carlos Manjarrez,mx,hispano,1.0,todas
 3oNy8cjBtJzLC07I70sklp,Belanova,mx,hispano,1.0,solo
+3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,us,anglo,0.5882352941176471,solo
+3ocjm34azq21UtebolrtKj,Ananda,br,luso,1.0,todas
 3p7PcrEHaaKLJnPUGOtRlT,Henrique & Juliano,br,luso,1.0,solo
-3pUWmkSef9vJOPDViYGZ5L,Tonino Baliardo,es,hispano,1.0,todas
+3pMYJHAY5ErzmJQVWb8VX6,Lune,de,germânico,1.0,todas
+3pOnFT5MHIqIe9kcFCznZ8,CIVO,de,germânico,1.0,solo
+3pVfscwg2QxhdHtk966inb,The Cratez,de,germânico,1.0,todas
+3pjq2pDV9RR6VY55wBjVnp,Dardan,de,germânico,1.0,solo
 3prRKGJz16RRMRSIM97nHw,Supernova Ent,br,luso,1.0,todas
-3qBKjEOanahMxlRojwCzhI,Zacari,us,anglo,0.9487179487179487,todas
-3qsKSpcV3ncke3hw52JSMB,Young Miko,es,hispano,0.4782608695652174,todas
+3q7HBObVc0L8jNeTe5Gofh,50 Cent,au,anglo,0.2857142857142857,solo
+3qBKjEOanahMxlRojwCzhI,Zacari,us,anglo,0.925,todas
+3qQKrWwcqJlE4OS4e1ox7x,Kocchi no Kento,jp,japonês,1.0,solo
+3qjoOrsHcxhgKyBsh4ZOEn,Mc Menor Thalis,br,luso,1.0,todas
+3qsKSpcV3ncke3hw52JSMB,Young Miko,mx,hispano,0.75,todas
 3qvcCP2J0fWi0m0uQDUf6r,Luan Santana,br,luso,1.0,solo
+3rTxb36W3M1BCxx00iiwMU,SORANE,jp,japonês,1.0,todas
+3rWZHrfrsPBxVy692yAIxF,WILLOW,us,anglo,0.3617021276595745,solo
+3rbtPd0NcvhO2AzMfzx90z,Fredo,gb,anglo,1.0,todas
 3rfM2cGqF6DB0kUyytMkXx,Orochi,br,luso,1.0,todas
 3shPgAzHMyRwWOkXeoWKeB,MC Bruninho,br,luso,1.0,todas
-3tVQdUvClmAT7URs9V3rsp,Wizkid,au,anglo,0.7209302325581395,todas
-3uZFBSsMiooimnprFL9jD1,Snow,mx,hispano,0.45454545454545453,todas
+3t5xRXzsuZmMDkQzgOX35S,Robin Schulz,de,germânico,0.49295774647887325,todas
+3tJoFztHeIJkJWMrx0td2f,Moneybagg Yo,us,anglo,0.5,todas
+3tN4jv8IaO9UAKTWqpXaV4,Mia Julia,de,germânico,1.0,todas
+3tQzzidoPfVifoURnDfgmD,t-low,de,germânico,1.0,solo
+3tVQdUvClmAT7URs9V3rsp,Wizkid,gb,anglo,0.3157894736842105,todas
+3tXUeiWOSod3mSQ2lOautf,Wes,de,germânico,0.6666666666666666,todas
+3tczhGs2LfnH9mwrmG9cRI,Maurin,br,luso,1.0,todas
+3tkq9ZnBaejLPLRpg8kGET,DJ 2F,br,luso,1.0,todas
+3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,us,anglo,0.8181818181818182,solo
+3uZFBSsMiooimnprFL9jD1,Snow,mx,hispano,0.390625,todas
+3utZ2yeQk0Z3BCOBWP7Vlu,CRO,de,germânico,1.0,solo
 3uyDATzOGjbGCts7v2eszk,MISIA,jp,japonês,1.0,todas
-3v6Ji4uoWtKRkhuDUaxi9n,Dynoro,mx,global,0.35,todas
-3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,mx,hispano,0.7547169811320755,solo
+3v6Ji4uoWtKRkhuDUaxi9n,Dynoro,br,global,0.2222222222222222,todas
+3v8Gnj6Kvl1fShyGgacgu1,My Little Lover,jp,japonês,1.0,solo
+3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,mx,hispano,0.984375,solo
+3vQ2DVwzWWorNTS3kObltH,Rake,jp,japonês,1.0,solo
+3vUMXQ9kPnZAQkMkZZ7Hfh,Tiakola,fr,franco,1.0,solo
+3vVDusnDA0LcPH3NvZpoyM,Noriyuki Makihara,jp,japonês,1.0,solo
+3w4VAlllkAWI6m0AV0Gn6a,Hurts,de,germânico,1.0,todas
+3wcj11K77LjEY1PkEazffa,Burna Boy,gb,anglo,0.4864864864864865,solo
+3whgFbrRxsOmYVrq3t4hCY,Paulo Pires,br,luso,1.0,todas
+3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,ca,anglo,0.45454545454545453,solo
+3wtMPMvPtiFylbnNXF6CAj,Afro Bros,de,germânico,0.5454545454545454,todas
+3wyVrVrFCkukjdVIdirGVY,Lil Pump,au,global,0.2,todas
+3x3gsBtmPOSQVqdBzO7N5E,Nahir,fr,franco,1.0,todas
 3x621ItlHMtX7mrJ8QnEjM,HY,jp,japonês,1.0,solo
-3y2cIKLjiOlp1Np37WiUdH,Shaboozey,au,anglo,0.5,solo
+3xAB6KlDT1mrv1y74c3H3X,Chris de Sarandy,de,germânico,1.0,todas
+3xEJ7cDz5rdg6VM8E6Mqhf,DA Uzi,fr,franco,1.0,solo
+3xLU748QxpTmIVaiNXXg0P,Encanto - Cast,gb,anglo,0.25806451612903225,todas
+3y24n3XhZ96wgwRXjvS17T,Coolio,de,germânico,0.5714285714285714,todas
+3y2cIKLjiOlp1Np37WiUdH,Shaboozey,au,anglo,0.21153846153846154,solo
+3yDDYheQFqfhKZXdjFQuuP,goddard.,gb,anglo,0.9166666666666666,todas
+3yDIp0kaq9EFKe07X1X2rz,Nile Rodgers,jp,japonês,1.0,todas
 3ymF57lFWXJswhYvjC9O6G,Complexo dos Hits,br,luso,1.0,todas
+3z0zOzORjgGBn9NdYfgRYd,Ste Milano,fr,franco,1.0,todas
+3z8diLlUCkN1j9N9ZdnfBJ,NiziU,jp,japonês,1.0,solo
 3zG4hHVlA4xIX5jwvOa2KD,DJ Guh Mix,br,luso,1.0,todas
+3zUcyANWSbo98ikca4ugrV,Salvador Da Rima,br,luso,1.0,todas
 3zgnrYIltMkgeejmvMCnes,IZA,br,luso,1.0,solo
-40Ippe6JeofRURQ4nbF8DT,Taburete,es,hispano,1.0,solo
-40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,us,anglo,0.5241635687732342,solo
-40jZHpxIT7SOkZF9YrxGYq,Chris Viz,es,hispano,1.0,todas
+3zhKxZr516VdNDa8v3oft2,UM44K,br,luso,1.0,solo
+40NRiKuuhj1pgGYppptlBO,Not3s,gb,anglo,1.0,todas
+40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,us,anglo,0.33771106941838647,solo
+40t5KmKTi2ajyJmerMYY4C,Jefferson Moraes,br,luso,1.0,solo
+41MozSoPIsD1dJM0CLPjZF,BLACKPINK,jp,global,0.47058823529411764,solo
 41QLxRXlc2NwfJZkHGHKid,Israel & Rodolffo,br,luso,1.0,solo
-42ppAzaKW3DW3bYRmxd1Dw,DJ Conds,es,hispano,1.0,todas
+41Sy5j6hSOXJ6Pl1yR296B,Tom Thum,au,anglo,1.0,todas
+41X1TR6hrK8Q2ZCpp2EqCz,bbno$,ca,global,0.25688073394495414,todas
+42ogLtXLVjZryRz9j1zvOm,Kyanai,jp,japonês,1.0,solo
 42xf1iqSOZluDWJ8RW2B9H,Skeeter Beats,br,luso,1.0,todas
+43BxCL6t4c73BQnIJtry5v,James Hype,de,germânico,0.4523809523809524,todas
 43DRDu6nLSeIedZ7T1A616,Xand Avião,br,luso,1.0,todas
+44NX2ffIYHr6D4n7RaZF7A,Van Morrison,au,anglo,0.5242718446601942,solo
 44mEtidu0VdRkIqO4IbkNa,Marca MP,mx,hispano,1.0,solo
+44vREmJC0OlVZjZaGLqVEd,Morray,us,anglo,0.5,todas
+44yXVrsMTsKGUBHZsYFZNq,WILDBWOYS,de,germânico,1.0,todas
 45Hr5etuwmSx4gSyn5qSeW,MC Dede,br,luso,1.0,todas
-45dkTj5sMRSjrmBSBeiHym,Tate McRae,au,anglo,0.5089820359281437,solo
-46SHBwWsqBkxI7EeeBEQG7,Kodak Black,us,anglo,0.5172413793103449,todas
-47MpMsUfWtgyIIBEFOr4FE,,es,hispano,0.6086956521739131,todas
+45dkTj5sMRSjrmBSBeiHym,Tate McRae,au,global,0.2435344827586207,solo
+45ft4DyTCEJfQwTBHXpdhM,milet,jp,japonês,1.0,todas
+45gHcnDnMC15sgx3VL7ROG,42 Dugg,us,anglo,0.625,todas
+45ruzGUmIr8WLjLOPJ9mGU,Miggy Dela Rosa,de,germânico,0.4523809523809524,todas
+45yEuthJ9yq1rNXAOpBnqM,Polo & Pan,fr,franco,1.0,todas
+468Ift2ngwSQzitOIDjgQO,ProdSmile,br,luso,1.0,todas
+46HzS7yz0c9udVwtbHk1sx,Cochise,us,anglo,0.6190476190476191,todas
+46SHBwWsqBkxI7EeeBEQG7,Kodak Black,us,anglo,0.5454545454545454,solo
+46aNfN89JrOQTCy97GoCHa,Tokio Hotel,de,germânico,1.0,todas
+46pWGuE3dSwY3bMMXGBvVS,Rema,fr,franco,0.5675675675675675,solo
+46wEUZyujVrFSrdCnTKQmV,Marwa Loud,fr,franco,0.9285714285714286,solo
+46xBNx0j6cwY6sD9LgMTm1,Rosa Linn,de,global,0.22413793103448276,solo
+47MpMsUfWtgyIIBEFOr4FE,Lunay,mx,hispano,0.875,todas
+47mIJdHORyRerp4os813jD,League of Legends,ca,global,0.1574074074074074,todas
+47rT8CoKTbr0S945AGgATQ,DigDat,gb,anglo,1.0,todas
 47uyFQHOD02S0lj9ptRpoB,Felipe Araújo,br,luso,1.0,solo
 47wsfaEWJwhWd9bs04Oc1g,mc pl alves,br,luso,1.0,todas
 487N2T9nIPEHrlTZLL3SQs,Zé Neto & Cristiano,br,luso,1.0,solo
 48HORs6F9P7IgdyKrk4MZC,Tarcísio do Acordeon,br,luso,1.0,solo
-48R2gYdPKtfnfKAzhSVPUx,Migrantes,es,hispano,0.7647058823529411,todas
 48r1nXoaPXPSx1LoM0Rnzl,AMUSIK,br,luso,1.0,todas
 49EE6lVLgU8sp7dFgPshgM,La Adictiva,mx,hispano,1.0,solo
+49T8i1paijMAK9rYtjO4lu,FAULHABER,de,germânico,0.8181818181818182,todas
+49aaHxvAJ0tCh0F15OnwIl,Loreen,fr,franco,0.5769230769230769,solo
+4A0TivfinfALCAMJqqjZIk,Funk Wav,gb,anglo,0.5,todas
+4A7HeXSd4HtQuf6IR5XZ1b,Fero47,de,germânico,1.0,todas
+4ACGdFl6mPI3lntaYef1gc,Triz,br,luso,1.0,todas
+4AKwRarlmsUlLjIwt38NLw,Ofenbach,de,germânico,0.5357142857142857,todas
+4AVFqumd2ogHFlRbKIjp1t,Alesso,au,anglo,0.34782608695652173,todas
+4ArPQ1Opcksbbf3CPwEjWE,Emilee,au,global,0.15873015873015872,todas
+4AuHHsxMRVg7bXSgvlrAff,RoRo,gb,anglo,1.0,todas
+4BFLElxtBEdsdwGA1kHTsx,,fr,franco,0.6,todas
+4BUeuxQIWI69tEYuvzbv6D,Timar,fr,franco,1.0,todas
+4CA8PTrbq1l5IgyvBA2JSV,Paul Woolford,gb,anglo,0.7,todas
+4CAsSAU842glNKJX71ndA9,Louise Attaque,fr,franco,1.0,solo
 4CJ3CnKb8dSlzci7eaSOcV,DJ Di Marques,br,luso,1.0,todas
-4CQdcx66F116k2db2Y0rjE,,es,hispano,1.0,todas
 4ClsVDy2g7RKSSlvq8cF6d,León Larregui,mx,hispano,1.0,solo
+4CpxOMOqIfPQmEet9UnWhe,DJ JHOW BEATS,br,luso,1.0,todas
+4D75GcNG95ebPtNvoNVXhz,AFROJACK,de,germânico,0.34831460674157305,todas
 4DITWCDQL8b3VZTBYpNDR9,Bob do Contra,br,luso,1.0,todas
+4DWuml4Jf6K81b5rAPwMb6,Clementine Douglas,gb,anglo,0.7017543859649122,todas
 4DdazUhIad0cymOHGifQO6,Cortesia Da Casa,br,luso,1.0,todas
-4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,us,anglo,0.6,todas
-4EPJlUEBy49EX1wuFOvtjK,Becky Hill,au,anglo,0.4864864864864865,todas
-4ETSs924pXMzjIeD6E9b4u,Surfaces,us,anglo,0.4473684210526316,solo
-4F4pp8NUW08JuXwnoxglpN,Bad Gyal,es,hispano,1.0,todas
-4FGPzWzgjURDNT7JQ8pYgH,Zach Top,us,anglo,1.0,solo
+4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,us,anglo,0.3125,todas
+4Dokdwa3WB7ilQ2c2qvIBL,Bugzy Malone,gb,anglo,0.5357142857142857,todas
+4E2rKHVDssGJm2SCDOMMJB,Doechii,au,global,0.2,solo
+4EMRE0wdcc2xjv1PCmTqUU,MC Menor MT,br,luso,1.0,todas
+4EPJlUEBy49EX1wuFOvtjK,Becky Hill,gb,anglo,0.5756097560975609,todas
+4ETSs924pXMzjIeD6E9b4u,Surfaces,us,global,0.2463768115942029,solo
+4EcY2W9Ve4PPpbSe1ILOdl,MC Alexandre,br,luso,1.0,todas
+4Euia7UzdRshy1DJOSMTcs,220 KID,gb,anglo,0.4146341463414634,todas
+4FGPzWzgjURDNT7JQ8pYgH,Zach Top,us,anglo,0.625,solo
 4FGcERJWMg8ENOLixwF71U,Vitor Kley,br,luso,1.0,solo
-4GGfAshSkqoxpZdoaHm7ky,ERNEST,us,anglo,0.6851851851851852,todas
-4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,au,anglo,0.49640287769784175,solo
-4Gso3d4CscCijv0lmajZWs,Don Toliver,us,anglo,0.6451612903225806,solo
-4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,us,anglo,0.5,solo
-4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,mx,hispano,0.576271186440678,todas
-4IVAbR2w4JJNJDDRFP3E83,6LACK,au,anglo,0.4583333333333333,todas
-4IWBUUAFIplrNtaOHcJPRM,James Arthur,au,anglo,0.79,solo
+4FpJcNgOvIpSBeJgRg3OfN,Orelsan,fr,franco,1.0,solo
+4FrXHrpbDLNyO3pbVv8RmF,Sophie and the Giants,de,germânico,0.6216216216216216,todas
+4G9NDjRyZFDlJKMRL8hx3S,sombr,au,global,0.18502202643171806,solo
+4GGfAshSkqoxpZdoaHm7ky,ERNEST,us,anglo,0.4111111111111111,todas
+4GJ6xDCF5jaUqD6avOuQT6,FIFTY FIFTY,ca,global,0.21052631578947367,solo
+4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,gb,global,0.29133858267716534,solo
+4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,ca,anglo,0.29464285714285715,solo
+4GeitETxoipNor9MyEEbYz,MC Myres,br,luso,1.0,todas
+4Gso3d4CscCijv0lmajZWs,Don Toliver,us,anglo,0.37037037037037035,solo
+4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,us,global,0.3333333333333333,solo
+4IEP61D1hdCPQVzAYzP9VC,Luis Mexia,mx,hispano,1.0,todas
+4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,mx,hispano,0.85,todas
+4IS4EyXNmiI2w5SRCjMtEF,Kendji Girac,fr,franco,1.0,todas
+4IVAbR2w4JJNJDDRFP3E83,6LACK,ca,anglo,0.24210526315789474,todas
+4IWBUUAFIplrNtaOHcJPRM,James Arthur,au,anglo,0.34649122807017546,solo
+4J13m9IZh03PEhoxAxRhXO,Gerardo Ortiz,mx,hispano,1.0,solo
+4JA9UvIYD3D5kL7utiGJMI,Mc Magrinho,br,luso,1.0,todas
 4JNo6Q5KdcRf1vtSX9mB0S,João Gomes,br,luso,1.0,solo
-4KLOMib6zqzNayKwLWTs2Q,,es,hispano,1.0,todas
+4Jd9XCHzRXTB7ZPPVzJoUm,Milano,de,germânico,1.0,todas
+4KDxYlnGZEiS60pAnfZf4W,Avine Vinny,br,luso,1.0,todas
 4Kv35Xnw1ODjO2nIHLhdBY,Dj Caio Vieira,br,luso,1.0,todas
-4L2dV3zY7RmkeiNO035Fi0,Mufasa & Hypeman,au,anglo,0.5517241379310345,todas
+4L2dV3zY7RmkeiNO035Fi0,Mufasa & Hypeman,de,germânico,0.25,todas
 4L9VSeE7K3BTBndqEL9A6q,Nissy,jp,japonês,1.0,solo
 4LAFtDzlQM89xov636hMVv,Dallass,br,luso,1.0,todas
 4LHTgACY32k94VDjenF0nP,Mc Negão Original,br,luso,1.0,todas
+4LLpKhyESsyAXpc4laK94U,Mac Miller,us,anglo,0.45,todas
 4LTPxLxjiT5pzYd5WZAR3v,Analaga,br,luso,1.0,todas
-4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,us,anglo,0.6122994652406417,solo
+4LXBc13z5EWsc5N32bLxfH,Nekfeu,fr,franco,1.0,todas
+4LcUpNlXFEleaLlelmkv2R,Kris Kross Amsterdam,de,germânico,0.4166666666666667,todas
+4LqFJ98PEA7gIrRtviMUmb,Trigga,gb,anglo,1.0,todas
+4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,us,anglo,0.34210526315789475,solo
+4MYiI4xv9otdG9iB3d4Q25,Fred Rabe,de,germânico,1.0,todas
 4N2lyAuQF0kXt3UnsN7XZx,Belle Kaffer,br,luso,1.0,todas
+4NHQUGzhtTLFvgF5SZesLK,Tove Lo,br,luso,1.0,todas
+4NMbgO5NL6aXzSmQzAAYPP,Leon Machère,de,germânico,1.0,todas
+4NSzuIc0eGOftqr0tEOhJk,ClockClock,de,germânico,1.0,todas
 4NUePmzDvCYqilXBFa91Hg,Dilsinho,br,luso,1.0,solo
-4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,us,anglo,0.916030534351145,solo
-4PFgfReja3r59JaekHpeuf,El Taiger,es,hispano,1.0,todas
+4NYa9HEvARX9LXU4LRoGny,Mc Vitin do LJ,br,luso,1.0,todas
+4NZvixzsSefsNiIqXn0NDe,Maggie Rogers,ca,anglo,0.36363636363636365,todas
+4Nrd0CtP8txoQhnnlRA6V6,Vianney,fr,franco,1.0,solo
+4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,us,anglo,0.57421875,solo
+4ON1ruy5ijE7ZPQthbrkgI,Burak Yeter,mx,hispano,1.0,todas
+4OV6uYSnHxSYkjDYuBVBUz,Slimane,fr,franco,1.0,todas
+4P2HohWBtvSxxwabNDdYXN,Nono La Grinta,fr,franco,1.0,solo
+4P3RXClUWZnQAO6BfrEQXb,ART,de,germânico,1.0,solo
 4PLdCloYxu2bMKfuuB9lI5,MC PH,br,luso,1.0,solo
+4PvnP3yCzrT289cX3wCdOx,Yung Hurn,de,germânico,1.0,todas
 4PzYKhC14sTJNEr0dzoo0d,Luísa Sonza,br,luso,1.0,solo
-4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,mx,hispano,0.45901639344262296,todas
+4Q6nIcaBED8qUel8bBx6Cr,Jax Jones,gb,anglo,0.3626373626373626,todas
+4QFG9KrGWEbr6hNA58CAqE,Alemán,mx,hispano,0.8679245283018868,todas
+4QSTyDpxsKmv3UfavVUImR,Darkoo,gb,anglo,0.5,todas
+4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,mx,hispano,0.6233766233766234,todas
+4QfOh8rJ0OddhhXHD5QyWs,The Boy Next Door,de,germânico,0.4166666666666667,todas
+4QrBoWLm2WNlPdbFhmlaUZ,,mx,hispano,1.0,todas
 4QvgGvpgzgyUOo8Yp8LDm9,Mrs. GREEN APPLE,jp,japonês,1.0,solo
+4RSyJzf7ef6Iu2rnLdabNq,Willy William,fr,global,0.2894736842105263,todas
 4Rh80sXmcG4xDP1r6dTNiQ,Estevan Plazola,mx,hispano,1.0,todas
+4S9LNSZusH3XflT3g32bqB,Carla Monroe,gb,anglo,1.0,todas
 4SFP5kBIqqjFrrPknaVnbG,HIDE (GReeeeN),jp,japonês,1.0,todas
 4SJ7qRgJYNXB9Yttzs4aSa,Ryokuoushoku Shakai,jp,japonês,1.0,solo
-4ScCswdRlyA23odg9thgIO,Jess Glynne,au,anglo,0.4482758620689655,todas
-4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,jp,japonês,0.9,solo
-4SsVbpTthjScTS7U2hmr1X,Arcángel,mx,hispano,0.4824561403508772,todas
-4TEJudQY2pXxVHPE3gD2EU,BlocBoy JB,us,anglo,0.5555555555555556,todas
+4SKWDIWfEZbyMI8gzeeoXO,Dj Darge,br,luso,1.0,todas
+4SLEmV2rAQ71Ts0qyDGhE8,Cecilia Krull,fr,franco,1.0,todas
+4SZSRsSh4xJx9o5V1uDE1o,Ahmad Amin,de,germânico,1.0,todas
+4ScCswdRlyA23odg9thgIO,Jess Glynne,gb,anglo,0.5476190476190477,solo
+4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,jp,japonês,0.8888888888888888,solo
+4SsVbpTthjScTS7U2hmr1X,Arcángel,mx,hispano,0.9468085106382979,todas
+4TEJudQY2pXxVHPE3gD2EU,BlocBoy JB,ca,anglo,0.25806451612903225,todas
+4TGltjqP0MQxdGeSIrM4es,RIDSA,fr,franco,1.0,todas
+4TH4BHy0LdBi3dpBW4P2UX,R. City,de,germânico,1.0,todas
+4TK1gDgb7QKoPFlzRrBRgR,Los Enanitos Verdes,mx,hispano,1.0,solo
+4TLCPR1sMYoNU1jA7O4uww,D.O.E.,de,germânico,0.45714285714285713,todas
+4TSAnyHn47PpS8S9ofOjYU,Lyfrix,de,germânico,1.0,todas
+4TaSvnT5o4REFwhqfrmK27,imase,jp,japonês,1.0,solo
+4TdMGChhzBYNXhADaEGUZX,Armenta,mx,hispano,1.0,todas
+4TvhRzxIL1le2PWCeUqxQw,The Blessed Madonna,gb,anglo,1.0,todas
+4U3o74Io4hwQPsm6iIj4fu,DJ TAK VADIÃO,br,luso,1.0,todas
+4U5QErgn94wZGw1rJz01BO,Charlotte Plank,gb,anglo,1.0,todas
 4UK2Lzi6fBfUi9rpDt6cik,Yorushika,jp,japonês,1.0,solo
-4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,us,anglo,0.4642857142857143,solo
-4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",us,anglo,0.6666666666666666,todas
-4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,es,hispano,0.5641025641025641,todas
-4VIvfOurcf0vuLRxLkGnIG,Bradley Cooper,au,global,0.4506172839506173,todas
-4VMYDCV2IEDYJArk749S6m,Daddy Yankee,mx,hispano,0.6,solo
-4VVEpEhC8NcR7AqNEds42U,Chimbala,es,hispano,0.8205128205128205,todas
-4WN5naL3ofxrVBgFpguzKo,Rudimental,au,anglo,0.4482758620689655,todas
+4UWWa5dKgTLAx8mv6Ju6X1,venbee,gb,anglo,0.8666666666666667,todas
+4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,us,anglo,0.35344827586206895,solo
+4Ue6MAZqz18NlaOQomRXLU,1PLIKÉ140,fr,franco,1.0,solo
+4UqfXEVibVEPfoopm7Pduc,Los 2 de la S,mx,hispano,1.0,solo
+4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",us,anglo,0.5606060606060606,solo
+4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,jp,japonês,0.3181818181818182,todas
+4VIvfOurcf0vuLRxLkGnIG,Bradley Cooper,au,global,0.26545454545454544,todas
+4VMYDCV2IEDYJArk749S6m,Daddy Yankee,mx,hispano,0.6451612903225806,solo
+4VlgWkOGAvRh8Ke38UvqgO,Rizzi Get Busy,br,luso,1.0,todas
+4VuARVJiWGsH2msKTdsKdQ,Veysel,de,germânico,1.0,todas
+4W48hZAnAHVOC2c8WH8pcq,The Temper Trap,au,anglo,0.8529411764705882,solo
+4WFwvZ4L8FZbt3qubbQJS6,Michelle Maciel,mx,hispano,1.0,todas
+4WN5naL3ofxrVBgFpguzKo,Rudimental,gb,anglo,0.4444444444444444,todas
+4WZGDpNwrC0vNQyl9QzF7d,Capital Bra,de,germânico,1.0,solo
+4WnAHZz1pgl8hus8hidIRV,MHD,fr,franco,1.0,todas
 4WqXqPmUuenMIr4QaFrZXN,Saucy Dog,jp,japonês,1.0,solo
+4WxmlzvtfZbTyGB1LvR02X,Tam Sir,fr,franco,1.0,todas
+4XC335ouK6pXyq4QiIb8bP,Eliza Rose,gb,anglo,0.5294117647058824,todas
 4XFkDALFTsSHVnRtJSsaMN,Number_i,jp,japonês,1.0,solo
-4YYxffPVDFe9XoqqbRW6Bq,L-Gante,es,hispano,0.7647058823529411,todas
+4XWwdp5t6DPloruDrgyRmZ,Vitor Santana,br,luso,1.0,solo
+4Xi6LSfFqv26XgP9NKN26U,AJ Tracey,gb,anglo,1.0,solo
+4YLtscXsxbVgi031ovDDdh,Chris Stapleton,ca,anglo,0.3709677419354839,solo
 4YqwRbMLqGHRHLS1w2ZKse,Veigh,br,luso,1.0,todas
-4Z8W4fKeB5YxbusRsdQVPb,Radiohead,us,anglo,0.6,solo
+4Yttlv9ndGjCDCVLqM7ACq,Sido,de,germânico,1.0,solo
+4Yv6fnHVbZNKaCtYZxaHuZ,Nouvelle École,fr,franco,1.0,todas
+4Z8W4fKeB5YxbusRsdQVPb,Radiohead,gb,anglo,0.28823529411764703,solo
 4Z9aFsrQeXQbKIOryEkfqe,Marquinho no Beat,br,luso,1.0,todas
-4ZEbnHVcQHXbtkOhg8mDAT,Nicolas Reyes,es,hispano,1.0,todas
-4aSlfXDn9R60UlbZEboBUy,YOVNGCHIMI,es,hispano,1.0,todas
-4az97MtWmBQ5Db3GfDh9j9,Morad,es,hispano,1.0,solo
-4bJh7sMPcVRiqe5jlnsWQV,DELLAFUENTE,es,hispano,1.0,todas
+4ZdPHdArIbz2GSBXkozQYC,Los Esquivel,mx,hispano,1.0,todas
+4aWhlVjiUjYHpVWBPP8AFc,Grupo Codiciado,mx,hispano,1.0,todas
+4acowSAiQXmdhs4DCgUQ0U,Ryflo,fr,franco,1.0,todas
+4anaTI5qQtKKp5D6I5sgDp,Ulf Leo Sommer,de,germânico,1.0,todas
+4az97MtWmBQ5Db3GfDh9j9,Morad,fr,franco,0.86,todas
+4b5I4xEeXjnhiWqMFQU3Si,tarisiix,br,luso,1.0,todas
+4bJqqUCbQmRxziUoxUz5mS,DU'L,br,luso,1.0,todas
+4bL2B6hmLlMWnUEZnorEtG,felix jaehn,de,germânico,0.8412698412698413,todas
 4boI7bJtmB1L3b1cuL75Zr,Mon Laferte,mx,hispano,1.0,solo
-4bw2Am3p9ji3mYsXNXtQcd,Piso 21,mx,hispano,0.8285714285714286,todas
-4cA5JN7tiNZ8afYeuSQj5h,David Otero,es,hispano,1.0,todas
-4d3kmfoZBTuUPSUjgP45uo,Lérica,es,hispano,1.0,todas
+4bthk9UfsYUYdcFyqxmSUU,Tears For Fears,gb,anglo,0.375,solo
+4bw2Am3p9ji3mYsXNXtQcd,Piso 21,mx,hispano,1.0,solo
+4cdmVPqOs2GXPoP4qJHJXv,DJ Cayoo,br,luso,1.0,todas
+4cfKtwkefMW3aiXtxfw8w6,Nomcebo Zikode,fr,franco,0.5714285714285714,todas
+4csQIMQm6vI2A2SCVDuM2z,Hayden James,au,anglo,1.0,todas
+4dEayBlrVBjaQOktGkmWki,Switch Disco,gb,anglo,1.0,todas
+4dgLZMavMm3danubiJxbtw,KALUMA,de,germânico,1.0,todas
 4dnPDc045bVjibyATxVUOs,Marcynho Sensação,br,luso,1.0,todas
-4dpARuHxo51G3z768sgnrY,Adele,au,global,0.43103448275862066,solo
-4e0nWw2r4BoQSKPQ2zpU13,Ray Dalton,au,anglo,0.9761904761904762,todas
-4eq1q0o9XPyNq9RG3fNDD1,Yorghaki,es,hispano,0.8604651162790697,todas
-4fxd5Ee7UefO4CUXgwJ7IP,GIVĒON,us,anglo,0.41935483870967744,solo
-4gnG14mIS3ejJyqqyJHhsN,Pilar Moxó,es,hispano,1.0,todas
-4gzpq5DPGxSnKTe4SA8HAU,Coldplay,au,anglo,0.6345177664974619,solo
-4hFZibFsoIxictRvkZDjIc,Demarco Flamenco,es,hispano,1.0,todas
+4dpARuHxo51G3z768sgnrY,Adele,gb,global,0.3055555555555556,solo
+4e0nWw2r4BoQSKPQ2zpU13,Ray Dalton,fr,franco,1.0,solo
+4eYnorQRhVHT2KBl2UyHHd,Vegedream,fr,franco,0.6071428571428571,solo
+4ehtJnVumNf6xzSCDk8aLB,Martin Jensen,de,germânico,1.0,todas
+4f9iBmdUOhQWeP7dcAn1pf,Rag'n'Bone Man,gb,global,0.2857142857142857,todas
+4fBAsjJmj6lwaOuWS15stg,Mc Piedro,br,luso,1.0,todas
+4fDx6CTJ4KWhnAg6TvwmWe,Serge Ibaka,fr,franco,1.0,todas
+4fUHIq4b5WARbnYXe2UH2x,AJ,gb,anglo,1.0,todas
+4fdCGYM7dtJLa3LvR1ccto,Gabriela Rocha,br,luso,1.0,solo
+4fn6Kez1kGOO74vNuKrvCU,Hös Copperfield,fr,franco,1.0,todas
+4fwuXg6XQHfdlOdmw36OHa,Paloma Faith,gb,anglo,1.0,todas
+4fxd5Ee7UefO4CUXgwJ7IP,GIVĒON,ca,global,0.24528301886792453,solo
+4gKSUeHW82tGBeJsJSB1JC,J. Eskine,br,luso,1.0,todas
+4gzpq5DPGxSnKTe4SA8HAU,Coldplay,gb,global,0.28012048192771083,solo
+4h7R7VHRgyc9Y9fApmbq9S,Red,br,luso,1.0,todas
+4hK7sEnm0se5bqoI3Yb5o1,SANTOS,de,germânico,1.0,todas
+4hYxvgmTzS29XAXlo5adgM,L2B,fr,franco,1.0,solo
+4hpKB93agzoncsTXEstSpK,Suel,br,luso,1.0,todas
+4iHNK0tOyZPYnBU7nGAgpQ,,gb,anglo,0.8,todas
 4iWkwAVzssjb8XgxdoOL6M,TIAGO IORC,br,luso,1.0,todas
-4ixNZvQuuzCDxBsxO9zE6L,Gonzy,es,hispano,1.0,todas
-4j96cMcT8GRi11qbvo1cLQ,Michael Marcagi,au,anglo,0.6,solo
+4j96cMcT8GRi11qbvo1cLQ,Michael Marcagi,au,anglo,0.28125,solo
+4jF2P66DtNEficnixuIhKQ,marguerite,fr,franco,1.0,solo
+4jkOEd7kQE6UyiXnuQy9pa,PRISCILLA,br,luso,1.0,todas
 4jogXSSvlyMkODGSZ2wc2P,Calibre 50,mx,hispano,1.0,solo
-4kYSro6naA4h99UJvo89HB,Cardi B,au,global,0.2398190045248869,todas
-4kcQWQDK0u9AftVSpdrAgk,Luck Ra,es,hispano,1.0,todas
-4m6ubhNsdwF4psNf3R8kwR,KHEA,es,hispano,1.0,todas
+4jsmk00NuPR1FfXqUCF1ac,treamiboii,de,germânico,1.0,todas
+4jthJGVVXY7PUVXUvI56Ny,DJ Cassula,br,luso,1.0,todas
+4k1cMkJjG3UCRptckbpAnC,,gb,anglo,1.0,todas
+4kI8Ie27vjvonwaB2ePh8T,Portugal. The Man,au,anglo,0.375,solo
+4kJ2OBSNasUA4yOT5NCfCl,"Luis Angel ""El Flaco""",mx,hispano,1.0,todas
+4kYSro6naA4h99UJvo89HB,Cardi B,us,anglo,0.32098765432098764,solo
+4kcnsS1aAB40FMcLD01gmI,KURT,mx,hispano,1.0,solo
+4ko6Ysxtvx9EY9GEFslrIz,Suprême NTM,fr,franco,1.0,todas
+4kqedTxyE5EDJWLLplYXpu,Choice,br,luso,1.0,todas
+4krMq8pXkLVTGplpYgHlnV,Ronisia,fr,franco,1.0,todas
+4ktBrNjagCGftyuBLJkATq,Wes Nelson,de,germânico,0.7,todas
+4lDBihdpMlOalxy1jkUbPl,Grey,au,global,0.22018348623853212,todas
+4lDiJcOJ2GLCK6p9q5BgfK,Kontra K,de,germânico,1.0,solo
+4m6ubhNsdwF4psNf3R8kwR,KHEA,mx,hispano,1.0,todas
+4mBT8Rbk2WUxiVxdRpX5hW,Dj Jl Do Tp,br,luso,1.0,todas
+4mHAu7NX2UNsnGXjviBD9e,Brooks,de,germânico,0.4090909090909091,todas
+4mYFgEjpQT4IKOrjOUKyXu,Wheatus,gb,anglo,0.37349397590361444,solo
 4maKTxhTIDEnWKra7wEIMR,MC Menor da VG,br,luso,1.0,todas
-4myTppRgh0rojLxx8RycOp,Ryan Lewis,au,anglo,1.0,todas
-4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,jp,global,0.23076923076923078,todas
-4npEfmQ6YuiwW1GpUmaq3F,Ava Max,au,global,0.38461538461538464,solo
-4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,us,anglo,0.6929133858267716,solo
-4obzFoKoKRHIphyHzJ35G3,Becky G,mx,hispano,0.5420560747663551,todas
-4ofCBoyEiGSePFAG500xev,Regard,au,anglo,0.45098039215686275,solo
+4mb1xtQVGSK5dh8AbtwBiR,MC Lan,br,luso,1.0,todas
+4mrBetqy378Jf1y6NLszlx,VINAI,de,germânico,1.0,todas
+4myTppRgh0rojLxx8RycOp,Ryan Lewis,gb,anglo,0.3382352941176471,todas
+4n81jTX3LJ7zxNr6Ss8PkQ,Takura,gb,anglo,1.0,todas
+4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,ca,global,0.18556701030927836,todas
+4npEfmQ6YuiwW1GpUmaq3F,Ava Max,de,global,0.24770642201834864,solo
+4o0NtnL2m0lzZmEdRas1qv,Ovi,mx,hispano,1.0,todas
+4oCDlRaa8yRpe4keBeoVjb,Malika,gb,anglo,1.0,todas
+4oLeXFyACqeem2VImYeBFe,Fred again..,au,anglo,0.5306122448979592,todas
+4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,us,anglo,0.4418103448275862,solo
+4obzFoKoKRHIphyHzJ35G3,Becky G,mx,hispano,0.6993464052287581,todas
+4ofCBoyEiGSePFAG500xev,Regard,de,global,0.19230769230769232,solo
+4olE3I5QU0dvSR7LIpqTXc,WATT,au,anglo,0.34782608695652173,todas
+4otphgHII0GMrR36Kexd3o,WenHard,br,luso,1.0,todas
+4phGZZrJZRo4ElhRtViYdl,Jason Mraz,au,anglo,0.7567567567567568,solo
+4pnp4w9g30yLfVIAFnZMRd,ACRAZE,de,global,0.22950819672131148,todas
 4ptGOXi053ILmLfMcIG2hB,DJ JZ,br,luso,1.0,todas
-4q3ewBCX7sLwd24euuV69X,Bad Bunny,mx,hispano,0.48878048780487804,solo
-4qBgvVog0wzW75IQ48mU7v,KYLE,us,anglo,1.0,todas
-4qU7IJSReZnsLy5907Mtau,Richy Mitch & The Coal Miners,au,anglo,0.5,solo
-4r63FhuTkUYltbVAg5TQnk,DaBaby,us,anglo,0.7735849056603774,solo
-4riOEaOW5hCeqomFDBk0aP,Rochy RD,es,hispano,0.6666666666666666,todas
-4rvJ0Ktz2X2Erea9XUHxfu,Pepe y Vizio,es,hispano,1.0,todas
+4pwXiI7Z5ZStkgKowZyoKi,Like Mike,de,germânico,0.7222222222222222,todas
+4q3N2WZiTq26rLMdpIGRgP,Markim WF,br,luso,1.0,todas
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,mx,hispano,0.6005946481665014,solo
+4q6hTJmeYXCwp0ivdtoSWA,Dappy,gb,anglo,1.0,todas
+4qBgvVog0wzW75IQ48mU7v,KYLE,us,global,0.22580645161290322,todas
+4qDRNT8ldCfCjSp9lBzYC5,Joel De La P,mx,hispano,1.0,todas
+4qU7IJSReZnsLy5907Mtau,Richy Mitch & The Coal Miners,ca,anglo,0.21951219512195122,solo
+4qWnlmXWuGv2TtuxtIWlJX,BANNERS,gb,anglo,0.5454545454545454,solo
+4r63FhuTkUYltbVAg5TQnk,DaBaby,us,anglo,0.4396551724137931,solo
+4rRwh9ghjocFABAwIwnunp,Gittobeatz,mx,hispano,1.0,todas
+4rTv3Ejc7hKMtmoBOK1B4T,Ali Gatie,au,anglo,0.25925925925925924,solo
+4reog9Hn84AuUWvGX5a2Yq,Zed,fr,franco,1.0,solo
+4riOEaOW5hCeqomFDBk0aP,Rochy RD,mx,hispano,1.0,todas
 4s3lxX76LwxzMdQEAFYdzv,Tropa do Bruxo,br,luso,1.0,todas
-4sbXXFzEWJY2zsZjelerjX,,br,luso,0.5,todas
-4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,au,anglo,0.5466666666666666,todas
+4sCKpwwEsgReZxjtKFm2A0,Tucker Wetmore,us,anglo,0.4634146341463415,solo
+4sTQVOfp9vEMCemLw50sbu,Galantis,gb,anglo,0.4,todas
+4sVieJlKgpZ2k9ESNS5IdN,Jamule,de,germânico,1.0,solo
+4sbXXFzEWJY2zsZjelerjX,Dadju,fr,franco,1.0,solo
+4sg4no0TXdsrM1s4SVUwNF,Juju,de,germânico,1.0,solo
+4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,au,global,0.2546583850931677,todas
+4tjtE10Cy3hoYiDdPhoVem,DJ Gouveia,br,luso,1.0,todas
 4tm8CEdm4pkQsEh4jIr9Yp,Santa Fe Klan,mx,hispano,1.0,todas
-4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,au,anglo,0.45454545454545453,solo
+4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,gb,anglo,0.2553191489361702,solo
+4tvKz56Tr39bkhcQUTO0Xr,Angus & Julia Stone,au,anglo,1.0,todas
+4uJNQGa3L2frXDxwgouTIw,Franglish,fr,franco,1.0,solo
+4unaJKYfY4B51exXVQSilo,TOPIC42,de,germânico,1.0,todas
+4upiYMjsFfLRieGo8RVRzD,ORANGE RANGE,jp,japonês,1.0,solo
+4v3iE7RK6SOyplsSQxZsjc,Yorssy,fr,franco,1.0,todas
 4vN78fN1iEh83Pgaesw2jU,HENTAI SHINSHI CLUB,jp,japonês,1.0,solo
-4vhNDa5ycK0ST968ek7kRr,Carlos Vives,es,hispano,0.6666666666666666,todas
-4xRYI6VqpkE3UwrDrAZL8L,Logic,au,anglo,0.6521739130434783,todas
-4xg5W9jELgt5ztW1CG3ErP,Young Vene,es,hispano,1.0,todas
+4vhNDa5ycK0ST968ek7kRr,Carlos Vives,mx,hispano,1.0,todas
+4vtz0m60CCrcsQmqDunDIR,Moha La Squale,fr,franco,1.0,solo
+4wCW8kZ8LL7QIdcE8EOKPP,BE:FIRST,jp,japonês,1.0,solo
+4wP1kxjUsc9IR4Iy2smL7o,Trinidad Cardona,fr,franco,0.35714285714285715,solo
+4wngxtsP87ozrQh05D90dO,Trois Cafés Gourmands,fr,franco,1.0,solo
+4xPQFgDA5M2xa0ZGo5iIsv,¥$,us,anglo,0.25,todas
+4xRYI6VqpkE3UwrDrAZL8L,Logic,au,anglo,0.5172413793103449,todas
+4xTTjdhKC6SxsxKwPXMuKN,1D1R,fr,franco,1.0,todas
+4xcDVatLFh6qlcm41er3LV,Jerome,de,germânico,0.9583333333333334,solo
+4xnFkvb5Pk259qAXQ6yrYU,Naldo Benny,br,luso,1.0,todas
 4yEIQ0lJDgUEfsuYx3Gsmr,La Kelly,mx,hispano,1.0,todas
 4yGgbQJMq9orWypwqtdzYT,Oruam,br,luso,1.0,todas
-4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,au,anglo,0.48175182481751827,solo
+4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,au,global,0.23404255319148937,solo
+4yxLYO2imECxGYTTV7RQKb,Pailita,mx,hispano,1.0,todas
 4zKB9haJu1T5h1H8zB1rxd,Rocco,br,luso,1.0,todas
-50co4Is1HCEo8bhOyUWKpn,Young Thug,jp,global,0.234375,todas
-50sIhX3HytFEwQXZJLUZQE,Alejo,es,hispano,0.7222222222222222,todas
-51XrH5fQP2oIQynuKxSWcW,Sky Rompiendo,es,hispano,1.0,todas
-52iwsT98xCoGgiGntTiR7K,Quevedo,es,hispano,0.8333333333333334,solo
-53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,au,global,0.34615384615384615,solo
+4zdZ6gGi9gBJZmCNun0Jhj,SOFFIE,de,germânico,1.0,todas
+50co4Is1HCEo8bhOyUWKpn,Young Thug,ca,global,0.2662473794549266,todas
+51OKuyM4BiiYxFm8Mi6fa9,Mauvais djo,fr,franco,1.0,todas
+51ZSh80McCt7vbqHouzW0A,Yahritza Y Su Esencia,mx,hispano,0.6666666666666666,todas
+51loVlVgRomkJwd04A6B1e,ZZ,fr,franco,1.0,todas
+523y9KSneKh6APd1hKxLuF,Master KG,fr,franco,0.5714285714285714,todas
+52iwsT98xCoGgiGntTiR7K,Quevedo,mx,hispano,1.0,solo
+52qzWdNUp6ebjcNsvgZSiC,Evaluna Montaner,mx,hispano,1.0,todas
+5344K3N7rx7kw1HjO8psuq,James Carter,de,germânico,1.0,todas
+536BYVgOnRky0xjsPT96zl,Two Door Cinema Club,gb,anglo,1.0,solo
+53KwLdlmrlCelAZMaLVZqU,James Blake,us,anglo,0.5,todas
+53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,au,global,0.18608695652173912,solo
 53iGNetIf91uZx4Jb54cgb,Haikaiss,br,luso,1.0,todas
-540vIaP2JwjQb9dm3aArA4,DJ Snake,jp,japonês,0.6666666666666666,todas
+53loJtHWjCG1TyKarW2mzk,Benash,fr,franco,1.0,todas
+540vIaP2JwjQb9dm3aArA4,DJ Snake,fr,global,0.2085889570552147,todas
+54NKhABnyGAvbek0n63TAu,Aden Foyer,fr,franco,1.0,solo
+54R6Y0I7jGUCveDTtI21nb,Boney M.,au,anglo,0.25,todas
 54bV1pHNm5h5EcEgMis1RC,Mc Rodrigo do CN,br,luso,1.0,todas
-54seKvtsZauR1iauN0ptpo,De La Rose,es,hispano,0.9324324324324325,todas
-55Aa2cqylxrFIXC767Z865,Lil Wayne,us,anglo,0.5277777777777778,todas
-56oDRnqbIiwx4mymNEv7dS,Lizzo,us,anglo,0.5555555555555556,solo
-57vWImR43h4CaDao012Ofp,Steve Lacy,us,anglo,0.6953125,solo
+54kCbQZaZWHnwwj9VP2hn4,Zola,fr,franco,1.0,solo
+55Aa2cqylxrFIXC767Z865,Lil Wayne,us,anglo,0.3146067415730337,todas
+55fhWPvDiMpLnE4ZzNXZyW,Noah Cyrus,au,anglo,0.3431372549019608,solo
+56Qz2XwGj7FxnNKrfkWjnb,FAST BOY,de,germânico,1.0,todas
+56ZTgzPBDge0OvCGgMO3OY,Beach House,us,anglo,0.7560975609756098,solo
+56mfhUDKa1vec6rSLZV5Eg,Jawsh 685,ca,global,0.16326530612244897,todas
+56oDRnqbIiwx4mymNEv7dS,Lizzo,gb,anglo,0.24630541871921183,solo
+57LYzLEk2LcFghVwuWbcuS,,au,anglo,0.25,todas
+57VQCKnZ9nhS7bvoviXuZK,Kadu Martins,br,luso,1.0,solo
+57dN52uHvrHOxijzpIgu3E,Ratatat,us,anglo,0.625,todas
+57n1OF36WvtOeATY6WQ6iw,Digga,gb,anglo,1.0,todas
+57nPqD7z62gDdq37US9XJR,Arcane,fr,global,0.18604651162790697,todas
+57vWImR43h4CaDao012Ofp,Steve Lacy,us,anglo,0.4067796610169492,solo
 583d9476xT4d6A0pADiRJg,Rafa e Junior,br,luso,1.0,todas
+586uxXMyD5ObPuzjtrzO1Q,SOFI TUKKER,au,anglo,1.0,solo
+58ICshZ0AgBMNJiLHK3U8l,Deno,gb,anglo,1.0,todas
 58oPVy7oihAEXE0Ott6JOf,Eve,jp,japonês,1.0,solo
+58wXmynHaAWI5hwlPZP3qL,Booba,fr,franco,1.0,solo
+592JnViQ2tot63c1SbtgK2,MC Paulin da Capital,br,luso,1.0,todas
+597XBqZtaiZC7laCNx3nVz,Yasmin Santos,br,luso,1.0,solo
+59FrDXDVJz0EKqYg39dnT2,Jão,br,luso,1.0,solo
+59gFRpopXIytwMDYDggebp,Wylo,br,luso,1.0,todas
 59jlthNnbmim5l9tmNA7se,Maiara & Maraisa,br,luso,1.0,solo
-5ACyfaynUH9FpBaR8uZprQ,Arkano,es,hispano,1.0,todas
-5B8ApeENp4bE4EE3LI8jK2,Yuridia,mx,hispano,1.0,todas
-5BcAKTbp20cv7tC5VqPFoC,,au,anglo,0.9682539682539683,todas
-5C4PDR4LnhZTbVnKWXuDKD,Morat,mx,hispano,0.5517241379310345,solo
-5CiGnKThu5ctn9pBxv7DGa,benny blanco,au,anglo,0.5638297872340425,todas
+59oA5WbbQvomJz2BuRG071,Jungle,gb,anglo,0.631578947368421,solo
+5A7HNCq6t0xNDOjZIUZDRk,YV,gb,anglo,0.8571428571428571,todas
+5AAzeysphag0NxJxLbbVla,Columbine,fr,franco,1.0,solo
+5AbLpsnTQVNB3OEadYiVrK,Yxng Bane,gb,anglo,0.5555555555555556,todas
+5AiY4bxeXerLXx03JADdQv,Buni,gb,anglo,0.5757575757575758,todas
+5B6H1Dq77AV1LZWrbNsuH5,Jarabe De Palo,mx,hispano,1.0,solo
+5B8ApeENp4bE4EE3LI8jK2,Yuridia,mx,hispano,1.0,solo
+5BcAKTbp20cv7tC5VqPFoC,,de,germânico,0.21140939597315436,todas
+5C4PDR4LnhZTbVnKWXuDKD,Morat,mx,hispano,1.0,solo
+5CCwRZC6euC8Odo6y9X8jr,Rita Ora,jp,japonês,0.5,todas
+5CiGnKThu5ctn9pBxv7DGa,benny blanco,au,global,0.3333333333333333,todas
 5D56dZmhE9DgT01XixdHiD,Lagum,br,luso,1.0,todas
-5DUlefCLzVRzNWaNURTFpK,Cali Y El Dandee,es,hispano,1.0,solo
 5DaqVKaxeqDbJuxaIP9m4u,Danilo e Davi,br,luso,1.0,solo
 5Dz2FizMLqV0Cr3c8uhEcF,MC Cebezinho,br,luso,1.0,todas
+5ENS85nZShljwNgg4wFD7D,Gabry Ponte,de,germânico,0.7605633802816901,todas
+5Ea2kDQeQNQrIcI6tCthaQ,THABITI,fr,franco,1.0,todas
+5EmEZjq8eHEC6qFnT63Lza,Tinlicker,de,germânico,0.5666666666666667,todas
 5Et1UarIEfiHvErAJSer9B,Rô Rosa,br,luso,1.0,todas
-5FQ8tBUtIamA2hRtatrYUF,Marc Seguí,es,hispano,0.5675675675675675,todas
-5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,mx,hispano,0.5740072202166066,solo
-5IbUz6BcOu6IVY512oxavP,Niño de Elche,es,hispano,0.8846153846153846,todas
-5J7rXWjtn5HzUkJ4Jet8Fr,,es,hispano,1.0,todas
+5F1aAS1duwlzExnPs3l2Xe,Pooh Shiesty,us,anglo,0.7058823529411765,todas
+5F1aoppMtU3OMiltO8ymJ2,Hugh Jackman,gb,anglo,0.9411764705882353,todas
+5FAAR1LqXQp0HbgVfQ8ZWE,Javier Rosas,mx,hispano,1.0,todas
+5FAaE0nqQcRWZUOIObttHr,Mc Danflin,br,luso,1.0,todas
+5FGlhIQqewJRV8fx24toG0,Masaharu Fukuyama,jp,japonês,1.0,solo
+5FQ8tBUtIamA2hRtatrYUF,Marc Seguí,mx,hispano,1.0,todas
+5FkUhnHQ0KC63549LHHtst,Skillibeng,ca,anglo,0.21875,todas
+5GqnSMX8p2hxqsM6LqDty3,MC JottaPê,br,luso,1.0,todas
+5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,mx,hispano,1.0,solo
+5H4yInM5zmHqpKIoMNAx4r,Central Cee,gb,anglo,0.34710743801652894,solo
+5H6xmHXjsq98NLbEjuE29f,NEIKED,au,anglo,0.3076923076923077,todas
+5H9EtsRc980WZMj0m0nwqa,NAZAKEBLACK,fr,franco,1.0,todas
+5HeN1Iza4nZe03sFlonddz,Eugenio Esquivel,mx,hispano,1.0,todas
+5IH6FPUwQTxPSXurCrcIov,Alec Benjamin,fr,franco,0.2542372881355932,solo
+5INjqkS1o8h1imAzPqGZBb,Tame Impala,au,anglo,0.38271604938271603,solo
+5IREutgMnyQqRcc8r15gWk,CountryBeat,br,luso,1.0,todas
+5ITI6SEoUZMIXXkzCfr4oE,Aluna,gb,anglo,1.0,todas
+5IbEL2xjRtKsunfmsahLuO,$NOT,us,anglo,0.6190476190476191,todas
+5InVWl8IZB8zFAoNa5roKm,Kako,br,luso,1.0,todas
 5JG9GISYjRLQUJMH2C6iJ5,Turma do Pagode,br,luso,1.0,todas
 5JXhkyafynxCvxtov7C1PV,Bruno & Marrone,br,luso,1.0,todas
-5JZ7CnR6gTvEMKX4g70Amv,Lauv,au,anglo,0.6,solo
-5JbQpbeFaKfuZVFzKwaawP,Rogerinho,br,luso,1.0,todas
-5K4W6rqBFWDnAN6FQUkS6x,Kanye West,us,anglo,0.6666666666666666,solo
+5JYo7gm2dkyLLlWHjxS7Dy,Sandro Cavazza,jp,japonês,0.4375,todas
+5JZ7CnR6gTvEMKX4g70Amv,Lauv,au,anglo,0.39,solo
+5JbQpbeFaKfuZVFzKwaawP,Rogerinho,br,luso,1.0,solo
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,us,anglo,0.4046692607003891,solo
 5K8Rmjmf4RZFffz94EmBRt,Zé Vaqueiro,br,luso,1.0,todas
-5KKpBU5eC2tJDzf0wmlRp2,RAYE,au,anglo,0.8507462686567164,todas
+5KKpBU5eC2tJDzf0wmlRp2,RAYE,gb,anglo,0.3759124087591241,todas
+5KNNVgR6LBIABRIomyCwKJ,Dermot Kennedy,de,global,0.22580645161290322,todas
+5KORW1YGiERJqfuYjXMCyz,Mattafix,au,anglo,0.4230769230769231,todas
+5Kmr0b3ip8g9P2i0dLTC3Z,Disco Lines,au,global,0.18947368421052632,todas
 5Kpt1mryjiwHa9goYPQG1o,flumpool,jp,japonês,1.0,solo
-5LHRHt1k9lMyONurDHEdrp,Tyga,au,anglo,0.43103448275862066,todas
-5LeiVcEnsZcwc133TUhJNW,Belinda,es,hispano,1.0,todas
+5LHRHt1k9lMyONurDHEdrp,Tyga,de,global,0.2765957446808511,solo
+5LeiVcEnsZcwc133TUhJNW,Belinda,mx,hispano,1.0,todas
 5Lv2GUVwqmQBPwrTrxucE5,Os Barões Da Pisadinha,br,luso,1.0,solo
 5M8AXrOifBT8elkLKbGPQZ,Superfly,jp,japonês,1.0,solo
-5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,es,hispano,1.0,todas
+5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,mx,hispano,1.0,solo
 5MH9v8KacsyTetJmnrAO1W,Mc Menor RV,br,luso,1.0,todas
-5N3YDBGT2gUzXgLDTwPRi5,Álvaro De Luna,es,hispano,1.0,solo
+5MS6HieNmKxzkAM8amE8sr,Rebecca,br,luso,1.0,todas
+5MraexJKZDrQYzS98kNwie,Sevdaliza,fr,global,0.32142857142857145,todas
+5MynxBz4ZMqvUzpcxTZl4C,Therapie TAXI,fr,franco,1.0,solo
+5NGO30tJxFlKixkPSgXcFE,The Police,mx,global,0.20600858369098712,solo
+5NhgsV7qPWHZqYEMKzbYvo,Faouzia,fr,franco,1.0,todas
+5OLkn5GT6EcMuJzjwgvQnu,Vacra,fr,franco,1.0,solo
 5OWPM4ybplRvlK9RJgAtSm,Melissa,mx,hispano,1.0,todas
+5PYToRCsrnvikZg3yl2JMr,Stephanie Beatriz,gb,anglo,0.25806451612903225,todas
+5Pb27ujIyYb33zBqVysBkj,RÜFÜS DU SOL,au,anglo,1.0,solo
+5PjekOABtfU2Kwo0AHVmci,Guy Sebastian,au,anglo,1.0,solo
+5PlfkPxwCpRRWQJBxCa0By,HUGEL,de,germânico,0.7407407407407407,todas
 5PtqDNfEbT1c8wnGce6EIE,Mc Mininin,br,luso,1.0,todas
-5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,au,anglo,0.49382716049382713,solo
-5Q30fhTc0Sl0Q4C5dOjhhQ,La La Love You,es,hispano,0.9318181818181818,todas
+5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,au,global,0.2822222222222222,solo
+5QCGlnijOcNxsXXNzZkcWL,Lujavo,de,germânico,0.5,todas
+5QdEbQJ3ylBnc3gsIASAT5,G Herbo,us,anglo,0.6190476190476191,todas
 5Qeyh2XKoITt1mlEVtzazC,Daoko,jp,japonês,1.0,todas
-5RTLRtXjbXI2lSXc6jxlAz,Ravyn Lenae,au,anglo,0.5,solo
-5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,au,anglo,0.5904761904761905,solo
-5RzT7CM6Ot0sh0EHefMicV,Maffio,es,hispano,1.0,todas
-5SXuuuRpukkTvsLuUknva1,Baby Keem,us,anglo,0.9285714285714286,todas
-5TP8Ubo4jLKEi4Mw2O8fAk,BM,es,hispano,1.0,todas
-5TYxZTjIPqKM8K8NuP9woO,C. Tangana,es,hispano,0.868421052631579,solo
+5R7AMwDeroq6Ls0COQYpS4,Kep1er,jp,japonês,1.0,solo
+5RR0MLwcjc87wjSw2JYdwx,MOMOLAND,jp,japonês,1.0,todas
+5RTLRtXjbXI2lSXc6jxlAz,Ravyn Lenae,au,global,0.176,solo
+5RaQ9nmVGoTye2SI76x3yw,Kofs,fr,franco,1.0,todas
+5RgzUZORebl59TcvCRZsD2,Zachi,de,germânico,1.0,todas
+5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,au,global,0.359375,solo
+5RmXJq0g7MNmgtxXLGbd6K,Mc Gabzin,br,luso,1.0,todas
+5Rs4gTYf15iES8jXZqhx2L,Mc Ws da leste,br,luso,1.0,todas
+5SHxzwjek1Pipl1Yk11UHv,Tom Grennan,gb,anglo,0.4117647058823529,solo
+5SQFDZOMgKao4hMpULEaoI,Joseph Kamel,fr,franco,1.0,todas
+5SRr4ZJMoygWecytkIwlaV,Bad Boy Chiller Crew,gb,anglo,1.0,todas
+5SXuuuRpukkTvsLuUknva1,Baby Keem,us,anglo,0.5416666666666666,todas
+5Sjj30aHCmKcM9SdVX7PBK,GRiNGO,de,germânico,1.0,todas
+5TYxZTjIPqKM8K8NuP9woO,C. Tangana,mx,hispano,1.0,solo
 5TcnuUD5MHBfd1cO4kweWD,Alex Favela,mx,hispano,1.0,todas
-5Uox3n7m4W2CoM9MmHPJwQ,Delaossa,es,hispano,1.0,todas
-5VadK1havLhK1OpKYsXv9y,D-Block Europe,au,anglo,1.0,todas
+5TvdGhdmRObqOkU6eGfXb5,Preston Pablo,ca,anglo,1.0,todas
+5U05AU34EcZ8pfohg2dicI,UZI,fr,franco,1.0,solo
+5UG2ipdnA4vk8Eevkf1s06,,de,germânico,1.0,todas
+5UGLLBEL0U3j4OzxxgVTmk,Team Paiya,fr,franco,1.0,todas
+5VadK1havLhK1OpKYsXv9y,D-Block Europe,gb,anglo,1.0,solo
 5VeyQ48fHEJP9CVFc4YJ5X,Hamilton Rabelo,br,luso,1.0,todas
+5Vf6gyVzfo8TnzrPRBg3qo,SANTA,fr,franco,1.0,solo
 5Vo1hnCRmCM6M4thZCInCj,OFFICIAL HIGE DANDISM,jp,japonês,1.0,solo
-5W9RX9DoA3MSvQGnoIgs7X,Jesús Reik,es,hispano,1.0,todas
-5Wg2b4Mp42gicxEeDNawf7,A7S,au,anglo,0.45614035087719296,todas
+5WUlDfRSoLAfcVSX1WnrxN,Sia,fr,franco,0.4583333333333333,solo
+5Wg2b4Mp42gicxEeDNawf7,A7S,de,global,0.2929936305732484,todas
 5WgRuO0mhM36NFoapzpWBH,Rashid,br,luso,1.0,todas
 5X5jKBLJ88Ji6tzwfL0g4c,Prod Malax,br,luso,1.0,todas
-5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,es,hispano,1.0,solo
-5XKFrudbV4IiuE5WuTPRmT,Stephen Sanchez,us,anglo,0.5789473684210527,solo
+5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,mx,hispano,0.7272727272727273,todas
+5XKFrudbV4IiuE5WuTPRmT,Stephen Sanchez,ca,anglo,0.3333333333333333,solo
 5XUMgbLR3zyRPesnTQY31C,MC GH do 7,br,luso,1.0,todas
-5Y3MV9DZ0d87NnVm56qSY1,Tiago PZK,es,hispano,0.896551724137931,todas
-5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,au,anglo,0.6096256684491979,solo
+5Y2FS5YbGf7yRDumzD5nY3,Sofiya Nzau,de,germânico,0.6923076923076923,todas
+5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,au,anglo,0.3472222222222222,todas
+5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,au,global,0.3465909090909091,solo
 5Ynf8bbQV9ICbK3vZoPxGF,Dudu,br,luso,1.0,todas
+5Yo5iU2nf4H41waPl4ZnS1,LEA,de,germânico,1.0,todas
 5YqI7p8zYsOpKJtjxYdOce,Victor Mendivil,mx,hispano,1.0,solo
 5YwzDz4RJfTiMHS4tdR5Lf,Xamã,br,luso,1.0,todas
 5ZEpz4ei1jHqvA4EHUeKqs,Os Gemeos da Putaria,br,luso,1.0,todas
+5ZS223C6JyBfXasXxrRqOk,Jhené Aiko,us,anglo,1.0,todas
 5ZTnWo7IY6rdIxm6aTSR84,Original Quality,br,luso,1.0,todas
+5ZY4M2aGiTaZQEP6HfqeJc,Montez,de,germânico,1.0,solo
+5ZYOlPpI9FZu2uIPkTB0UA,CÉLINE,de,germânico,1.0,solo
 5ZfBThYiIIhL7jHMG8gDB2,Ferrugem,br,luso,1.0,solo
-5ZqnEfVdEGmoPxtELhN7ai,Estopa,es,hispano,1.0,solo
-5bQ3wFgekuIMIcWJuxkqLK,Chrystal,au,anglo,0.75,todas
+5ZlyVrDhzKVvaZNj3b58fE,Lossa,fr,franco,1.0,todas
+5ZsFI1h6hIdQRw2ti0hz81,ZAYN,au,anglo,0.25,todas
+5aC2LaswbZgcf1G2uxqBxF,Brenno & Matheus,br,luso,1.0,todas
+5arfYeRczWtKre7ptGoEXp,Palma,br,luso,1.0,todas
+5bQ3wFgekuIMIcWJuxkqLK,Chrystal,au,anglo,0.2828282828282828,todas
 5bSfBBCxY8QAk4Pifveisz,La Arrolladora Banda El Limón De Rene Camacho,mx,hispano,1.0,solo
+5bWUlnPx9OYKsLiUJrhCA1,Jon Z,ca,anglo,0.30434782608695654,todas
+5bXNU0MAF2HSqyFPhYtscH,Neckwav,au,global,0.20481927710843373,todas
 5bZh8YQDUYXGHrkWwjakNF,DJ Jorgin,br,luso,1.0,todas
-5bzWtCkjIAMgN93gLt56SO,Tropkillaz,br,luso,0.9583333333333334,todas
+5bv5RplEOwdCvhq0EILh9E,Lucenzo,de,germânico,0.4126984126984127,todas
+5bzWtCkjIAMgN93gLt56SO,Tropkillaz,br,luso,1.0,todas
+5c0lDrNyT2RnFhujZpPIas,Victor Thompson,fr,franco,0.9090909090909091,todas
 5c8ZR64evQ00Spl73s76fo,Chuyin,mx,hispano,0.9473684210526315,todas
-5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,us,global,0.3065326633165829,solo
-5dbaLmK5SHLLg8Z4CcTJpX,,es,hispano,1.0,todas
-5eumcnUkdmGvkvcsx1WFNG,Tito Double P,mx,hispano,0.8842105263157894,solo
-5f7VJjfbwm532GiveGC0ZK,Lil Baby,us,anglo,0.7902439024390244,todas
+5cIc3SBFuBLVxJz58W2tU9,Oh Wonder,us,anglo,1.0,todas
+5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,us,global,0.20166666666666666,solo
+5dHt1vcEm9qb8fCyLcB3HL,A$AP Ferg,us,anglo,0.5,solo
+5dLqjc2m428QbostsKrUYW,Fepache,br,luso,1.0,todas
+5deLgmgAEgy8UHOfJ9Dj8w,Ilkay Sencan,br,luso,1.0,todas
+5e9fQ7H6ynkMPiZM2ADQDm,meLLo,br,luso,1.0,todas
+5eJi7nckPalxu8R7AAyfuO,MC Willian,br,luso,1.0,todas
+5eLTULECbpoiNT8czpulxX,Fäaschtbänkler,de,germânico,1.0,solo
+5ee4yhrWOxaxvL77BoVpVR,Lucky Luke,de,germânico,0.5789473684210527,solo
+5eioJDe26lOqkAMbuhzZYs,Gzuz,de,germânico,1.0,solo
+5eumcnUkdmGvkvcsx1WFNG,Tito Double P,mx,hispano,0.907563025210084,solo
+5exS0bytCYdixgv02DaCm3,William Singe,jp,japonês,0.875,todas
+5f6nz3iqzrfiUfKOIKvLvd,Nemir,fr,franco,1.0,todas
+5f7VJjfbwm532GiveGC0ZK,Lil Baby,us,anglo,0.6078431372549019,solo
+5fMUXHkw8R8eOP2RNVYEZX,Diplo,gb,global,0.20261437908496732,todas
+5fUXK5m3BNwoRgTyKq8tnz,,br,global,0.20689655172413793,todas
+5ffbqOCrcxCejQ7oqfWXm9,DJ DAVI DOGDOG,br,luso,1.0,todas
+5fyDppLDl1juIu1BcUT5zh,Digital Farm Animals,gb,anglo,1.0,todas
 5g9XiEkkceEjmAGXfWHpt5,Vytinho NG,br,luso,1.0,todas
-5gOJTI4TusSENizxhcG7jB,David Bisbal,es,hispano,1.0,todas
-5gqmbbfjcikQBzPB5Hv13I,Gazo,es,hispano,1.0,todas
+5gCRApTajqwbnHHPbr2Fpi,Juicy J,ca,anglo,0.4117647058823529,todas
+5gqmbbfjcikQBzPB5Hv13I,Gazo,fr,franco,1.0,solo
+5gs4Sm2WQUkcGeikMcVHbh,Hamza,fr,franco,1.0,solo
 5hDZAExrfOVqKBLS8Ofyac,Vitor e Luan,br,luso,1.0,todas
 5hPHLE5ssifxHX5bhK8iXR,FP do Trem Bala,br,luso,1.0,todas
-5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,mx,hispano,0.42857142857142855,todas
-5he5w2lnU9x7JFhnwcekXX,,au,anglo,0.5,todas
+5hREZP0zTQbTLkZ2M8RS4v,Djadja & Dinaz,fr,franco,1.0,solo
+5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,mx,hispano,0.6444444444444445,todas
+5he5w2lnU9x7JFhnwcekXX,,au,anglo,0.3333333333333333,todas
+5iIl7sknJm4dw34xfsL667,skrilla,de,germânico,1.0,todas
+5j21TGkrNEAJe3gG9VlS34,Shindy,de,germânico,1.0,todas
+5j4HeCoUlzhfWtjAfM1acR,Stromae,fr,franco,0.5,todas
+5jAMCwdNHWr7JThxtMuEyy,NOTD,au,anglo,0.5263157894736842,todas
 5kVZa4lFUmAQlBogl1fkd6,Aimyon,jp,japonês,1.0,solo
 5kVgcCdPbeUwxBqWxi2Ktl,Luan Pereira,br,luso,1.0,todas
-5kgDdP7a4TsvkF08gpJGX0,Juseph,es,hispano,0.8846153846153846,todas
+5kfgervAs5bJUOC0vbYB12,Mc Pelé,br,luso,1.0,todas
 5kjGRHClVacSyllOUqU1S0,SPITZ,jp,japonês,1.0,solo
+5l6N2hoIaP7snXdjnCULvk,Luis Alfonso Partida El Yaki,mx,hispano,1.0,todas
+5lTGqFmlTng9jPrs7c2dRA,Kome Kome Club,jp,japonês,1.0,solo
+5lTjv8Ag00qHSGhvK4JbeF,Justin Wellington,de,germânico,0.5,todas
 5lVrLnOGxIY3q8TTqDd5m2,JR,mx,hispano,1.0,todas
-5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,mx,hispano,0.5596330275229358,todas
-5mZJerulcERBZV7xnhrVp1,,au,anglo,0.9682539682539683,todas
-5mxB08ktCukEhGMg2YZeEv,Colin Hay,au,anglo,1.0,todas
-5n9bMYfz9qss2VOW89EVs2,Bomba Estéreo,mx,hispano,0.5327868852459017,todas
+5lal0BjsooQ7ON4t7B73bp,DJ Jeeh FDC,br,luso,1.0,todas
+5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,mx,hispano,0.9473684210526315,todas
+5mZJerulcERBZV7xnhrVp1,,de,germânico,0.21140939597315436,todas
+5mbxtnt9L2GGY2ebz6Xdew,Jaque Mate,mx,hispano,1.0,todas
+5mmEMfYChd6MImBagU7zCs,Bigflo & Oli,fr,franco,1.0,todas
+5mxB08ktCukEhGMg2YZeEv,Colin Hay,au,anglo,0.3783783783783784,todas
+5n9bMYfz9qss2VOW89EVs2,Bomba Estéreo,mx,hispano,0.8552631578947368,todas
+5nH2klYTzn8CNvUv1GOGQO,Eva,fr,franco,1.0,todas
 5nP8x4uEFjAAmDzwOEc9b8,Matuê,br,luso,1.0,solo
-5p9HO3XC5P3BLxJs5Mtrhm,Djo,us,anglo,0.3563218390804598,solo
+5nki7yRhxgM509M5ADlN1p,Oliver Heldens,de,germânico,0.35714285714285715,todas
+5nkzLizeD93QtabjeK4oyl,Djay W,br,luso,1.0,todas
+5oYHL2SijkMY52gKIhYJNb,Elefante,mx,hispano,1.0,solo
+5olcgTzelGdyP1rHRLyWgs,S.Pri Noir,fr,franco,1.0,todas
+5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,au,anglo,0.5072463768115942,todas
+5p7mWeX4RlvqBCxylfiXdE,KC Rebell,de,germânico,1.0,todas
+5p9HO3XC5P3BLxJs5Mtrhm,Djo,ca,global,0.17777777777777778,solo
 5pBMkZNIlbGTH3hrsQJqAa,Mc Kevin,br,luso,1.0,todas
-5pUo3fmmHT8bhCyHE52hA6,Liam Payne,au,anglo,0.6666666666666666,todas
+5pDjmC5mRl7vDJhsjVwNfk,Freya Ridings,au,anglo,0.4230769230769231,solo
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,us,anglo,0.22857142857142856,solo
+5pUo3fmmHT8bhCyHE52hA6,Liam Payne,gb,global,0.23076923076923078,todas
+5pVRwX5ZQR7hfJ18w8ZYkl,Ufo361,de,germânico,1.0,solo
+5pXe6yFchq1oyYK3rq2A8i,KIDDO,de,germânico,0.631578947368421,todas
+5q1SD3zx3GPnofIAPOIFrY,dnvn,de,germânico,0.5,todas
 5qIpstBGrGteJZg1xIvbiz,Panda,br,luso,1.0,todas
+5qZLYtTL3ldN6Uw7OXHESR,Sa4,de,germânico,1.0,todas
+5qisLjDrKoHMI9zOK2hfzs,Mister V,fr,franco,1.0,todas
+5qqv3LmRnc0hPFSIYm45Fy,,de,germânico,1.0,todas
 5qyPbwqvOEp7FvR1EeTQQ2,Gabb MC,br,luso,1.0,todas
 5r3Fsh6QhUaKlr9CKgBxcv,Mc Pretchako,br,luso,1.0,todas
-5rGrDvrLOV2VV8SCFVGWlj,Imanbek,au,global,0.3076923076923077,todas
-5rjz63sgMaAUAyBMyCUK5D,Avery Anna,au,anglo,0.5555555555555556,todas
+5rGrDvrLOV2VV8SCFVGWlj,Imanbek,de,global,0.2073732718894009,todas
+5rjz63sgMaAUAyBMyCUK5D,Avery Anna,au,anglo,0.30612244897959184,todas
+5rkVyNGXEgeUqKkB5ccK83,Ashanti,gb,anglo,0.8,todas
 5s27i7oqhNWIcE4HeoVdq0,MC GP,br,luso,1.0,todas
-5sK8BsvyDl4TFA6KaBf8or,,es,hispano,1.0,todas
-5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,es,hispano,1.0,todas
+5slpk6nu2IwwKx0EHe3GcL,Lena,de,germânico,1.0,todas
 5sm4rWbXSE6K8MdyTIZg7q,Yo Hitoto,jp,japonês,1.0,solo
-5szJHKg5xeUlQ9pTqzdpic,Taiu,es,hispano,0.7619047619047619,todas
+5tG5dl5mS2wB5w72YBpsyg,Herbert Grönemeyer,de,germânico,1.0,todas
+5tHiL8SKSaZGMBUPIiSmX4,KITSCHKRIEG,de,germânico,1.0,todas
 5uD6uRKj2xYxpqx8bscaco,Nilo,br,luso,1.0,todas
-5uEeqYFuIChoWKy34jp8xE,Brando,au,anglo,0.6388888888888888,todas
+5uEeqYFuIChoWKy34jp8xE,Brando,au,anglo,0.3018867924528302,todas
+5uYe4bcAXlMP7d4mrOYkML,Niack,br,luso,1.0,todas
 5ujrA1eZLDHR7yQ6FZa2qA,Vera Blue,au,anglo,1.0,todas
-5uwa6tAMMfNbBFIHiI6NV4,W Sound,es,hispano,0.7333333333333333,todas
-5vQfv3s2Z2SRdPZKr82ABw,Dzeko,au,global,0.3235294117647059,todas
-5vV3bFXnN6D6N3Nj4xRvaV,Jin,jp,japonês,0.5588235294117647,solo
+5v2bQ2dsdQmr2ARUYwnDHX,Luchinha Jr,br,luso,1.0,todas
+5vBSrE1xujD2FXYRarbAXc,Olly Alexander (Years & Years),gb,anglo,0.8947368421052632,solo
+5vQfv3s2Z2SRdPZKr82ABw,Dzeko,ca,global,0.2153846153846154,todas
+5vV3bFXnN6D6N3Nj4xRvaV,Jin,jp,japonês,0.4222222222222222,solo
+5vcFoQxKd0ZpA178xDU12G,Cachirula,mx,hispano,1.0,todas
 5vcMPVDXTLhJ4UpOZKXZtg,MC Xenon,br,luso,1.0,todas
 5veVxxPm1vzgi6pO2iVA8L,Bruno Martini,br,luso,1.0,todas
-5wCmhq5J2hPwL2r0eKurxn,cassö,au,anglo,1.0,todas
+5vfmmb3UHpuQWJ55JP9slk,Geko,gb,anglo,1.0,todas
+5wCmhq5J2hPwL2r0eKurxn,cassö,de,germânico,0.29069767441860467,todas
 5wEgjH2s4SAiffRmzkBqHB,Wall Hein,br,luso,1.0,todas
+5wTdspmxzb8V4ZjvDodpBo,A Touch Of Class,de,germânico,0.6071428571428571,todas
 5wbf52LA6kcaboHSN6NEF1,PEDRO SAMPAIO,br,luso,1.0,solo
+5wyWp867LWGjFmYZXVSFnZ,MERO,de,germânico,1.0,solo
 5x2zeeLVXEDaMHRaRmH3FD,Vou Zuar,br,luso,1.0,todas
 5xKesKsXI1jv2TorLOnbbm,Mc Frog,br,luso,1.0,todas
 5xYNmNkaWRqu3e5F4UXME8,Alfredo Olivas,mx,hispano,1.0,solo
 5xYkM2vMrE23taj6tl7qkm,Pk,br,luso,1.0,todas
-5y8tKLUfMvliMe8IKamR32,d4vd,us,anglo,0.74,solo
+5xkAtLTf309LAGZTbvULBn,Ruel,au,anglo,1.0,solo
+5xkFVS6IwwgHEAaRzXc9U3,Tay Keith,gb,anglo,0.7222222222222222,todas
+5y2Xq6xcjJb2jVM54GHK3t,John Legend,au,anglo,0.6226415094339622,solo
+5y8tKLUfMvliMe8IKamR32,d4vd,us,anglo,0.35877862595419846,solo
+5y9wg9qkGBl0n9v9RzaPKu,CAPO,de,germânico,1.0,todas
 5yES5e4EJpUB0tfmWi3eao,MC Rita,br,luso,1.0,todas
-5zctI4wO9XSKS8XwcnqEHk,Lil Mosey,us,anglo,0.4583333333333333,solo
-60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,au,global,0.3333333333333333,todas
+5yOvAmpIR7hVxiS6Ls5DPO,OMAH LAY,de,germânico,1.0,todas
+5yYCc4KdgGsTDnOoSI45vj,Oscar Maydon,mx,hispano,1.0,todas
+5zSv8ebxJp6esGCMu1pxaH,Caroliina,fr,franco,0.9230769230769231,todas
+5zctI4wO9XSKS8XwcnqEHk,Lil Mosey,ca,global,0.28859060402684567,solo
+6012kczHExxqLw3N9xnEZ4,Alice Stark,de,germânico,1.0,todas
+606eWexxNhc6Mj0RuCxMA9,Mila,br,luso,1.0,todas
+60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,de,global,0.2153846153846154,todas
+60pVmLS5zlt31OWk340O3U,MAJAN,de,germânico,1.0,todas
+60rpJ9SgigSd16DOAG7GSa,,ca,global,0.1743119266055046,todas
+60uh2KYYSCqAgJNxcU4DA0,Hombres G,mx,hispano,1.0,solo
+61O1t9W4rYDRcGF9DJUTJw,Zokush,fr,franco,1.0,todas
+61PUjJm9JH5ck3LxD6RypE,Enny-Mae,de,germânico,1.0,todas
+61ipISvUVa5LkJlKZnm3Oo,Alle Farben,de,germânico,1.0,todas
+61vhXXSO0lkbxFvnXHx8QP,CHEKAA,de,germânico,1.0,todas
+62YF0FglEltB3CnVIjoko8,Ingratax,mx,hispano,1.0,solo
+62zLrboqOTPyozwi721CVy,Lorenzo,fr,franco,1.0,todas
+63MCBZRiUdnqRsAOJwijiB,Sadek,fr,franco,1.0,todas
+63X1WKthLQidtqxxO2sgeq,MIST,gb,anglo,1.0,todas
+63ebc5zUpJ36aoTDQJHa9B,E1 (3x3),gb,anglo,0.5,todas
+63gbXCha1jpkrJJ9K5gGpR,ELI,de,germânico,1.0,todas
+63nv0hWWDob56Rk8GlNpN8,The Greatest Showman Ensemble,gb,anglo,0.725,todas
+63wjoROpeh5f11Qm93UiJ1,Keri Hilson,de,germânico,0.45714285714285713,todas
 63ylN6WBUUxxMsySiDmr0B,Omoinotake,jp,japonês,1.0,solo
 64DTkZLH6KkkMwZEEZ5VWC,Love Funk,br,luso,1.0,todas
-64KEffDW9EtZ1y2vBYgq8T,Marshmello,au,global,0.2260061919504644,todas
-64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,au,global,0.31868131868131866,todas
-64aJYyrXljOodnUG6jvhRD,DJ Luian,es,hispano,0.5178571428571429,todas
+64H8UqGLbJFHwKtGxiV8OP,THE ANXIETY,au,anglo,0.23809523809523808,todas
+64KEffDW9EtZ1y2vBYgq8T,Marshmello,ca,global,0.23756906077348067,todas
+64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,ca,anglo,0.2972972972972973,solo
+64aJYyrXljOodnUG6jvhRD,DJ Luian,mx,hispano,0.9882352941176471,todas
 64tJ2EAv1R6UaZqc4iOCyj,YOASOBI,jp,japonês,1.0,solo
-658X86qMyJpSRY87oPvExU,Shelow Shaq,es,hispano,1.0,todas
-65GDNtLQdPv30IljvoE2KW,Maki,es,hispano,1.0,todas
-66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,us,global,0.27751196172248804,solo
-66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,au,anglo,0.5454545454545454,todas
-66ihevNkSYNzRAl44dx6jJ,Carín León,mx,hispano,0.9907407407407407,solo
-67FB4n52MgexGQIG8s0yUH,Lola Young,au,anglo,0.4418604651162791,solo
-67hb7towEyKvt5Z8Bx306c,Empire Of The Sun,au,anglo,0.8518518518518519,todas
+65UC5VKwU4vBSBSHckQd5l,Yay,mx,hispano,1.0,todas
+65tpb4BwAnD3HOUs8MC6TB,DJ ESCOBAR,br,luso,1.0,todas
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,gb,global,0.16375838926174496,solo
+66Ok6bgC570sHkw08N20pZ,OBOY,fr,franco,1.0,solo
+66TrUkUZ3RM29dqeDQRgyA,Ella Eyre,gb,anglo,0.6470588235294118,todas
+66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,ca,anglo,0.29545454545454547,todas
+66ihevNkSYNzRAl44dx6jJ,Carín León,mx,hispano,0.9924242424242424,solo
+67FB4n52MgexGQIG8s0yUH,Lola Young,gb,global,0.23148148148148148,solo
+67MNhiAICFY6Pwc2YxCO0K,Elley Duhé,de,global,0.24242424242424243,solo
+67ghKnycRX6VM1xfqJSMlH,YouNotUs,de,germânico,0.8,todas
+67hb7towEyKvt5Z8Bx306c,Empire Of The Sun,au,anglo,0.3220338983050847,solo
 685uhJgfQlrMNuarOzgyea,DJ Ak beats,br,luso,1.0,todas
-687cZJR45JO7jhk1LHIbgq,Tems,us,anglo,0.5909090909090909,todas
+687cZJR45JO7jhk1LHIbgq,Tems,us,anglo,0.2765957446808511,todas
 68PYmgkbRP1qZnEWOry7sB,Chefin,br,luso,1.0,todas
 68YeXpLt3jB7JHQS5ZjMGo,Teto,br,luso,1.0,solo
-699OTQXzgjhIYAHMy9RyPD,Playboi Carti,us,anglo,0.5540540540540541,todas
-69GGBxA162lTqCwzJG5jLp,The Chainsmokers,au,anglo,0.56875,todas
-6ASri4ePR7RlsvIQgWPJpS,iann dior,au,global,0.352112676056338,todas
-6AgTAQt8XS6jRWi4sX7w49,Polo G,us,anglo,0.5098039215686274,solo
-6BeO1KuAWBqFriL1mLHtNc,Leslie Grace,es,hispano,0.6666666666666666,todas
-6DgP9otnZw5z6daOntINxp,Joel Corry,au,anglo,0.6307692307692307,todas
+699OTQXzgjhIYAHMy9RyPD,Playboi Carti,us,anglo,0.6,solo
+69GGBxA162lTqCwzJG5jLp,The Chainsmokers,au,anglo,0.381294964028777,todas
+69UypehHabb68utzfjAVlV,Kany García,mx,hispano,1.0,todas
+69u5rPwWBKP7pJHpCGB9O5,MoTrip,de,germânico,1.0,todas
+6AFA7y2tNohNcpaLwDRyxx,KXXMA,de,germânico,1.0,todas
+6AMd49uBDJfhf30Ak2QR5s,Coi Leray,au,global,0.21052631578947367,solo
+6ARKr2ZoLf9TDoQiZarJMt,makko,de,germânico,1.0,todas
+6ASri4ePR7RlsvIQgWPJpS,iann dior,ca,global,0.18439716312056736,todas
+6AT27ojKlBuZToFIGwQZDc,Sammy & Falsetto,mx,hispano,1.0,todas
+6AgTAQt8XS6jRWi4sX7w49,Polo G,us,anglo,0.3,solo
+6BRxQ8cD3eqnrVj6WKDok8,Ella Langley,ca,anglo,0.38461538461538464,solo
+6BV37tKh6pY97mnNdTCzly,El Malilla,mx,hispano,1.0,todas
+6BeO1KuAWBqFriL1mLHtNc,Leslie Grace,mx,hispano,1.0,todas
+6C1ohJrd5VydigQtaGy5Wa,Joyner Lucas,ca,global,0.2702702702702703,todas
+6CP5wWvO8oIxedESJNCN4H,Ski Aggu,de,germânico,1.0,todas
+6DIS6PRrLS3wbnZsf7vYic,WALK THE MOON,au,anglo,0.4233576642335766,solo
+6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,ca,anglo,0.3333333333333333,todas
+6DgP9otnZw5z6daOntINxp,Joel Corry,gb,anglo,0.6956521739130435,solo
 6E2st8OqIaS7PU5gj95FSE,1Kilo,br,luso,1.0,todas
-6E94QKXZv8BbO6QQJxcxLI,Daviles de Novelda,es,hispano,1.0,solo
-6F3vLfyutkUhpM50G84eMt,Endor,au,anglo,1.0,solo
+6EPlBSH2RSiettczlz7ihV,Sleepy Hallow,ca,anglo,0.27380952380952384,solo
+6EVyI0S0b1Ld2nm37m5x85,Raffaella Carrà,de,germânico,0.5,todas
+6F3vLfyutkUhpM50G84eMt,Endor,au,anglo,0.64,solo
+6FugQjLquBF4JzATRN70bR,Yot Club,us,anglo,1.0,solo
+6GX3y0u61X0EHZZogsQFbL,Mc Doguinha,br,luso,1.0,todas
+6GoNVmYCl0yUm4pEp80vn6,badchieff,de,germânico,1.0,todas
+6HCBnyTBSLdb3TFn2ayulY,Leto,fr,franco,1.0,todas
 6HJiLhKqnOh32p3LSNWsR3,Dj Gabriel do Borel,br,luso,1.0,todas
-6HaGTQPmzraVmaVxvz6EUc,Jung Kook,jp,japonês,0.5675675675675675,todas
-6HvZYsbFfjnjFrWF950C9d,NewJeans,jp,japonês,0.8613861386138614,solo
-6ISKc7ev3V4EGnEagkXexc,ROBI,es,hispano,0.7222222222222222,todas
-6KImCVD70vtIoJWnq6nGn3,Harry Styles,au,global,0.3339517625231911,solo
-6L1XC7NrmgWRlwAeLJvVtA,Sam Fischer,au,anglo,0.8846153846153846,solo
+6HQ6vf4AloXyVNdyJhrX1J,GAMPER & DADONI,de,germânico,1.0,solo
+6Ha4aES39QiVjR0L2lwuwq,Yo Gotti,ca,anglo,0.6666666666666666,todas
+6HaGTQPmzraVmaVxvz6EUc,Jung Kook,jp,global,0.44680851063829785,todas
+6HhV0jtMMK5HYnYgG0xgtz,The War And Treaty,ca,anglo,0.34146341463414637,todas
+6HhnhnxLsowYuuejvku0Bz,Lartiste,fr,franco,0.9615384615384616,todas
+6HqgxkTt9KGyt27zYrwVan,Super Yei,mx,hispano,1.0,todas
+6HvZYsbFfjnjFrWF950C9d,NewJeans,jp,japonês,0.7547169811320755,solo
+6IKlXZEFOvk9itrP1s0knJ,The Red Clay Strays,us,anglo,0.6818181818181818,solo
+6IZ4ctovY9dl7bgHClAvKJ,LSD,fr,franco,0.375,todas
+6IflU2YrY5Cyw7YoBICosV,Fally Ipupa,fr,franco,1.0,todas
+6Ip8FS7vWT1uKkJSweANQK,Dave,gb,anglo,0.7551020408163265,solo
+6J6U2JAv7LUF0cSQ98gpjM,PL Quest,br,luso,1.0,todas
+6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,au,global,0.25,solo
+6JoYL9QYbdgPb6EuE5J2pC,Gerardo Coronel,mx,hispano,1.0,todas
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,au,global,0.20018796992481203,solo
+6L1XC7NrmgWRlwAeLJvVtA,Sam Fischer,au,anglo,0.5111111111111111,solo
+6L34dW6SKMSDaGIfYDU19j,Maes,fr,franco,1.0,solo
+6L8y2rKomt32RmT4wfwZS7,Jungeli,fr,franco,1.0,todas
+6LC8g4SRSqJ4zm6sQeutFZ,Jaziel Avilez,mx,hispano,1.0,todas
+6LesPuO1nhgJ2acJ4MjyBI,和ぬか,jp,japonês,1.0,todas
 6LjdKBMnP1Da8Oe6WhrN56,Aldair Playboy,br,luso,1.0,solo
-6LuN9FCkKOj5PcnpouEgny,Khalid,us,anglo,0.4866666666666667,solo
-6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,au,global,0.22847682119205298,solo
-6MDME20pz9RveH9rEXvrOM,Clean Bandit,jp,global,0.5,todas
-6MPCFvOQv5cIGfw3jODMF0,Internet Money,au,anglo,0.39622641509433965,todas
+6LuN9FCkKOj5PcnpouEgny,Khalid,us,anglo,0.3004115226337449,solo
+6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,au,global,0.16389244558258642,solo
+6M6XXCcO5gI68XpIlrUL3Z,Young T & Bugsey,gb,anglo,0.8636363636363636,todas
+6MDME20pz9RveH9rEXvrOM,Clean Bandit,jp,global,0.33636363636363636,todas
+6MGHit7sV38BhpChZYByFv,SHISHAMO,jp,japonês,1.0,solo
+6MPCFvOQv5cIGfw3jODMF0,Internet Money,ca,global,0.20168067226890757,todas
+6Mm2g25BTeJ6BICPFWGkPg,Bosh,fr,franco,1.0,solo
 6NFyaN9PMCDZ3LKxGwHAXt,Illy,au,anglo,1.0,todas
+6NO12PstTjSbyBgbn2GSKz,Amaru,de,germânico,1.0,todas
+6OBEI1JlLksVqrVOJXWdRe,Haaland936,de,germânico,1.0,todas
 6OBGbSaBUvQtk9wpQfDbOE,Kevin Kaarl,mx,hispano,1.0,solo
 6OP8Y0UsezppFkU1hZU6EJ,El Chachito,mx,hispano,1.0,todas
-6OpOg5HVCc8xVf7OVrd5Fk,Jerry Smith,br,luso,1.0,todas
+6OUIY1hXVxeiAw6K7rDerM,MC Smith,br,luso,1.0,todas
+6OpOg5HVCc8xVf7OVrd5Fk,Jerry Smith,br,luso,1.0,solo
 6Ovxg5WDcnSQc8iQXv0IvI,DJ 900,br,luso,1.0,todas
-6P6GTRTigHBp8ZesNtpCKH,Almighty,mx,hispano,0.5882352941176471,todas
+6P6GTRTigHBp8ZesNtpCKH,Almighty,mx,hispano,1.0,todas
+6P6uQzjvmHHsygCrGiEmBS,CANETARIA,br,luso,1.0,todas
 6PERJZF7wohA034PAxDK0b,Neo Beats,br,luso,1.0,todas
-6PvvGcCY2XtUcSRld1Wilr,Silk Sonic,us,global,0.2857142857142857,todas
-6S2OmqARrzebs0tKUEyXyp,Demi Lovato,es,global,0.2553191489361702,todas
-6SGvRyZuaSuWmP6IWUKpGf,Kenny Man,mx,hispano,0.6818181818181818,solo
-6Sbl0NT50roqWvy746MfVf,Gabito Ballesteros,mx,hispano,0.853448275862069,todas
-6TIYQ3jFPwQSRmorSezPxX,mgk,us,anglo,0.5945945945945946,todas
-6TK7fjRPdy2GW2pJzNF23L,Kyla,au,anglo,0.7209302325581395,todas
-6TKygPpVT29oGUogu4J9Ec,Yan Block,es,hispano,1.0,solo
+6Pr9pssRV0tD0jdh2Z84td,SAF,fr,franco,1.0,todas
+6PvvGcCY2XtUcSRld1Wilr,Silk Sonic,us,global,0.1891891891891892,todas
+6Q192DXotxtaysaqNPy5yR,Amy Winehouse,gb,anglo,0.6666666666666666,todas
+6QMABvTzixnxzsLYyhqRxI,Majestic,au,anglo,0.25,todas
+6QdzKE9cMAEFZj1pYcxpsf,Ehis 'D' Greatest,fr,franco,0.9090909090909091,todas
+6QrQ7OrISRYIfS5mtacaw2,Jaymes Young,de,global,0.26,solo
+6QzzeKV0VcnT2vJMYDPuL4,Trettmann,de,germânico,1.0,todas
+6RHTUrRF63xao58xh9FXYJ,IVE,jp,japonês,0.9692307692307692,solo
+6Rmg5JiRphFMlhkwGNl9Fu,Tom Gregory,fr,franco,0.55,solo
+6S0IvKlvPMX1RtAYtVpUV8,Drax Project,au,anglo,0.9411764705882353,todas
+6S2OmqARrzebs0tKUEyXyp,Demi Lovato,au,global,0.18604651162790697,todas
+6SGvRyZuaSuWmP6IWUKpGf,Kenny Man,mx,hispano,1.0,solo
+6Sbl0NT50roqWvy746MfVf,Gabito Ballesteros,mx,hispano,0.919831223628692,todas
+6SsSYKLEsf8EfDbFAi5GET,MC Nego Micha,br,luso,1.0,todas
+6TIYQ3jFPwQSRmorSezPxX,mgk,us,anglo,0.30985915492957744,todas
+6TK7fjRPdy2GW2pJzNF23L,Kyla,gb,anglo,0.3277310924369748,todas
+6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,au,global,0.23529411764705882,todas
+6TOKWuw816UU34AE4MCZqr,Beltito,mx,hispano,1.0,todas
 6TPJK8tv3AKKSsw0lENTQk,Nagalli,br,luso,1.0,todas
 6TYimByryGphZCtwYopH0y,Lauana Prado,br,luso,1.0,solo
-6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,au,anglo,0.868421052631579,solo
+6Te49r3A6f5BiIgBRxH7FH,Ninho,fr,franco,1.0,solo
+6TmHCol5w2iwL18tI45zo7,Beatgees,de,germânico,1.0,todas
+6U1dBXJhC8gXFjamvFTmHg,Zac Efron,gb,anglo,0.7962962962962963,todas
+6U1dV7aL68N7Gb0Naq34V5,REI AMI,ca,global,0.1702127659574468,todas
+6U3ybJ9UHNKEdsH7ktGBZ7,JID,ca,global,0.1619047619047619,todas
+6UCQYrcJ6wab6gnQ89OJFh,Headie One,gb,anglo,0.631578947368421,todas
+6USMTwO0MNDnKte5a5h0xx,Y2K,ca,global,0.175,todas
+6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,au,global,0.31088082901554404,solo
 6Us5Zsn5MAHBk7SHBUsG5X,DJ Biel do Furduncinho,br,luso,1.0,todas
 6V70yeZQCoSR2M3fyW8qiA,Spacey Jane,au,anglo,1.0,solo
-6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,jp,japonês,0.4,solo
+6VcsqZOR5AtEOGeAtmutCZ,Esau Ortiz,mx,hispano,1.0,todas
+6VjbeCqoayiHYnefrisskv,Kay One,de,germânico,1.0,todas
+6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,au,global,0.20833333333333334,solo
 6Vxu4TDCN5TMlRpdu6a2Ag,MC K9,br,luso,1.0,todas
-6WLvgbfYXQPO396oJEYCsi,Macklemore & Ryan Lewis,au,anglo,1.0,todas
+6W5uA6CNMf3hd2j4a2XWCx,Naps,fr,franco,1.0,solo
+6WFDpw4u23uSpon4BHvFRn,Cat Burns,gb,anglo,0.8181818181818182,solo
+6WIjKbyqeO9MkfNMFJsF50,Dj LK da Escócia,br,luso,1.0,todas
+6WLvgbfYXQPO396oJEYCsi,Macklemore & Ryan Lewis,gb,anglo,0.3382352941176471,todas
+6WY7D3jk8zTrHtmkqqo5GI,Maren Morris,au,global,0.21495327102803738,todas
 6Wlvsn3IPHiZwAv02lB5eC,Ícaro e Gilmar,br,luso,1.0,todas
 6WmXWHmfBMhupyIs8MSqtu,natori,jp,japonês,1.0,solo
+6XFQvBHGEr3mRfOHcqPXv8,XATAR,de,germânico,1.0,todas
 6XX6KGpomRDPmGGm7bofCK,DJ Glenner,br,luso,1.0,todas
-6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,us,anglo,0.819672131147541,todas
-6XkjpgcEsYab502Vr1bBeW,Grupo Frontera,mx,hispano,0.8024691358024691,todas
+6Xb4ezwoAQC4516kI89nWz,Imogen Heap,us,anglo,0.3142857142857143,solo
+6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,us,anglo,0.6292134831460674,todas
+6XjgqvaVLUib6lCerbZrYD,Stryv,de,germânico,0.375,todas
+6XkjpgcEsYab502Vr1bBeW,Grupo Frontera,mx,hispano,0.8,solo
+6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,ca,anglo,0.3048780487804878,todas
+6XvKTz2XRPwlry0UdjqoKq,Ghetto Kids,mx,hispano,1.0,todas
+6XyY86QOPPrYVGvF9ch6wz,Linkin Park,de,germânico,0.41626794258373206,solo
+6Xz6ZnGZZ1KKct4jTyKKZv,SwitchOTR,gb,anglo,0.7272727272727273,todas
+6YCM9JwkqdEFQSzztmh4Kb,Navos,gb,anglo,1.0,todas
+6YTILOAf9umh7RMEJdigWm,Maxe,de,germânico,1.0,todas
+6YVMFz59CuY7ngCxTxjpxE,aespa,jp,japonês,1.0,solo
+6YqhcZlSE8ugUcmoHLw9gz,Vula,de,germânico,0.35714285714285715,todas
+6YqyFGzBfxmhGsHZLRxMkn,,fr,franco,1.0,todas
+6YzSM19LzpLH0nVKKU6Jsy,Mc Daniel,br,luso,1.0,todas
+6Z9eUCDtjeQRAp4eZhTztf,Andrezin Araújo,br,luso,1.0,todas
+6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,ca,anglo,0.3103448275862069,todas
+6ZiGAU6TJQEyidFQ22eIOS,Mc Rennan,br,luso,1.0,todas
 6a9WLQ5NsIV7U2qB16uFWD,Ana Gabriela,br,luso,1.0,todas
 6ac253D3NynjiNAjkkR2TJ,DJ Henrique da VK,br,luso,1.0,todas
 6ano6kSzweJbXGVMyHvwrC,Dj Salgueirinho,br,luso,1.0,todas
 6aoGgTKGqtsjj48ymcNs4Z,MC Tuto,br,luso,1.0,todas
-6bDWAcdtVR3WHz2xtiIPUi,Fujii Kaze,jp,japonês,1.0,solo
-6beUvFUlKliUYJdLOXNj9C,King Princess,au,anglo,0.75,solo
-6bmlMHgSheBauioMgKv2tn,Powfu,au,global,0.2923076923076923,todas
+6bDWAcdtVR3WHz2xtiIPUi,Fujii Kaze,jp,japonês,0.9900497512437811,solo
+6bM6rpwjhvxuKSQ2OJ2eQC,Sosa La M,de,germânico,1.0,todas
+6bTG3OP5laBeEb27xgfoqT,Gavin Moss,fr,franco,1.0,todas
+6beUvFUlKliUYJdLOXNj9C,King Princess,au,anglo,0.5555555555555556,solo
+6bmZfABIjvLMAMYwujdjFy,Mc Topre,br,luso,1.0,todas
+6bmlMHgSheBauioMgKv2tn,Powfu,au,global,0.16964285714285715,todas
 6bpv92ES2Vcv2OKA3DAhgw,Joaquin Medina,mx,hispano,1.0,todas
-6cEuCEZu7PAE9ZSzLLc2oQ,,jp,japonês,1.0,todas
+6c8akjSeJQw2NYemV6qVT8,Small Jam,de,germânico,0.5,todas
+6cEuCEZu7PAE9ZSzLLc2oQ,R3HAB,de,germânico,0.5862068965517241,todas
+6cK3NBO6uP7hh0oyuVELFl,Saweetie,au,anglo,0.2054794520547945,todas
+6cNWiizYLCClZdnIvqU968,AriBeatz,de,germânico,1.0,todas
 6cUTkFvlPW27lYc3qcoOgy,Baviera,br,luso,1.0,todas
+6cnJ8gP9R3JEh5mCCvOwz3,Evinha,br,luso,1.0,todas
+6cpOyiEibAAlRlUF4Kk3vI,YAKARY,de,germânico,1.0,solo
 6cutt8thPFUICMfxaYerWd,MY FIRST STORY,jp,japonês,1.0,solo
+6dC41opH96WjFwWhhAxBsS,Helsloot,de,germânico,0.5666666666666667,todas
 6dLuQ5qXxIuWc5urxfIiZR,Calle 24,mx,hispano,1.0,solo
 6dZF1SMkMqrSFJKp0mhk4B,Chayín Rubio,mx,hispano,1.0,solo
+6dbdXbyAWk2qx8Qttw0knR,Josman,fr,franco,1.0,solo
+6deZN1bslXzeGvOLaLMOIF,Nickelback,au,anglo,0.3113207547169811,solo
+6dlzQ6fiPna40trq1Ek6cb,1da Banton,fr,franco,1.0,todas
 6dqohi36avY0M9urnyhITr,Luvli,mx,hispano,0.6571428571428571,todas
-6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,au,global,0.4114583333333333,solo
-6fWVd57NKTalqvmjRd2t8Z,24kGoldn,au,global,0.352112676056338,todas
+6e3pZKXUxrPfnUPJ960Hd9,Pomme,fr,global,0.38095238095238093,todas
+6eNlaSdxs8F7F0XlfDBhZy,HARLEE,gb,anglo,1.0,todas
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,au,global,0.30145719489981787,solo
+6exBFuevXZvHrbP3oKtfWe,Mc Mika,br,luso,1.0,todas
+6fOyYqdh6p0ZWLs9zUDoyt,MC Gury,br,luso,1.0,todas
+6fWVd57NKTalqvmjRd2t8Z,24kGoldn,au,anglo,0.30434782608695654,solo
+6fzh7nbhTUmqHUlx7a6DFW,Mad Fuentes,mx,hispano,1.0,todas
+6gK1Uct5FEdaUWRWpU4Cl2,Petit Biscuit,fr,franco,0.5714285714285714,todas
 6gLW5LlLEXdtWaS0EWfzaJ,Jorge,br,luso,1.0,todas
 6gqBZ0kAjgVLsZQKkHcaB3,PK Delas,br,luso,1.0,todas
-6i3DxIlAqnDkwELLw4aVrx,,es,hispano,1.0,todas
+6h1s4i4XKIYv4ErDelLDN0,Samra,de,germânico,1.0,solo
+6hyMWrxGBsOx6sWcVj1DqP,Sebastian Ingrosso,de,germânico,0.8333333333333334,todas
+6i392l38cR3uBPF0DbNs7S,Quality Control,us,anglo,0.6842105263157895,todas
+6i3DxIlAqnDkwELLw4aVrx,Lele Pons,mx,hispano,1.0,todas
+6iUG0pMyifNBudO9B1s7cD,Mc guizinho niazi,br,luso,1.0,todas
 6icQOAFXDZKsumw3YXyusw,Lil Yachty,us,anglo,1.0,todas
+6iqDK7aHVlwGGgPmcdSK5L,Tribbs,de,germânico,1.0,todas
 6jBww4kwlSrjaNYP7AQPtX,Borges,br,luso,1.0,todas
-6jJ0s89eD6GaHleKKya26X,,mx,hispano,1.0,todas
-6k8mwkKJKKjBILo7ypBspl,Ana Mena,es,hispano,1.0,todas
-6kT18gnkVrCz8xJQcrib7L,Bhaskar,br,luso,1.0,todas
-6kbR2eL4hecj3rFwGOsYsI,BL3SS,au,anglo,1.0,todas
-6kq4GHwUcUojGIu0ziSNXf,Amenazzy,es,hispano,0.5333333333333333,todas
-6l3HvQ5sa6mXTsMTB19rO5,J. Cole,us,anglo,0.6415929203539823,solo
+6jGMq4yGs7aQzuGsMgVgZR,Lil Tjay,gb,anglo,0.35,solo
+6jIhEiXcCAyBsuEI7qZ9vc,Ken Hirai,jp,japonês,1.0,todas
+6jJ0s89eD6GaHleKKya26X,Katy Perry,au,global,0.30434782608695654,solo
+6jStlKLflTMUN6BajxrNlj,Julien Doré,fr,franco,1.0,todas
+6jmHuLfbWlq34KedQ7mA5I,Slow Motion,br,luso,1.0,todas
+6junQmlAntqTBJPTYCq25a,Mc Vitin Da Igrejinha,br,luso,1.0,todas
+6k8mwkKJKKjBILo7ypBspl,Ana Mena,fr,franco,1.0,todas
+6k970rXaWAWVfWMjqWtFNI,Steel Banglez,gb,anglo,1.0,todas
+6k9F0oaxCXxbdTFDTdZihN,La Rvfleuze,fr,franco,1.0,todas
+6k9e4mFFVtEAAhGdvJBtqB,Luca-Dante Spadafora,de,germânico,1.0,todas
+6kBjAFKyd0he7LiA5GQ3Gz,Aqua,au,anglo,0.23333333333333334,todas
+6kZWqUZqptyxb8Ki5DyBAg,DTG,gb,anglo,0.5185185185185185,todas
+6kbR2eL4hecj3rFwGOsYsI,BL3SS,au,anglo,0.375,todas
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,us,anglo,0.38311688311688313,solo
+6l7R1jntPahGxwJt7Tky8h,Obongjayar,gb,anglo,0.55,todas
+6l8dHVPkuEFzpQjhCH4xXT,JBS,de,germânico,1.0,todas
+6le80R1opKnTlP4o3KvA2k,Uru,jp,japonês,1.0,solo
 6lpzj8HzoVgeA24NN1GnPV,Mc Phe Cachorrera,br,luso,1.0,todas
-6ltzsmQQbmdoHHbLZ4ZN25,Lord Huron,au,anglo,0.5121951219512195,solo
+6ltzsmQQbmdoHHbLZ4ZN25,Lord Huron,ca,global,0.2170212765957447,solo
 6m6e7D2TnV0aYMllFFwMxu,Guilherme & Benuto,br,luso,1.0,solo
+6m8itYST9ADjBIYevXSb1r,Wilkinson,gb,anglo,1.0,todas
+6mDl7lQiLxT0iQ8LYhAlWy,Zerb,de,germânico,0.6923076923076923,todas
 6mEQK9m2krja6X1cfsAjfl,Ado,jp,japonês,1.0,solo
 6mKwmTMzDrye9elc8JWiw3,Mc Leozin,br,luso,1.0,todas
-6n28c9qs9hNGriNa72b26u,PNAU,au,global,0.3697478991596639,todas
+6mU8ucezzms5I2kNH6HNlu,Conor Maynard,de,germânico,0.4166666666666667,todas
+6mx5dgNlLjrDDMyFsgrW87,TALK,ca,anglo,1.0,solo
+6mzs66iVW15C5iLt0JLt41,ILIRA,de,germânico,1.0,todas
+6n28c9qs9hNGriNa72b26u,PNAU,au,global,0.20952380952380953,todas
+6n45wsxj6sDedgwEyTza6d,Fafá de Belém,fr,franco,1.0,todas
 6n4SsAp5VjvIBg3s9QCcPX,SUDA MASAKI,jp,japonês,1.0,solo
-6nS5roXSAGhTGr34W6n7Et,Disclosure,au,anglo,0.4117647058823529,todas
-6nVcHLIgY5pE2YCl8ubca1,JHAYCO,es,hispano,1.0,solo
+6nJEMDVNcq7fduXgk7EdGG,MilleniumKid,de,germânico,1.0,todas
+6nS5roXSAGhTGr34W6n7Et,Disclosure,au,global,0.26881720430107525,todas
+6nVcHLIgY5pE2YCl8ubca1,JHAYCO,mx,hispano,0.7222222222222222,todas
 6nZ39vMOOOgXQ471Jy5jhR,WEY,br,luso,1.0,todas
 6neX3m8RObh5N8X6AEBYiw,FamousKyo,br,luso,1.0,todas
-6nxWCVXbOlEVRexSbLsTer,Flume,au,anglo,1.0,todas
-6oMuImdp5ZcFhWP0ESe6mG,Migos,us,anglo,0.75,todas
-6pV5zH2LzjOUHaAvENdMMa,Neton Vega,mx,hispano,0.7954545454545454,solo
-6pvz7OwdRHemko3hrQygJb,El Completo Rd,es,hispano,1.0,todas
-6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,au,global,0.3157894736842105,solo
+6nxWCVXbOlEVRexSbLsTer,Flume,au,anglo,0.9230769230769231,todas
+6oMuImdp5ZcFhWP0ESe6mG,Migos,us,anglo,0.6,solo
+6olE6TJLqED3rqDCT0FyPh,Nirvana,au,anglo,0.2857142857142857,solo
+6os4KQUfJoyJwjZ7y7Ec6Q,Camille Lellouche,fr,franco,1.0,todas
+6p46LxMXeRu3FRYN4tK5Lv,SativaMusic,fr,franco,0.8260869565217391,todas
+6pV5zH2LzjOUHaAvENdMMa,Neton Vega,mx,hispano,0.85,solo
+6q87j1F6EtUxjlvkJNknFp,THEODORT,fr,franco,1.0,solo
+6qFt3TjvxMt77YGsktWG8Z,Sofiane,fr,franco,0.8157894736842105,todas
+6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,au,global,0.19057519057519057,solo
 6qrqAYlS6lUj2BVXax7SZW,Mc Jacaré,br,luso,1.0,solo
 6qxpnaukVayrQn6ViNvu9I,BigXthaPlug,us,anglo,1.0,solo
+6raQ4bhFk0JuTS7i3nZBXr,Alan Arrieta,mx,hispano,1.0,todas
+6rqlONGmPuP2wJVSfliLBI,Peter Fox,de,germânico,1.0,todas
 6rs1KAoQnFalSqSU4LTh8g,back number,jp,japonês,1.0,solo
 6rygauyIMQJrXRC4e5rQJP,Davi Kneip,br,luso,1.0,todas
+6s22t5Y3prQHyaHWUN1R1C,AJR,de,germânico,1.0,todas
+6s5ubAp65wXoTZefE01RNR,Joost,de,germânico,1.0,todas
+6sCbFbEjbYepqswM1vWjjs,Zendaya,gb,anglo,0.7924528301886793,todas
+6sHCvZe1PHrOAuYlwTLNH4,Gus Dapperton,au,global,0.20754716981132076,todas
+6sgeY4vovk7KfxVwiu2V9E,Ceren,de,germânico,1.0,todas
 6sq1yF0OZEWA4xoXVKW1L9,Alejandro Fernández,mx,hispano,1.0,solo
-6t1gpxYbY8OlLA7D2RiikQ,Loud Luxury,au,anglo,0.6388888888888888,todas
-6twEaJ9RPRYiCmWapjG8xh,Tony Aguirre,mx,hispano,0.96,todas
+6t1gpxYbY8OlLA7D2RiikQ,Loud Luxury,ca,anglo,0.2761904761904762,todas
+6t7U7sYlVCtlMWzbecJcHd,Dhurata Dora,fr,franco,0.875,todas
+6t9tbRO9Lv6Oq6xtVwfdrn,Theresa Rex,gb,anglo,0.6,todas
+6tB8V9mp5QW1yla5SVorpL,Attachingboy,fr,franco,1.0,todas
+6tbjWDEIzxoDsBA1FuhfPW,Madonna,au,anglo,0.2153846153846154,todas
+6trIghKwHRUyxwvm66HLHH,Fousheé,fr,franco,1.0,todas
+6tw6EpC9RgmSRZiZg0n22t,Legião Urbana,br,luso,1.0,solo
+6twEaJ9RPRYiCmWapjG8xh,Tony Aguirre,mx,hispano,0.9696969696969697,todas
+6tzRZ39aZlNqlUzQlkuhDV,Pabllo Vittar,br,luso,0.3684210526315789,todas
+6uJ51uV5rYzu1MJkC4CceI,Interplanetary Criminal,gb,anglo,0.5294117647058824,todas
 6uYrXgVHctAJtIdSODcyLJ,Melim,br,luso,1.0,solo
+6ulkDr2Bnu7Qlbrs5iDOF1,MC Teteu,br,luso,1.0,todas
+6v2YWK8EvCyut0QtBcAypu,Old Jim,de,germânico,1.0,todas
 6v4PBIzRAGaLp43LVureQc,MC Du Black,br,luso,1.0,todas
-6vPXtLmNd3mW0dd1Rb9eQ9,Don Patricio,es,hispano,1.0,solo
+6vNAKgK5d74N1I0zTxRPDp,Tream,de,germânico,1.0,todas
 6vTqEFbTtTRJsuIpzZgjxi,Grupo Menos É Mais,br,luso,1.0,solo
-6vXTefBL93Dj5IqAWq6OTv,French Montana,au,anglo,0.7878787878787878,todas
+6vWDO969PvNqNYHIOW5v0m,Beyoncé,gb,global,0.1891891891891892,solo
+6vXTefBL93Dj5IqAWq6OTv,French Montana,ca,anglo,0.3184713375796178,todas
+6veh5zbFpm31XsPdjBgPER,BIA,de,germânico,1.0,todas
+6w3SkAHYPsQ1bxV7VDlG5y,Cazzu,mx,hispano,1.0,todas
+6w9ToX5slZ4uIdmD17hJ3c,Bryant Myers,mx,hispano,1.0,todas
+6wcKDqJRY3TzbcdRKo6EiE,Jone Quest,mx,hispano,1.0,todas
+6wduHvHCH5QZtWs6ULilDM,Henry Freitas,br,luso,1.0,todas
 6wxfx1yhyqjCPYwwxJktR2,King Gnu,jp,japonês,1.0,solo
-6xHUXzrfhFgnIv86EBR3Ml,kai,au,anglo,1.0,todas
+6wyE69vcYrfYvRaG5GNEkN,fire hair,br,luso,1.0,todas
+6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,ca,anglo,1.0,todas
+6xHUXzrfhFgnIv86EBR3Ml,kai,au,anglo,0.7142857142857143,todas
+6xeFne1rkxMhKSW3ipvkdV,Toploader,gb,anglo,0.8210526315789474,solo
 6xerOqBLmelL3xZNZkVbGl,João Gustavo e Murilo,br,luso,1.0,todas
+6xiT2jISLeWrj8udndxqW4,SugLawd Familiar,jp,japonês,1.0,todas
 6xlRSRMLgZbsSNd0BMobwy,DENNIS,br,luso,1.0,todas
-6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,au,anglo,0.7948717948717948,todas
+6xvpfMjWTougrRRtK7iikz,,au,anglo,0.25,todas
+6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,au,anglo,0.9130434782608695,solo
+6ysi6BecWzevAJ3HYaZNMS,Dj Kevin Oficial,br,luso,1.0,todas
+6ytOHdKh4xt4YvF7tz8Zcv,Kalash Criminel,fr,franco,1.0,todas
+6ywXRaHY7m2DJ0dd7CsLAB,Ramz,de,germânico,0.5,solo
+6zBax4hSAI1BJYgwF61EP5,Inéz,de,germânico,1.0,todas
 6zGPa2tLMJ5HQYUddZI8di,Caio Passos,br,luso,1.0,todas
+6zcWVbyNT0z94MBffsTJGP,KAMRAD,de,germânico,1.0,solo
+6zlR5ttMfMNmwf2lecU9Cc,Sam Fender,gb,anglo,0.9861111111111112,solo
+6zrOXBaNn0DqJeXxgC2eyH,Houari,fr,franco,1.0,todas
 706WzkJEacBrtkHKRpBU2q,Motohiro Hata,jp,japonês,1.0,solo
+70W0ftdGNlFkgrqu5O0QiI,One-T,fr,franco,1.0,todas
 70dP66OT4eq3soksc1syUs,DJ Sammer,br,luso,1.0,todas
 70jpkgy5oGT4YjaGFpCpk7,MC LUUKY,br,luso,1.0,todas
-70kkdajctXSbqSMJbQO424,Kacey Musgraves,au,anglo,0.5,todas
+70kkdajctXSbqSMJbQO424,Kacey Musgraves,au,anglo,0.2679738562091503,todas
 70l3FIdU2mVxemr3ahhgFs,MC JF,br,luso,1.0,todas
-716NhGYqD1jl2wI1Qkgq36,Bizarrap,es,hispano,0.6983240223463687,todas
-718COspgdWOnwOFpJHRZHS,Luke Combs,au,anglo,0.5968992248062015,solo
+711MCceyCBcFnzjGY4Q7Un,AC/DC,au,anglo,0.7213114754098361,solo
+712InoSIIy6pB9rCV2R5id,Bori,de,germânico,1.0,todas
+716NhGYqD1jl2wI1Qkgq36,Bizarrap,mx,hispano,0.6111111111111112,todas
+718COspgdWOnwOFpJHRZHS,Luke Combs,ca,anglo,0.38409703504043125,solo
+71KI7v1YqVU8cIFzBl47dh,もさを。,jp,japonês,1.0,solo
 71UIOLnsacxQHlU55TvfiH,Da-iCE,jp,japonês,1.0,solo
 71hQB5jxdNiHk5gzZRhicQ,Sonoko Inoue,jp,japonês,1.0,todas
+71jSVPQ6yskfyvWeiwvT5s,S1mba,gb,anglo,0.45161290322580644,todas
 71thoyIIWlcK2fL2dCSsCE,La Marisoul,mx,hispano,1.0,todas
-73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,us,anglo,0.5813953488372093,solo
-74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,au,global,0.36046511627906974,solo
-757aE44tKEUQEqRuT6GnEB,Roddy Ricch,us,global,0.359375,solo
+723b4uVlhopiahp6hgHGRj,Renard Barakissa,fr,franco,1.0,todas
+72HNCRVjK93J4ZnCY8rb1q,D.T.E,de,germânico,0.7333333333333333,todas
+72kqSqk124Vnl1wtT6q9Fh,Adassa,gb,anglo,0.25806451612903225,todas
+738wLrAtLtCtFOLvQBXOXp,Major Lazer,fr,franco,0.5714285714285714,todas
+73Msd8rknjBghcGQiZ1mgh,Tom Zanetti,gb,anglo,1.0,todas
+73jBynjsVtofjRpdpRAJGk,Dimitri Vegas & Like Mike,de,germânico,0.7222222222222222,todas
+73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,us,anglo,0.3488372093023256,solo
+744jIBAAvzMa5eVtUZDxR1,Liaze,de,germânico,1.0,todas
+748dDObrUoBetes0pLj788,Die Fantastischen Vier,de,germânico,1.0,todas
+74GrV01oFcjJdLHCF9MWhr,VAMERO,de,germânico,1.0,todas
+74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,gb,global,0.2119205298013245,solo
+757aE44tKEUQEqRuT6GnEB,Roddy Ricch,ca,global,0.18548387096774194,solo
+75VKfyoBlkmrJFDqo1o2VY,Fireboy DML,gb,anglo,0.4482758620689655,todas
 75i9GaW2MJUgt4BkdUnuUY,MC Ryan SP,br,luso,1.0,todas
-76Xa625geVw0Q7BdyxNjA2,ZAAC,br,luso,0.9583333333333334,todas
-77AiFEVeAVj2ORpC85QVJs,Steve Aoki,es,hispano,1.0,todas
-77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,us,anglo,0.45493562231759654,solo
-77iZVjeYoYSl5P0K9mIiUE,Haze,es,hispano,0.8266666666666667,todas
+75oAxYtjhDyLttgvGwQIvM,Aime Simone,fr,franco,1.0,todas
+768O5GliF0bqscyghggrbE,Polimá Westcoast,mx,hispano,1.0,todas
+76FeGERn9sCv607gktNjQh,Luccas & Rodrigo,br,luso,1.0,todas
+76Pl0epAMXVXJspaSuz8im,Freeze corleone,fr,franco,1.0,solo
+76Xa625geVw0Q7BdyxNjA2,ZAAC,br,luso,1.0,todas
+76dRoxKtDwYkgCQePok9cU,Miksu / Macloud,de,germânico,1.0,todas
+76yeOnINtQSXyoEHbkYmtY,Drew Love,ca,anglo,0.2631578947368421,todas
+77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,us,global,0.2014519056261343,solo
+77aLk6J8ofnVxa1eXK9jiU,Matisse,mx,hispano,1.0,todas
+77iZVjeYoYSl5P0K9mIiUE,Haze,mx,hispano,1.0,todas
+77kULmXAQ6vWer7IIHdGzI,Jordan Davis,ca,anglo,0.5,todas
+77lzQa2JgjlkP4uA5ptyo7,Mondello'G,de,germânico,1.0,todas
+77puYb4Nubacm3PAzkY1UQ,Julian Sommer,de,germânico,1.0,solo
 77qukKzmdI5BeMBR7WGUrN,Aaron Smith,mx,hispano,0.6571428571428571,todas
-77ziqFxp5gaInVrF2lj4ht,Sech,mx,hispano,0.5217391304347826,solo
-78F6Xkd46aMHkr4AP60TXY,Clarent,es,hispano,1.0,todas
+77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,us,anglo,0.41935483870967744,solo
+77ziqFxp5gaInVrF2lj4ht,Sech,mx,hispano,1.0,solo
+78Die3Gb8yaElTmGCa7m7N,Kore,fr,franco,1.0,todas
 78Y1NpgD0yMKoBetaYlUzS,Menor MC,br,luso,1.0,todas
+78iJ2FMbYAFY3djO4PbWZi,La Mano 1.9,fr,franco,1.0,todas
 78nr1pVnDR7qZH6QbVMYZf,Baco Exu do Blues,br,luso,1.0,todas
-78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,au,anglo,0.48,todas
-790FomKkXshlbRYZFtlgla,KAROL G,mx,hispano,0.47619047619047616,solo
+78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,au,anglo,0.22641509433962265,todas
+790FomKkXshlbRYZFtlgla,KAROL G,mx,hispano,0.7612612612612613,solo
+791x09Ix1mNc1hGhbD7IOW,Le classico organisé,fr,franco,1.0,todas
+79AyR6ATpj2LTPxfb6FX50,Lauren Spencer Smith,au,anglo,0.27586206896551724,solo
+79BK7vrzlQtgNnCHvZ7aYi,Marcos Villalobos,mx,hispano,1.0,todas
+79GiwayvvpyZVErpH6BLsY,,de,germânico,0.6666666666666666,todas
+79NDEw5QWlDC9KaIbogNhS,PlaqueBoyMax,au,anglo,0.5862068965517241,todas
+7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,ca,anglo,0.38461538461538464,todas
+7ACEUD7UsmmXrnj4OLt8f9,twocolors,de,germânico,0.7391304347826086,solo
+7ADRm1oT7VmhRRZrZqycV6,KASIMIR1441,de,germânico,1.0,todas
+7AUc6z9aVJftqLkiWdQ1ew,GEMN,jp,japonês,1.0,todas
+7AUgYiThuW80zSOwY7Ub2g,El Mimoso Luis Antonio López,mx,hispano,1.0,todas
+7BT8x82CjBZUjJy6xj1G3O,MC Pipokinha,br,luso,1.0,todas
 7C7NNCiIFavKH6oDarjp0v,JS o Mão de Ouro,br,luso,1.0,todas
 7CK5FIA9viaFGVnDnfbuw8,Charles New,br,luso,1.0,todas
-7CajNmpbOovFoOoasH2HaY,Calvin Harris,au,global,0.30612244897959184,todas
+7CUFPNi1TU8RowpnFRSsZV,Niska,fr,franco,1.0,solo
+7CW7QdOgRStOg7JktRuZ3E,Imen Es,fr,franco,1.0,todas
+7CajNmpbOovFoOoasH2HaY,Calvin Harris,gb,global,0.2668112798264642,todas
 7Ceg1mJmu4lAzuhQU9hQFJ,Knust,br,luso,1.0,todas
-7D62OQfwvslnxJn9DkZm2F,Pole.,es,hispano,1.0,todas
-7EQ0qTo7fWT7DPxmxtSYEc,Bastille,au,global,0.2857142857142857,todas
-7Ez6lTtSMjMf2YSYpukP1I,Dasha,au,anglo,0.6444444444444445,solo
-7FNnA9vBm6EKceENgCGRMb,Anitta,br,luso,0.8,solo
-7Gi6gjaWy3DxyilpF1a8Is,Junior H,mx,hispano,0.9747191011235955,solo
-7GlBOeep6PqTfFi59PTUUN,Chappell Roan,us,anglo,0.52,solo
+7CvTknweLr9feJtRGrpDBy,FloyyMenor,fr,franco,0.2571428571428571,todas
+7DMveApC7UnC2NPfPvlHSU,Cheat Codes,gb,anglo,0.6,todas
+7DUTsWY3RBd64vh8UtgtYA,Lacrim,fr,franco,1.0,todas
+7Dz9goFmVZZqvJxZoKg7pF,Danelle Sandoval,mx,hispano,1.0,todas
+7EEiVZvj6RCEtVX2F2pyxu,Slim Jxmmi,ca,anglo,0.4666666666666667,todas
+7EQ0qTo7fWT7DPxmxtSYEc,Bastille,gb,anglo,1.0,solo
+7Ez6lTtSMjMf2YSYpukP1I,Dasha,ca,anglo,0.2605042016806723,solo
+7FNnA9vBm6EKceENgCGRMb,Anitta,br,luso,0.576271186440678,solo
+7FXX45sHqoQoCwqtG0ZV8H,Solda,fr,franco,1.0,todas
+7FqkRutc4zWMrnEAUv3Xwd,Hardy Caprio,gb,anglo,1.0,todas
+7GDrXlpRrdG29o4n0pNR5D,Bru-C,gb,anglo,1.0,todas
+7GZJ2POiwPZoW7UVYjNj8i,Glockenbach,de,germânico,1.0,todas
+7Gi6gjaWy3DxyilpF1a8Is,Junior H,mx,hispano,0.9784688995215312,solo
+7GlBOeep6PqTfFi59PTUUN,Chappell Roan,gb,anglo,0.2656641604010025,solo
 7HKv46ONX5fJFCSygtx9R0,Chris Hart,jp,japonês,1.0,solo
+7HV2RI2qNug4EcQqLbCAKS,Keala Settle,gb,anglo,0.6811594202898551,todas
+7HkdQ0gt53LP4zmHsL0nap,Ella Mai,us,anglo,0.5,solo
 7HoPy2YmahCCaYaFSFq497,Yago Oproprio,br,luso,1.0,todas
 7HwzlRPa9Ad0I8rK0FPzzK,SEKAI NO OWARI,jp,japonês,1.0,solo
+7HykrpnKhu6QMb2jh6SMQQ,Kaká e Pedrinho,br,luso,1.0,todas
+7I2JG3CcPawkeQPE7uypHJ,HBz,de,germânico,1.0,solo
 7I4OIWw3Zm4lUmt2QHnz30,Toledo,br,luso,1.0,todas
+7IlBcKrGUBJ0NKdnbDde89,Sant,br,luso,1.0,todas
+7IlRNXHjoOCgEAWN5qYksg,Aya Nakamura,fr,franco,0.9444444444444444,solo
 7Iojib0lifaGJnw2oip1pu,Veiga no Beat,br,luso,1.0,todas
+7J0JxtOPMKWufOraoIqjiH,JSX,fr,franco,1.0,todas
+7JBaynR7JFeniONqbnn1U4,Andrew Choi,au,global,0.21052631578947367,todas
+7JMwO9tyFPMsb2KnsJqZlp,B Young,gb,anglo,1.0,solo
 7Jb6GR4PIxHSkDJK8MWuVg,Bianca,br,luso,1.0,todas
 7JthQ6zwNzfxRfIEjp6wUs,HIRAIDAI,jp,japonês,1.0,solo
+7KAGJwWQQui8b0uqwXRkSr,Gestört aber GeiL,de,germânico,1.0,todas
+7KMqksf0UMdyA0UCf4R3ux,James Blunt,de,germânico,1.0,todas
+7KSbqXHO0xzNQhzaIWILIo,Masanori Otoda,jp,japonês,1.0,solo
+7KVJCU4z5L4EUHILL8aMxR,Léo Santana,br,luso,1.0,solo
+7LTiBdByoaUd329wCpmMcM,MAISONdes,jp,japonês,1.0,todas
+7LVC96BEVGugTAp38AajV6,Lithe,de,germânico,0.42857142857142855,solo
 7Lmrb6KcIzfkmgbtokjsAL,Mc Don Juan,br,luso,1.0,todas
-7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,us,anglo,0.8172043010752689,solo
-7MP4jhYmFEgb0AtiOkw55s,Play-N-Skillz,es,hispano,1.0,todas
+7LmtogB01302Utf3C3R4GT,GAULOIS,fr,franco,1.0,todas
+7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,gb,anglo,0.47619047619047616,solo
+7M7NxBEoOEg35yqUyLRTgT,Joris Sava,de,germânico,1.0,todas
+7M83IzPXGA4ClZJ5reW2Ro,Douglas & Vinicius,br,luso,1.0,todas
 7MiDcPa6UiV3In7lIM71IN,Gusttavo Lima,br,luso,1.0,solo
-7a0XAaPaK2aDSqa8p3QnC7,Beéle,es,hispano,0.76,solo
-7bXgB6jMjp9ATFy66eO08Z,Chris Brown,us,anglo,0.6923076923076923,todas
-7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,au,anglo,0.39759036144578314,todas
-7c53ZFyajVMTo08HmvoB6b,zzoilo,es,hispano,0.7166666666666667,todas
+7a35Zdc78bDXJv2vYf5hSO,Beendo Z,fr,franco,1.0,solo
+7aApSzHbritAFVbXvoGx6P,Jeez Suave,fr,franco,1.0,todas
+7arK8QUX7X61NIkChn9no2,Horacio Palencia,mx,hispano,1.0,todas
+7arQA31aZVS8yS6zUveWzb,CJ,de,global,0.19642857142857142,solo
+7b79bQFziJFedJb75k6hFt,Tion Wayne,gb,anglo,0.7821782178217822,todas
+7bH17jyjkwMPMh9AS8EH0u,,de,germânico,1.0,todas
+7bXgB6jMjp9ATFy66eO08Z,Chris Brown,gb,global,0.1891891891891892,solo
+7bzKgx8PQw6TCVDSD43pc1,,de,germânico,1.0,todas
+7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,us,global,0.24064171122994651,todas
+7c53ZFyajVMTo08HmvoB6b,zzoilo,mx,hispano,1.0,todas
 7cmuxPnXRJxwuYDHfbD8Eu,Zé Felipe,br,luso,1.0,solo
-7dGJo4pcD2V6oG8kP0tJRR,Eminem,au,anglo,0.8380952380952381,solo
-7dlqUnjoF2U2DkNDMhcgG4,Hilltop Hoods,au,anglo,1.0,todas
-7eLcDZDYHXZCebtQmVFL25,Aitana,es,hispano,1.0,solo
+7ctyyNnO9O2dDD8bHjkCAh,ツミキ,jp,japonês,1.0,todas
+7d3WFRME3vBY2cgoP38RDo,Lil Skies,us,anglo,0.6216216216216216,solo
+7dGJo4pcD2V6oG8kP0tJRR,Eminem,au,anglo,0.24924924924924924,solo
+7dlqUnjoF2U2DkNDMhcgG4,Hilltop Hoods,au,anglo,1.0,solo
+7e52Ytzjj1q71DUj2cSlch,Sarah Connor,de,germânico,1.0,solo
+7eGuHhstHEA8ipdVjsimYR,Oimara,de,germânico,1.0,solo
+7eLcDZDYHXZCebtQmVFL25,Aitana,mx,hispano,1.0,todas
 7ecRwFks8F2vYad383BkKf,Rennan da Penha,br,luso,1.0,todas
-7f5Zgnp2spUuuzKplmRkt7,Lost Frequencies,au,anglo,0.7948717948717948,todas
+7f02bxFbZIOVdSbYRNYvLT,Jerry Di,mx,hispano,1.0,solo
+7f0OLhGgBMX9fUjm1dcPip,Alice Merton,gb,anglo,1.0,todas
+7f5Zgnp2spUuuzKplmRkt7,Lost Frequencies,de,germânico,0.3373493975903614,todas
 7fmXV2O48buswss04YetaN,HANA,jp,japonês,1.0,solo
+7fqDRFkiuwzFDde1K0taVs,Shakka,gb,anglo,1.0,todas
 7gHzR22tDNSWGS4HkvvPgw,THE BOX,br,luso,1.0,todas
+7gIeuq2qBfYhO1budb6TSQ,DG e Batidão Stronda,br,luso,1.0,todas
 7gJN8W0589FisSYJS17K54,Filipe Ret,br,luso,1.0,todas
-7gZfnEnfiaHzxARJ2LeXrf,6ix9ine,us,anglo,0.4918032786885246,todas
+7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,au,global,0.25668449197860965,solo
+7gRg6C2qgQ1F01k3sgyEVt,SPYAIR,jp,japonês,1.0,solo
+7gU9VyFRN3JWPJ5oHOil60,Tayc,fr,franco,1.0,solo
+7gZfnEnfiaHzxARJ2LeXrf,6ix9ine,ca,global,0.25757575757575757,todas
 7gZu6kPnY9enEi5FvgTO4F,Felipe e Rodrigo,br,luso,1.0,solo
-7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,br,luso,1.0,todas
+7hDt3OE2ubsKzO9rMYPXox,Emmanuel Cortes,mx,hispano,0.96875,solo
+7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,br,global,0.21153846153846154,todas
+7hLjkyL9Pz9xtQNahzJZki,,br,luso,1.0,todas
+7hQmAXAzWI6D350VTgkKTG,Arash,de,germânico,0.725,todas
+7hiUUv81g2TwR7AyoRduYJ,Rayane & Rafaela,br,luso,1.0,todas
+7hssUdpvtY5oiARaUDgFZ3,Ina Wroldsen,br,luso,1.0,todas
 7htxZTR76qcXYJylEmkLiJ,MC Braz,br,luso,1.0,todas
-7i9j813KFoSBMldGqlh2Z1,Riton,au,anglo,0.5517241379310345,todas
-7iK8PXO48WeuP03g8YR51W,Myke Towers,es,hispano,0.7454545454545455,solo
-7jAs1uPnpfNmT6e5qtEPxq,ATL Jacob,mx,hispano,0.5070422535211268,todas
+7i9j813KFoSBMldGqlh2Z1,Riton,de,germânico,0.2767857142857143,todas
+7iK8PXO48WeuP03g8YR51W,Myke Towers,mx,hispano,0.8536585365853658,solo
+7iTLGcddv1bOPirdYJjKVy,,br,global,0.20689655172413793,todas
+7iWcRnQMinCoV2u5ICgsW0,Udo Lindenberg,de,germânico,1.0,todas
+7iXYHQPYLQSz3b3hbPJpk3,Towy,mx,hispano,1.0,todas
+7iXdTXVgCMV5v1c8DFAUoz,Siaka,fr,franco,1.0,todas
+7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,ca,anglo,0.4666666666666667,todas
+7j6DKwmjbxvpQO8h914uEz,Ryan Castro,mx,hispano,0.95,todas
+7jAs1uPnpfNmT6e5qtEPxq,ATL Jacob,mx,hispano,0.9473684210526315,todas
 7jCHrVGjeHUYP2pHv8FOJ3,wacci,jp,japonês,1.0,solo
 7jGn8qhLb48n7yMMNfAoHv,Awesome City Club,jp,japonês,1.0,solo
-7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,au,anglo,0.4146341463414634,solo
-7jZM5w05mGhw6wTB1okhD9,ATB,au,anglo,0.6666666666666666,todas
+7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,ca,global,0.16666666666666666,solo
+7jZM5w05mGhw6wTB1okhD9,ATB,de,germânico,0.3125,todas
+7jkdo74SDT1PYu6Ksbusxa,Edin,de,germânico,1.0,todas
+7jy3rLJdDQY21OgRLCZ9sD,Foo Fighters,us,anglo,0.3387096774193548,solo
 7k73EtZwoPs516ZxE72KsO,ONE OK ROCK,jp,japonês,1.0,solo
+7k9T7lZlHjRAM1bb0r9Rm3,Wiley,gb,anglo,1.0,todas
 7kOrrFIBIBc8uCu2zbxbLv,yama,jp,japonês,1.0,solo
-7kXCcNRLEnblbTAppPraBp,Milly,es,hispano,0.5333333333333333,todas
+7kaoO6sl3TKJ6p31PxqubZ,JEY BROWNIE,fr,franco,1.0,todas
+7keGfmQR4X5w0two1xKZ7d,Kungs,fr,franco,0.8125,solo
+7kjSuFGKhLm8b5qXoMhRkJ,Libianca,gb,anglo,0.2727272727272727,solo
+7kqNP68mp3gmojwNasfhiq,life song,br,luso,1.0,todas
+7kyIBL1EYouLqC8vw7IOui,L'Algérino,fr,franco,1.0,todas
+7l8ESevPECrqChwl3Bf7ov,Lou Garcia,br,luso,1.0,todas
+7lNFzeAXmSIKexINNgO6bu,YUZU,jp,japonês,1.0,solo
+7lXN2zsTNeVB1MM7rIrWnI,LOOJAN,mx,hispano,1.0,todas
+7lbSsjYACZHn1MSDXPxNF2,Hikaru Utada,jp,japonês,1.0,solo
 7lc98VPDdogFv3eLfCX7sq,Mc Tato,br,luso,1.0,todas
-7lilUV0c5xjhnakgpbmpdi,Trapical Minds,es,hispano,0.6818181818181818,todas
-7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,es,hispano,0.7402597402597403,solo
-7mcJN2bWqCv7jvykgHp4KN,La Nueva Escuela,es,hispano,1.0,todas
+7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,fr,franco,0.4146341463414634,solo
+7m0BsF0t3K9WQFgKoPejfk,ArrDee,gb,anglo,0.8181818181818182,solo
+7mW7Tv7NvywKKXqafZo0Lc,KPop Demon Hunters Cast,ca,global,0.1833810888252149,todas
 7me0S5Z40qVWj3gzyK8aC3,Mc Livinho,br,luso,1.0,todas
-7mnSf7ctK2nPCEI781P1wU,MC Menor JP,es,hispano,1.0,todas
 7mvhRvEAHiCTQHUnH7fgnv,Tatsuya Kitani,jp,japonês,1.0,solo
-7n2Ycct7Beij7Dj7meI4X0,TWICE,jp,japonês,1.0,solo
-7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,jp,japonês,0.6153846153846154,solo
-7o2ZQYM7nTsaVdkXY38UAA,,au,anglo,0.5238095238095238,todas
-7o95ZoZt5ZYn31e9z1Hc0a,Natasha Bedingfield,au,anglo,0.6415094339622641,solo
-7ohlPA8dRBtCf92zaZCaaB,Crowded House,au,anglo,0.9642857142857143,solo
-7p3ipw2PvGG0X2x6zL1DLO,,es,hispano,1.0,todas
-7pbDxGE6nQSZVfiFdq9lOL,,au,anglo,1.0,todas
-7qAoXV4U0qDxQAUqhszjAA,Manuel Carrasco,es,hispano,1.0,solo
+7n2Ycct7Beij7Dj7meI4X0,TWICE,jp,japonês,0.986784140969163,solo
+7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,au,global,0.3283582089552239,solo
+7nDsS0l5ZAzMedVRKPP8F1,Ella Henderson,gb,anglo,0.6615384615384615,todas
+7nqlScm2smydSRl13eaP8E,Nea,fr,franco,1.0,solo
+7o2ZQYM7nTsaVdkXY38UAA,,au,anglo,0.275,todas
+7o95ZoZt5ZYn31e9z1Hc0a,Natasha Bedingfield,de,germânico,0.2553191489361702,solo
+7oBk8Z6Z8q5K31D4IXe5k6,Henrique & Juliano,br,luso,1.0,todas
+7oQ6zxSp4eQjvVkk9rGIDV,Marcy,jp,japonês,1.0,solo
+7oWrEQO1d3klp0Qrfh7a5h,badmómzjay,de,germânico,1.0,todas
+7ohlPA8dRBtCf92zaZCaaB,Crowded House,au,anglo,0.7297297297297297,solo
+7oxHYIVHNg4JQdKnUe1HiQ,Damn Yury,de,germânico,1.0,todas
+7pESOE4dEq8Yk4OKlJa3pS,,mx,hispano,1.0,todas
+7pRuKj6sGMBmDmmem653fg,Shaydee's,fr,franco,1.0,todas
+7pbDxGE6nQSZVfiFdq9lOL,,au,anglo,0.5,todas
+7phpDFUX97M0DTGIcjXKRk,Lord ADL,br,luso,1.0,todas
 7qPLO2XOUaRrRxkvLZ3AEK,Zeeba,br,luso,1.0,todas
-7qmpXeNz2ojlMl2EEfkeLs,Nicky Youre,au,anglo,0.6875,todas
+7qXzy6c5RWT0XlVQcOBIDG,Mark Forster,de,germânico,1.0,solo
+7qmpXeNz2ojlMl2EEfkeLs,Nicky Youre,au,anglo,0.3235294117647059,todas
+7r3FkquAY1tv1roZs3unJ1,Ryota Fujimaki,jp,japonês,1.0,solo
+7rBed6Ya7Hwa2fXbh5btJE,LACAZETTE,de,germânico,1.0,solo
 7rXMvXRnWHaSwnVvPeUUfw,Gloria Groove,br,luso,1.0,solo
-7rkW85dBwwrJtlHRDkJDAC,NAV,au,anglo,0.39622641509433965,todas
+7rkW85dBwwrJtlHRDkJDAC,NAV,ca,global,0.296969696969697,todas
+7rz6ZZErn5YFDteXKhyf3g,disiz,fr,franco,1.0,todas
 7saGN6a32YNpiMPo2SWJxE,Bvga Beatz,br,luso,1.0,todas
+7sf1F0EqyDwfD9IlxBo4vB,DJ DN do Dick,br,luso,1.0,todas
+7skt0YXuBGQZr4LGkyTShp,ÉaBest,br,luso,1.0,todas
 7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,mx,hispano,1.0,todas
-7tYKF4w9nC0nq9CsPZTHyP,SZA,us,anglo,0.5387755102040817,solo
+7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,gb,anglo,0.5161290322580645,solo
+7tYKF4w9nC0nq9CsPZTHyP,SZA,us,anglo,0.3131991051454139,solo
+7tojcuXcZ7eBlQjbAc65Ee,MC Caverinha,br,luso,1.0,todas
+7tsmrNpbLkT4xL1nzRLpCu,Joker Beats,br,luso,1.0,todas
+7tzELpzPjTq26pa5FT9ykz,Yung Yury,de,germânico,1.0,todas
+7u4ayw4QFEsolPxZgnPAMT,Jonasu,gb,anglo,1.0,solo
+7u6LfVyYpEzMpHLL7jTyvU,Dwele,us,anglo,0.46,todas
 7u9115faVQY8xNrCXqY0zx,dj sv,br,luso,1.0,todas
-7uMh23xWiuR7zsNkuNcm2G,MNEK,au,anglo,0.52,todas
+7uK2QScoOUkqq8tvtvBIL7,Endzone,de,germânico,1.0,todas
+7uMDnSZyUYNBPLhPMNuaM2,Kenya Grace,au,global,0.20634920634920634,solo
+7uMh23xWiuR7zsNkuNcm2G,MNEK,gb,global,0.25333333333333335,todas
 7uQ1D2NNHs5cUL3CLKRbia,LAGOS,mx,hispano,1.0,todas
-7uaIm6Pw7xplS8Dy06V6pT,Trevor Daniel,us,global,0.29310344827586204,solo
+7uaIm6Pw7xplS8Dy06V6pT,Trevor Daniel,ca,global,0.17142857142857143,solo
 7ujbuq6hAjLSf7cGr6au0b,MC Tairon,br,luso,1.0,todas
-7vXDAI8JwjW531ouMGbfcp,TINI,es,hispano,0.7727272727272727,solo
-7waNCUQ1Ne7OoNHgqpgMZ7,Luis Figueroa,mx,hispano,0.6956521739130435,todas
-7wlFDEWiM5OoIAt8RSli8b,YoungBoy Never Broke Again,us,anglo,0.6857142857142857,todas
-7xtnpHS34mLlxGZDVUBHSU,La Húngara,es,hispano,0.8846153846153846,todas
+7unNuvk3OEqGmegHTaxRA9,JUDY AND MARY,jp,japonês,1.0,solo
+7vXDAI8JwjW531ouMGbfcp,TINI,mx,hispano,0.8823529411764706,todas
+7vk5e3vY1uw9plTHJAMwjN,,fr,franco,1.0,todas
+7wLAecYIgstxcjqe6JwT3w,DJ JB Mix,br,luso,1.0,todas
+7wRBCd3OJhFcjFn5HDGrPa,Cyril aka Aaron Hilmer,de,germânico,1.0,todas
+7waNCUQ1Ne7OoNHgqpgMZ7,Luis Figueroa,mx,hispano,1.0,todas
+7wjeXCtRND2ZdKfMJFu6JC,Louane,fr,franco,1.0,solo
+7wlFDEWiM5OoIAt8RSli8b,YoungBoy Never Broke Again,us,anglo,0.34285714285714286,todas
+7x3eTVPlBiPjXHn3qotY86,KeBlack,fr,franco,1.0,solo
+7xBGi7Eign0fX7jGQj5KlJ,GRACEY,gb,anglo,1.0,todas
+7xNYY1Zkb1vks5m9ATlJok,Naza,fr,franco,1.0,solo
 7ySZCEP4HFGckYYPK5rqFI,Melody,br,luso,1.0,todas
-7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,au,anglo,0.47058823529411764,todas
+7z2avKuuiMAT4XZJFv8Rvh,Tom Walker,gb,anglo,0.5833333333333334,solo
+7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,us,anglo,0.5813953488372093,solo
+7zAAwgV5Wqmvpb4GzvlRkP,Jazzy,gb,anglo,1.0,solo
+7zIRO89G0FBAQtGMHO1Wa0,João Bosco & Vinícius,br,luso,1.0,todas
+7zxFc10N9BP2lg73b8cwZ0,Salve Malak,br,luso,1.0,todas
