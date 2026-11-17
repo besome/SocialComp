@@ -161,13 +161,30 @@ def chave_musica(title, artists):
     return f"{t}::{a}"
 
 
+# Alucinações do NLLB: em trechos curtos ("Ih, oh!") ele às vezes inventa frases de regulamento da União Europeia
+# ("The Commission shall adopt delegated acts..."). São linhas soltas no meio de traduções boas (~140 linhas em ~75
+# letras, quase todas do Brasil); a linha inteira sai.
+_ALUCINACAO = re.compile(r"\b(?:this Regulation|Commission shall|Official Journal|Member States?\b|delegated acts|"
+                         r"implementing acts|European Parliament|competent authority|following definitions shall apply|"
+                         r"Standing Committee)", re.I)
+
+
+def limpa_traducao(t):
+    """limpa_letra + remoção das linhas alucinadas pelo tradutor."""
+    if not isinstance(t, str) or not t.strip():
+        return np.nan
+    t = "\n".join(l for l in t.split("\n") if not _ALUCINACAO.search(l))
+    t = limpa_letra(t)
+    return t if t else np.nan
+
+
 def carrega_letras(arq=None):
     """finalData.csv com letra limpa e chave. Uma linha por (país, ano, música)."""
     arq = Path(arq) if arq else RAIZ / "finalData.csv"
     d = pd.read_csv(arq)
     d["letra_limpa"] = d["letra"].map(limpa_letra)
     if "letra_en" in d.columns:
-        d["letra_en_limpa"] = d["letra_en"].map(lambda t: limpa_letra(t) if isinstance(t, str) and t.strip() else np.nan)
+        d["letra_en_limpa"] = d["letra_en"].map(limpa_traducao)
     d["chave"] = [chave_musica(t, a) for t, a in zip(d["title"], d["artists"])]
     return d
 
