@@ -5,4 +5,4 @@ H1 forma,Brasil lingua_local: sobe; Brasil domestico: sobe; Alemanha lingua_loca
 H1 robustez,5 de 15 variantes com inclinação > 0; 2 com convergência
 H2 (traduzida): famílias diferentes,β = -0.1823 (p_QAP = 0.001); interação com o tempo β = -0.01124 (p_QAP = 0.000)
 H2 (original): famílias diferentes,β = -0.2130 (p_QAP = 0.000); interação com o tempo β = -0.01267 (p_QAP = 0.000)
-H3,"η² estilo − tema = +0.00291/ano [-0.00126, +0.00521]"
+H3,"η² estilo − tema = +0.00209/ano [-0.00132, +0.00402]"
